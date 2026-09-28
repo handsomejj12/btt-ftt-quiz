@@ -5,7 +5,8 @@ Practice app for the Singapore driving theory tests: 800 questions from 6 BTT an
 ## To study
 
 - **Easiest:** open `dist/theory-test-drill.html` in any browser. It is one file with everything inside, so it works offline and can be copied to a phone.
-- **Online:** https://claude.ai/artifact/8zDggKiNu35nXNCDHHxN2d (private, needs your Claude login).
+- **Website:** https://handsomejj12.github.io/btt-ftt-quiz/ (GitHub Pages, updates on every push to `main`).
+- **Claude link:** https://claude.ai/artifact/8zDggKiNu35nXNCDHHxN2d (private, needs your Claude login).
 - **With links to the original screenshots:** open `index.html`. It needs the `img/` folder next to it.
 
 Practice mode shows the answer after each question. Mock test is timed (50 minutes for 50 questions) and marked at the end. Pass mark is 45 of 50.

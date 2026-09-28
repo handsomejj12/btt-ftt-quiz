@@ -1,0 +1,262 @@
+[
+  {
+    "id": "FTT_E_P4_Q21",
+    "label": 21,
+    "question": "Braking is more effective when you depress the brake pedal",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "With the gear engaged."},
+      {"letter": "B", "type": "text", "text": "With the clutch depressed."},
+      {"letter": "C", "type": "text", "text": "With the gear lever in 'Neutral'."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q22",
+    "label": 22,
+    "question": "A lower gear has",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "More power and less speed than a higher gear."},
+      {"letter": "B", "type": "text", "text": "More speed and less power than a higher gear."},
+      {"letter": "C", "type": "text", "text": "Less power and less speed than a higher gear."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q23",
+    "label": 23,
+    "question": "After engaging the first gear and the clutch pedal is released to the 'biting point', there is",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "A slight drop in the engine revolution."},
+      {"letter": "B", "type": "text", "text": "A slight increase in the engine revolution."},
+      {"letter": "C", "type": "text", "text": "No change in the engine revolution."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q24",
+    "label": 24,
+    "question": "At a sharp bend you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Not overtake other vehicles."},
+      {"letter": "B", "type": "text", "text": "Overtake, if the speed of the vehicle in front is slow."},
+      {"letter": "C", "type": "text", "text": "Follow closely behind the front car."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q25",
+    "label": 25,
+    "question": "After parking your car on an upward slope, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Engage the 1st gear."},
+      {"letter": "B", "type": "text", "text": "Engage the reverse gear."},
+      {"letter": "C", "type": "text", "text": "Shift the gear to neutral."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q26",
+    "label": 26,
+    "question": "When two vehicles moving in opposite directions meet on a slope where the road is narrow, which vehicle should give way?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "The vehicle that is going up slope."},
+      {"letter": "B", "type": "text", "text": "The vehicle that is going down slope."},
+      {"letter": "C", "type": "text", "text": "The smaller vehicle."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q27",
+    "label": 27,
+    "question": "If a motorcyclist is trying to overtake you, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive faster to prevent the rider from overtaking you."},
+      {"letter": "B", "type": "text", "text": "Slow down and assist the rider to overtaking safely."},
+      {"letter": "C", "type": "text", "text": "Signal the driver to overtake on the left."}
+    ],
+    "marked": "B",
+    "notes": "Source grammar in option B: 'assist the rider to overtaking safely' (kept as printed). Option C says 'driver' although the question is about a motorcyclist."
+  },
+  {
+    "id": "FTT_E_P4_Q28",
+    "label": 28,
+    "question": "Before reversing, you should check",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Behind."},
+      {"letter": "B", "type": "text", "text": "All round."},
+      {"letter": "C", "type": "text", "text": "Ahead and behind."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q29",
+    "label": 29,
+    "question": "Before you reverse, you must make sure that there are no",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Other vehicles behind you."},
+      {"letter": "B", "type": "text", "text": "Children, pedestrian and obstruction in the blind area."},
+      {"letter": "C", "type": "text", "text": "Both answers above."}
+    ],
+    "marked": "C",
+    "notes": "Source grammar in option B: 'pedestrian and obstruction' singular (kept as printed)."
+  },
+  {
+    "id": "FTT_E_P4_Q30",
+    "label": 30,
+    "question": "On rainy day, less tread on your tyres will",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Increase your braking distance."},
+      {"letter": "B", "type": "text", "text": "Decrease your braking distance."},
+      {"letter": "C", "type": "text", "text": "Not affect your braking distance."}
+    ],
+    "marked": "A",
+    "notes": "Source grammar in question: 'On rainy day' (missing 'a'), kept as printed."
+  },
+  {
+    "id": "FTT_E_P4_Q31",
+    "label": 31,
+    "question": "Under inflated tyres will make the steering feel",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Light."},
+      {"letter": "B", "type": "text", "text": "Heavy."},
+      {"letter": "C", "type": "text", "text": "Normal."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q32",
+    "label": 32,
+    "question": "If you increase your speed when going round a bend, it will be",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Difficult for you to keep your intended path."},
+      {"letter": "B", "type": "text", "text": "Safer for you."},
+      {"letter": "C", "type": "text", "text": "Easier for you to control your car."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q33",
+    "label": 33,
+    "question": "The stopping distance on a wet road is _____ longer than on a dry road.",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "4 times"},
+      {"letter": "B", "type": "text", "text": "3 times"},
+      {"letter": "C", "type": "text", "text": "2 times"}
+    ],
+    "marked": "C",
+    "notes": "Question contains a fill-in blank drawn as an underline; exact underscore count approximated as five. Options have no final full stop."
+  },
+  {
+    "id": "FTT_E_P4_Q34",
+    "label": 34,
+    "question": "In an emergency stop, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Apply only the brakes."},
+      {"letter": "B", "type": "text", "text": "Apply the brakes and clutch together."},
+      {"letter": "C", "type": "text", "text": "Apply the clutch first and then the brakes."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q35",
+    "label": 35,
+    "question": "On a sharp bend at night, to avoid dazzling oncoming traffic, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Switch off your lights."},
+      {"letter": "B", "type": "text", "text": "Dip your headlights."},
+      {"letter": "C", "type": "text", "text": "Swith on high beam."}
+    ],
+    "marked": "B",
+    "notes": "Source typo in option C: 'Swith' (should be 'Switch'), kept as printed."
+  },
+  {
+    "id": "FTT_E_P4_Q36",
+    "label": 36,
+    "question": "The purpose of using dipped headlights whilst driving is to",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "To save the battery's electrical energy."},
+      {"letter": "B", "type": "text", "text": "To light up the road immediately in front of you."},
+      {"letter": "C", "type": "text", "text": "To avoid dazzling drivers of oncoming vehicles."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q37",
+    "label": 37,
+    "question": "When following a car driven by an elderly driver, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Flash your lights and overtake."},
+      {"letter": "B", "type": "text", "text": "Be aware that the driver's reactions may not be as fast as yours."},
+      {"letter": "C", "type": "text", "text": "Expect the driver to drive badly."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q38",
+    "label": 38,
+    "question": "When the traffic light turns green at a junction, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Depress the accelerator hard and move off quickly."},
+      {"letter": "B", "type": "text", "text": "Check traffic from right and left before moving off."},
+      {"letter": "C", "type": "text", "text": "Only move off when other vehicles move."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q39",
+    "label": 39,
+    "question": "When you see a vehicle slowing down at a pedestrian crossing, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Overtake the slow moving vehicle."},
+      {"letter": "B", "type": "text", "text": "Maintain your normal speed."},
+      {"letter": "C", "type": "text", "text": "Slow down and be ready to stop."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q40",
+    "label": 40,
+    "question": "Before overtaking a large vehicle you should keep a longer distance. The reason is",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "To offer others a gap if they wanted to overtake you."},
+      {"letter": "B", "type": "text", "text": "To get the best view of the road ahead."},
+      {"letter": "C", "type": "text", "text": "To leave a gap in case the vehicle stops abruptly and rolls back."}
+    ],
+    "marked": "B",
+    "notes": ""
+  }
+]

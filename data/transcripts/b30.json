@@ -1,0 +1,122 @@
+[
+  {"id": "FTT_E_P5_Q31", "label": 31, "question": "Vehicle tyres that have treads less than ________ in depth should be replaced.", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "1.8 mm"},
+     {"letter": "B", "type": "text", "text": "1.6 mm"},
+     {"letter": "C", "type": "text", "text": "2.0 mm"}],
+   "marked": "B", "notes": "Question contains a drawn blank line, transcribed as underscores."},
+  {"id": "FTT_E_P5_Q32", "label": 32, "question": "When the speed increases while driving round a bend, the push of the centrifugal force will", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "Be greater."},
+     {"letter": "B", "type": "text", "text": "Be lesser."},
+     {"letter": "C", "type": "text", "text": "Remain unchanged."}],
+   "marked": "A", "notes": ""},
+  {"id": "FTT_E_P5_Q33", "label": 33, "question": "To avoid skidding on a wet road when stopping, you should always", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "Apply intermittent (on/off) braking technique."},
+     {"letter": "B", "type": "text", "text": "Depress the clutch pedal followed by the brake pedal."},
+     {"letter": "C", "type": "text", "text": "Depress the brake pedal and apply the handbrake together."}],
+   "marked": "A", "notes": ""},
+  {"id": "FTT_E_P5_Q34", "label": 34, "question": "If the frictional force is reduced on wet road, the stopping distance will be", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "The same."},
+     {"letter": "B", "type": "text", "text": "Longer."},
+     {"letter": "C", "type": "text", "text": "Shorter."}],
+   "marked": "B", "notes": ""},
+  {"id": "FTT_E_P5_Q35", "label": 35, "question": "The correct way to stop a car is to depress", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "The clutch pedal first followed by the brake pedal."},
+     {"letter": "B", "type": "text", "text": "The brake pedal first followed by the clutch pedal."},
+     {"letter": "C", "type": "text", "text": "Both the clutch and brake pedals at the same time."}],
+   "marked": "B", "notes": ""},
+  {"id": "FTT_E_P5_Q36", "label": 36, "question": "When blinded by the headlights of an oncoming vehicle at night, you should", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "Close your eyes."},
+     {"letter": "B", "type": "text", "text": "Slow down or stop."},
+     {"letter": "C", "type": "text", "text": "Pull down the sun visor."}],
+   "marked": "B", "notes": ""},
+  {"id": "FTT_E_P5_Q37", "label": 37, "question": "A flashing amber traffic light signal means", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "Signal is about to be cancelled."},
+     {"letter": "B", "type": "text", "text": "Stop unless you are so close to the stop-line that you cannot stop safety."},
+     {"letter": "C", "type": "text", "text": "Traffic lights signals are out of order."}],
+   "marked": "C", "notes": "Source typo in option B: 'stop safety' (likely 'safely'). Option C reads 'Traffic lights signals' as printed."},
+  {"id": "FTT_E_P5_Q38", "label": 38, "question": "The light turns red as you approach a traffic junction, when stopping you should", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "Depress the brake and the clutch pedals simultaneously."},
+     {"letter": "B", "type": "text", "text": "Shift to neutral and step on the brakes."},
+     {"letter": "C", "type": "text", "text": "Brake firmly and depress the clutch pedal as the car comes to a stop."}],
+   "marked": "C", "notes": ""},
+  {"id": "FTT_E_P5_Q39", "label": 39, "question": "While turning left into a side road, you noticed pedestrians have started to cross the road, you should", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "Give way to them."},
+     {"letter": "B", "type": "text", "text": "Revving your engine to hurry them."},
+     {"letter": "C", "type": "text", "text": "Continue, as you have the right of way."}],
+   "marked": "A", "notes": ""},
+  {"id": "FTT_E_P5_Q40", "label": 40, "question": "The first thing you should do when you want to overtake a large lorry is", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "Move close behind so you can pass quickly."},
+     {"letter": "B", "type": "text", "text": "Keep close to the right hand side."},
+     {"letter": "C", "type": "text", "text": "Stay well back to get a better view."}],
+   "marked": "C", "notes": ""},
+  {"id": "FTT_E_P5_Q41", "label": 41, "question": "In a traffic hold-up, you should", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "Switch off the engine."},
+     {"letter": "B", "type": "text", "text": "Use the road shoulder."},
+     {"letter": "C", "type": "text", "text": "Not change lanes."}],
+   "marked": "C", "notes": ""},
+  {"id": "FTT_E_P5_Q42", "label": 42, "question": "An over-heated engine is usually caused by", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "Travelling at a high speed over a long distance."},
+     {"letter": "B", "type": "text", "text": "Running the engine too long while stationary."},
+     {"letter": "C", "type": "text", "text": "Poor maintenance of the vehicle."}],
+   "marked": "C", "notes": ""},
+  {"id": "FTT_E_P5_Q43", "label": 43, "question": "In an accident where no one is injured, you should", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "Leave your vehicles at the scene, while you settle the matters with the other party."},
+     {"letter": "B", "type": "text", "text": "Leave you vehicle at the scene and wait for the police to arrive."},
+     {"letter": "C", "type": "text", "text": "Move your vehicle to the side of the road so as not to cause obstruction."}],
+   "marked": "C", "notes": "Source typo in option B: 'Leave you vehicle' (likely 'your')."},
+  {"id": "FTT_E_P5_Q44", "label": 44, "question": "The best defence against aquaplaning is to", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "Speed up."},
+     {"letter": "B", "type": "text", "text": "Slow down and have sufficient treads on your tyres."},
+     {"letter": "C", "type": "text", "text": "Free wheel across."}],
+   "marked": "B", "notes": ""},
+  {"id": "FTT_E_P5_Q45", "label": 45, "question": "How would you react to probationary drivers who appear to be inexperienced?", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "Sound your horn to warn them of your presence."},
+     {"letter": "B", "type": "text", "text": "Be patient and prepare for them to react more slowly."},
+     {"letter": "C", "type": "text", "text": "Overtake them as soon as possible."}],
+   "marked": "B", "notes": ""},
+  {"id": "FTT_E_P5_Q46", "label": 46, "question": "Are you allowed to drive on the road shoulder of an expressway?", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "Yes, only on Sundays and Public Holidays."},
+     {"letter": "B", "type": "text", "text": "Yes, when there is a traffic jam."},
+     {"letter": "C", "type": "text", "text": "No, it is an offence."}],
+   "marked": "C", "notes": ""},
+  {"id": "FTT_E_P5_Q47", "label": 47, "question": "When a cyclist turns his head to the rear, it indicates that", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "He may change his direction."},
+     {"letter": "B", "type": "text", "text": "He wants to stop."},
+     {"letter": "C", "type": "text", "text": "His rear tyre is punctured."}],
+   "marked": "A", "notes": ""},
+  {"id": "FTT_E_P5_Q48", "label": 48, "question": "When about to turn left and there is a cyclist on the left, you should", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "Horn to warn him."},
+     {"letter": "B", "type": "text", "text": "Drive faster to pass the cyclist."},
+     {"letter": "C", "type": "text", "text": "Slow down and allow the cyclist to pass first."}],
+   "marked": "C", "notes": ""},
+  {"id": "FTT_E_P5_Q49", "label": 49, "question": "Before moving off, you should", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "Use your mirrors and signal if necessary."},
+     {"letter": "B", "type": "text", "text": "Use your mirrors, check your blind spot and signal."},
+     {"letter": "C", "type": "text", "text": "Signal and move."}],
+   "marked": "B", "notes": ""},
+  {"id": "FTT_E_P5_Q50", "label": 50, "question": "If you turn too late when steering around a corner, you risk", "picture": null,
+   "options": [
+     {"letter": "A", "type": "text", "text": "Swinging wide on left turns."},
+     {"letter": "B", "type": "text", "text": "Striking the left kerb when turning left."},
+     {"letter": "C", "type": "text", "text": "Cutting the corner when turning right."}],
+   "marked": "A", "notes": ""}
+]

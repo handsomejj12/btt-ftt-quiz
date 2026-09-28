@@ -1,0 +1,502 @@
+[
+  {
+    "id": "FTT_E_P6_Q01",
+    "label": 1,
+    "question": "When being glared or blinded by the sunlight, you should",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Use a cap or hat."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Use your sun visor or wear sun glasses."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Look at the left kerb."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q02",
+    "label": 2,
+    "question": "When driving a car you are not familiar with, you should check",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "The light and brake."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "The steering."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "All of the above."
+      }
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q03",
+    "label": 3,
+    "question": "When driving along, you should",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Stop at every junction before proceeding further."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Accelerate to pass junctions quickly."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Check every side road before you pass them."
+      }
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q04",
+    "label": 4,
+    "question": "When turning left in a narrow course you should position your vehicle",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "More to the right."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "More to the left."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "In the centre of the course."
+      }
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q05",
+    "label": 5,
+    "question": "When you turn your steering to the right, which way do your wheels turn?",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "To the left."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "To the right."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "To the left then to the right."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q06",
+    "label": 6,
+    "question": "The minimum legal insurance coverage required to drive on the road is",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Third party risk."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Thrid party risk, fire and theft."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Fully comprehensive."
+      }
+    ],
+    "marked": "A",
+    "notes": "Source typo in option B: 'Thrid' for 'Third' (kept as printed)."
+  },
+  {
+    "id": "FTT_E_P6_Q07",
+    "label": 7,
+    "question": "On weekdays, you are not allowed to use the bus lane in the evening from",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "4.00 pm to 7.00 pm."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "4.30 pm to 7.00 pm."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "4.30 pm to 7.30 pm."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q08",
+    "label": 8,
+    "question": "What is the main hazard shown in this scenario?",
+    "picture": "Video frame of a multi-lane road with ahead arrows, cars labelled A and B, and a cyclist labelled C by the roadside",
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Cars turning right (A)."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Parked vehicle at the junction (B)."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "The cyclist crossing the road (C)."
+      }
+    ],
+    "marked": "C",
+    "notes": "Video question (Repeat Video button); picture is a single still frame."
+  },
+  {
+    "id": "FTT_E_P6_Q09",
+    "label": 9,
+    "question": "When Car A is making a left turn, car B's left turn signal is on. What should car A do",
+    "picture": "Video frame, top view of a T-junction: blue car A in the side road, teal car B and a yellow car on the main road",
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Move out slowly and turn."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Turn immediately."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Wait until Car B has turned left."
+      }
+    ],
+    "marked": "C",
+    "notes": "Video question (Repeat Video button). Question ends without a question mark in the source; 'Car A' and 'car B' capitalised inconsistently as printed."
+  },
+  {
+    "id": "FTT_E_P6_Q10",
+    "label": 10,
+    "question": "Generally a small amount of alcohol can make you less safe on the road.",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "True."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "False."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Not true, if you were an experience driver."
+      }
+    ],
+    "marked": "A",
+    "notes": "Source grammar in option C: 'experience driver' (likely 'experienced'), kept as printed."
+  },
+  {
+    "id": "FTT_E_P6_Q11",
+    "label": 11,
+    "question": "In order to avoid an accident with the vehicle in front while driving under normal conditions you should use the",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Two-second rule."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Four-second rule."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Two metre rule."
+      }
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q12",
+    "label": 12,
+    "question": "If you accumulate 13 or more demerit points within a year of passing the test",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "You have to pay a heavy fine."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Your licence will be revoked."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Your 'probation' period will be extended."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q13",
+    "label": 13,
+    "question": "On a one way street, you hear the siren of an emergency vehicle behind you, you should",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Give way by moving to the left only."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Give way by moving to the left or right."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Stop immediately."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q14",
+    "label": 14,
+    "question": "The term 'Tailgating' means",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Reversing into a vertical parking lot."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "The dangerous practice of following another vehicle too closely."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Parking at the tail end of the gate or entrance."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q15",
+    "label": 15,
+    "question": "On rainy day, you should",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Drive at a normal speed."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Drive as close as possible to the vehicle in front."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Reduce your speed and keep a longer following distance from the front vehicle."
+      }
+    ],
+    "marked": "C",
+    "notes": "Source grammar in question: 'On rainy day' (missing 'a'), kept as printed."
+  },
+  {
+    "id": "FTT_E_P6_Q16",
+    "label": 16,
+    "question": "In which position should the gear selector be when you are starting the engine?",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "1st gear."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Park."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Drive."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q17",
+    "label": 17,
+    "question": "To drive within the speed limit on an expressway, you should",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Drive slower than vehicles on your left or right."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Glance at your speedometer at regular intervals."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Not overtake other vehicles."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q18",
+    "label": 18,
+    "question": "What is the name of the lane in which you adjust your speed before joining the expressway?",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "The road shoulder."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "The deceleration lane."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "The acceleration lane."
+      }
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q19",
+    "label": 19,
+    "question": "To maintain good lane discipline, you should",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Form up correctly into the intended lane before reaching the junction."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Drive between lanes so that you can switch lane easily."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Follow closely to the vehicle in front."
+      }
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q20",
+    "label": 20,
+    "question": "Less braking effort is required when you stop your vehicle using",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "2nd gear."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "3rd gear."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "4th gear."
+      }
+    ],
+    "marked": "A",
+    "notes": ""
+  }
+]

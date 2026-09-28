@@ -1,0 +1,262 @@
+[
+  {
+    "id": "BTT_E_P1_Q41",
+    "label": 41,
+    "question": "When you hear the siren of an emergency vehicle, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Stop immediately where you are in order to make way."},
+      {"letter": "B", "type": "text", "text": "Pull over to the left or right side of the road."},
+      {"letter": "C", "type": "text", "text": "Sound your horn to warn the front vehicles to speed up."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q42",
+    "label": 42,
+    "question": "When you hear the siren of an emergency vehicle but are not sure where it is coming from, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Continue to drive at the same speed."},
+      {"letter": "B", "type": "text", "text": "Move to the side and stop if necessary."},
+      {"letter": "C", "type": "text", "text": "Drive faster so as not to obstruct the emergency vehicle."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q43",
+    "label": 43,
+    "question": "After driving through flood the brakes may malfunction. In order to correct this, you must",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Stop the vehicle on a slope to allow water to flow out from the brakes."},
+      {"letter": "B", "type": "text", "text": "Pump the brake pedal repeatedly to dry the brakes."},
+      {"letter": "C", "type": "text", "text": "Drive at normal speed to spin-dry the brakes."}
+    ],
+    "marked": "B",
+    "notes": "Source reads 'through flood' (no article)."
+  },
+  {
+    "id": "BTT_E_P1_Q44",
+    "label": 44,
+    "question": "On a two-lane carriageway, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Keep to the left lane."},
+      {"letter": "B", "type": "text", "text": "Keep to the outer lane."},
+      {"letter": "C", "type": "text", "text": "Not overtake another vehicle."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q45",
+    "label": 45,
+    "question": "All drivers are required by law to switch on the vehicle's headlights whilst driving between",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "7.00 pm and 7.00 am."},
+      {"letter": "B", "type": "text", "text": "7.15 pm and 7.15 am."},
+      {"letter": "C", "type": "text", "text": "7.30 pm and 7.30 am."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q46",
+    "label": 46,
+    "question": "Switching on the headlights whilst driving in heavy rain during the daytime",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Is advisable because you can be readily seen by others."},
+      {"letter": "B", "type": "text", "text": "Is not advisable because it will shorten the battery life."},
+      {"letter": "C", "type": "text", "text": "Is not advisable because the rain water will reflect the light."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q47",
+    "label": 47,
+    "question": "At night, when approaching a sharp left bend you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Flash your headlights to attract the attention of other road user."},
+      {"letter": "B", "type": "text", "text": "Speed up so as to pass the danger as quickly as possible."},
+      {"letter": "C", "type": "text", "text": "Keep more to the right to have a better view."}
+    ],
+    "marked": "A",
+    "notes": "Option A reads 'other road user' (singular) in the source, likely meant 'users'."
+  },
+  {
+    "id": "BTT_E_P1_Q48",
+    "label": 48,
+    "question": "The right most outer lane on a three-lane carriageway is for",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Emergency vehicles and overtaking only."},
+      {"letter": "B", "type": "text", "text": "Vehicles travelling at the maximum speed limit of the road."},
+      {"letter": "C", "type": "text", "text": "Vehicles which are capable of travelling at high speed."}
+    ],
+    "marked": "A",
+    "notes": "Source writes 'right most' as two words."
+  },
+  {
+    "id": "BTT_E_P1_Q49",
+    "label": 49,
+    "question": "During bus lane prohibited hours, motorist is allowed to use the bus lane when",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "It is empty."},
+      {"letter": "B", "type": "text", "text": "The other lanes are congested."},
+      {"letter": "C", "type": "text", "text": "The driver is trying to avoid a collision."}
+    ],
+    "marked": "C",
+    "notes": "Source reads 'motorist is allowed' (no article)."
+  },
+  {
+    "id": "BTT_E_P1_Q50",
+    "label": 50,
+    "question": "A passenger is exempted from wearing a seat belt if he is below",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "1.7 metres in height."},
+      {"letter": "B", "type": "text", "text": "1.6 metres in height."},
+      {"letter": "C", "type": "text", "text": "1.5 metres in height."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q01",
+    "label": 1,
+    "question": "This sign means you",
+    "picture": "Blue sign with a white curved arrow turning left and 'Left Turn On Red', above a yellow plate reading 'STOP Before turning'",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Can turn left immediately upon reaching the junction."},
+      {"letter": "B", "type": "text", "text": "Must stop and give way before turning left."},
+      {"letter": "C", "type": "text", "text": "Need not stop and check as you have the right of way."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q02",
+    "label": 2,
+    "question": "This sign means",
+    "picture": "Blue circular sign with a white arrow pointing straight up",
+    "options": [
+      {"letter": "A", "type": "text", "text": "One way traffic ahead - vehicles may turn right or left."},
+      {"letter": "B", "type": "text", "text": "Drive straight ahead only - vehicles are not allowed to turn right or left."},
+      {"letter": "C", "type": "text", "text": "Steep slope ahead - drive carefully and do not overtake."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q03",
+    "label": 3,
+    "question": "This sign means 'No Entry' for vehicles",
+    "picture": "Red-bordered circular sign showing '4.5m' between a downward and an upward pointing black arrowhead",
+    "options": [
+      {"letter": "A", "type": "text", "text": "With overall height exceeding 4.5 metres."},
+      {"letter": "B", "type": "text", "text": "With overall width exceeding 4.5 metres."},
+      {"letter": "C", "type": "text", "text": "With overall length exceeding 4.5 metres."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q04",
+    "label": 4,
+    "question": "This sign means",
+    "picture": "Red-bordered circular sign with two black cars side by side, crossed by a red diagonal line",
+    "options": [
+      {"letter": "A", "type": "text", "text": "You cannot park abreast another car."},
+      {"letter": "B", "type": "text", "text": "'No Entry' for motor cars."},
+      {"letter": "C", "type": "text", "text": "You cannot overtake another vehicle."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q05",
+    "label": 5,
+    "question": "When you see this sign, you should",
+    "picture": "Red triangular warning sign with two black vertical lines that curve inward towards each other near the top",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and prepare to stop - road ends ahead."},
+      {"letter": "B", "type": "text", "text": "Slow down and drive carefully - dual-carriageway ahead."},
+      {"letter": "C", "type": "text", "text": "Slow down, do not overtake - road narrows ahead."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q06",
+    "label": 6,
+    "question": "When you see this sign, you should",
+    "picture": "Red triangular warning sign with three black curved arrows forming a circle",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and give way to traffic on the right."},
+      {"letter": "B", "type": "text", "text": "Slow down and give way to traffic on the left."},
+      {"letter": "C", "type": "text", "text": "Not slow down at all."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q07",
+    "label": 7,
+    "question": "This sign means",
+    "picture": "Red triangular warning sign with a black shape: a single thick bar at the top splitting into two separate bars below",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Two lanes are merging - alternative vehicles have the right of way."},
+      {"letter": "B", "type": "text", "text": "You must make a U-turn as the road is ending ahead."},
+      {"letter": "C", "type": "text", "text": "You should slow down, keep left and beware of oncoming traffic."}
+    ],
+    "marked": "C",
+    "notes": "Option A reads 'alternative vehicles' in the source, likely meant 'alternate'."
+  },
+  {
+    "id": "BTT_E_P2_Q08",
+    "label": 8,
+    "question": "This sign means",
+    "picture": "Red triangular warning sign with the black letters 'ERP'",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Electronic Road Patrol ahead."},
+      {"letter": "B", "type": "text", "text": "Electronic Road Pricing zone ahead."},
+      {"letter": "C", "type": "text", "text": "Electronic Report Panel ahead."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q09",
+    "label": 9,
+    "question": "This sign indicates",
+    "picture": "Plain red triangle with a white centre and no symbol, not mounted on a post",
+    "options": [
+      {"letter": "A", "type": "text", "text": "That there is a broken down vehicle ahead - slow down and drive carefully."},
+      {"letter": "B", "type": "text", "text": "That you should change lane and drive faster so as not to obstruct other traffic."},
+      {"letter": "C", "type": "text", "text": "You may drive on at any speed because the road ahead is clear."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q10",
+    "label": 10,
+    "question": "This designated shelter is for",
+    "picture": "Blue square sign with a white umbrella and a raindrop",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Motor-car drivers."},
+      {"letter": "B", "type": "text", "text": "Motor-cyclists."},
+      {"letter": "C", "type": "text", "text": "Pedestrians."}
+    ],
+    "marked": "B",
+    "notes": ""
+  }
+]

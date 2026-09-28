@@ -1,0 +1,262 @@
+[
+  {
+    "id": "FTT_E_P2_Q21",
+    "label": 21,
+    "question": "To change gear, the correct way is to",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Release the accelerator, depress the clutch and engage the gear."},
+      {"letter": "B", "type": "text", "text": "Depress the accelerator and the clutch together and engage the gear."},
+      {"letter": "C", "type": "text", "text": "Pump the clutch pedal a few times and engage the gear."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q22",
+    "label": 22,
+    "question": "You should use the engine-brake when",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Going down a long steep slope."},
+      {"letter": "B", "type": "text", "text": "Going up a steep hill."},
+      {"letter": "C", "type": "text", "text": "Driving on a level road."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q23",
+    "label": 23,
+    "question": "When the clutch is fully depressed, it means that the power from the engine is",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Not transmitted to the wheels."},
+      {"letter": "B", "type": "text", "text": "Transmitted to the wheels."},
+      {"letter": "C", "type": "text", "text": "Partially transmitted to the wheels."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q24",
+    "label": 24,
+    "question": "To go round a mild bend with a steady speed, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Use the 'half-clutch' technique."},
+      {"letter": "B", "type": "text", "text": "Apply brakes."},
+      {"letter": "C", "type": "text", "text": "Depress the accelerator slightly."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q25",
+    "label": 25,
+    "question": "When you steer your car round a left hand bend, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slant your body to the left."},
+      {"letter": "B", "type": "text", "text": "Slant your body to the right."},
+      {"letter": "C", "type": "text", "text": "Maintain normal driving posture."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q26",
+    "label": 26,
+    "question": "While trying to move off on an incline (uphill) and the engine stalls, you should immediately",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Step on the brake pedal."},
+      {"letter": "B", "type": "text", "text": "Reach for the ignition key and re-start the engine."},
+      {"letter": "C", "type": "text", "text": "Shift gear lever to neutral position."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q27",
+    "label": 27,
+    "question": "When should you start to keep left after overtaking?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "As soon as you are ahead of the overtaken vehicle."},
+      {"letter": "B", "type": "text", "text": "When you can see the overtaken vehicle in your left wing mirror."},
+      {"letter": "C", "type": "text", "text": "When you can see the overtaken vehicle in your rear view mirror inside the cabin."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q28",
+    "label": 28,
+    "question": "When you want to reverse your car to your right, you should turn the steering wheel",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "To the right."},
+      {"letter": "B", "type": "text", "text": "To the left."},
+      {"letter": "C", "type": "text", "text": "First to the left then to the right."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q29",
+    "label": 29,
+    "question": "You want to reverse into a side road. You are not sure that the area behind your vehicle is clear. What should you do?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Carry on, assuming it is clear."},
+      {"letter": "B", "type": "text", "text": "Look through the rear window only."},
+      {"letter": "C", "type": "text", "text": "Get out and check."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q30",
+    "label": 30,
+    "question": "If your left front tyre blows out, you should react by",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Steering to the left."},
+      {"letter": "B", "type": "text", "text": "Steering to the right."},
+      {"letter": "C", "type": "text", "text": "Holding the steering wheel firmly."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q31",
+    "label": 31,
+    "question": "Checking for punctured tyres is done",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Daily before driving."},
+      {"letter": "B", "type": "text", "text": "Daily at the petrol kiosk."},
+      {"letter": "C", "type": "text", "text": "Only when you think is necessary."}
+    ],
+    "marked": "A",
+    "notes": "Option C reads 'when you think is necessary' (missing 'it') in the source; kept as printed."
+  },
+  {
+    "id": "FTT_E_P2_Q32",
+    "label": 32,
+    "question": "When going round a bend, centrifugal force will cause your car to",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down."},
+      {"letter": "B", "type": "text", "text": "Swerve outwards."},
+      {"letter": "C", "type": "text", "text": "Swerve inwards."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q33",
+    "label": 33,
+    "question": "'The distance travelled' from the moment 'the hazard' is seen to the time 'the brake' is applied is known as the",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Stopping distance."},
+      {"letter": "B", "type": "text", "text": "Braking distance."},
+      {"letter": "C", "type": "text", "text": "Reaction distance."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q34",
+    "label": 34,
+    "question": "Free Wheeling",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Is dangerous when stopping at high speed."},
+      {"letter": "B", "type": "text", "text": "Will make it easier to round a sharp bend."},
+      {"letter": "C", "type": "text", "text": "Will make steering control easy."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q35",
+    "label": 35,
+    "question": "At night, when approaching a sharp left bend you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Flash your headlights to attract the attention of other road user."},
+      {"letter": "B", "type": "text", "text": "Speed up so as to pass the danger as quickly as possible."},
+      {"letter": "C", "type": "text", "text": "Keep more to the right to have a better view."}
+    ],
+    "marked": "A",
+    "notes": "Option A reads 'other road user' (singular) in the source; kept as printed."
+  },
+  {
+    "id": "FTT_E_P2_Q36",
+    "label": 36,
+    "question": "If the headlight of an oncoming vehicle is blinding you, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Turn on the high beam."},
+      {"letter": "B", "type": "text", "text": "Look to the right kerb."},
+      {"letter": "C", "type": "text", "text": "Look to the left kerb."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q37",
+    "label": 37,
+    "question": "What action would you take when elderly people are crossing the road?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Wave them across so they know that you have seen them."},
+      {"letter": "B", "type": "text", "text": "Be patient and allow them to cross in their own time."},
+      {"letter": "C", "type": "text", "text": "Tap the horn in case they are hard of hearing."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q38",
+    "label": 38,
+    "question": "When you see green traffic light signal from a distance, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Speed up."},
+      {"letter": "B", "type": "text", "text": "Slow down."},
+      {"letter": "C", "type": "text", "text": "Carry on at the same speed."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q39",
+    "label": 39,
+    "question": "When approaching a zebra crossing, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Accelerate to pass it."},
+      {"letter": "B", "type": "text", "text": "Slow down and do not overtake."},
+      {"letter": "C", "type": "text", "text": "Stop only when there are pedestrians on the crossing."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q40",
+    "label": 40,
+    "question": "When a large vehicle from the left lane moves into your path with its left signal on, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Sound the horn to inform the driver of his mistakes."},
+      {"letter": "B", "type": "text", "text": "Slow down and keep a safe following distance."},
+      {"letter": "C", "type": "text", "text": "Overtake the large vehicle on the left."}
+    ],
+    "marked": "B",
+    "notes": "Question says the vehicle moves in from the left lane 'with its left signal on' (checked on an enlarged crop); kept as printed."
+  }
+]

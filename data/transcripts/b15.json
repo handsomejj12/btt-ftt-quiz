@@ -1,0 +1,262 @@
+[
+  {
+    "id": "BTT_E_P6_Q31",
+    "label": 31,
+    "question": "You see two elderly pedestrians about to cross the road ahead, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Expect them to wait for you to pass."},
+      {"letter": "B", "type": "text", "text": "Speed up to pass them quickly."},
+      {"letter": "C", "type": "text", "text": "Be careful, they may misjudge your speed."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q32",
+    "label": 32,
+    "question": "When driving in heavy rain, you should turn on",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "The hazard lights."},
+      {"letter": "B", "type": "text", "text": "The headlights and hazard lights."},
+      {"letter": "C", "type": "text", "text": "The headlights and tail lights."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q33",
+    "label": 33,
+    "question": "You must signal your intention at least",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "2 seconds in advance."},
+      {"letter": "B", "type": "text", "text": "3 seconds in advance."},
+      {"letter": "C", "type": "text", "text": "5 seconds in advance."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q34",
+    "label": 34,
+    "question": "What advice should you give to a driver who has a few alcoholic drinks at a party?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive home carefully and slowly."},
+      {"letter": "B", "type": "text", "text": "Go home by public transport."},
+      {"letter": "C", "type": "text", "text": "Wait a short while and then drive home."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q35",
+    "label": 35,
+    "question": "Which of the following sentences is TRUE?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Alcohol makes you a better driver."},
+      {"letter": "B", "type": "text", "text": "Alcohol has no effect on the way you drive."},
+      {"letter": "C", "type": "text", "text": "Alcohol slows down your reactions when driving."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q36",
+    "label": 36,
+    "question": "Which of the following statement on alcohol is true?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "You may decline a breath or blood test."},
+      {"letter": "B", "type": "text", "text": "Alcohol will not be detected by the breath test after peppermints have been eaten."},
+      {"letter": "C", "type": "text", "text": "Even a small amount of alcohol tends to increase the chance of an accident."}
+    ],
+    "marked": "C",
+    "notes": "Source grammar kept: 'following statement' (singular) in the question."
+  },
+  {
+    "id": "BTT_E_P6_Q37",
+    "label": 37,
+    "question": "Which of these can affect your reaction time?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drugs."},
+      {"letter": "B", "type": "text", "text": "Contact lenses."},
+      {"letter": "C", "type": "text", "text": "Tinted windows."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q38",
+    "label": 38,
+    "question": "In this scenario Car A should",
+    "picture": "Video frame: top-down view of blue car A following a lorry on a road near a side-road junction",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Quickly overtake the lorry before the junction."},
+      {"letter": "B", "type": "text", "text": "Slow down and let the lorry complete the turn."},
+      {"letter": "C", "type": "text", "text": "Overtake the lorry on the left."}
+    ],
+    "marked": "B",
+    "notes": "Picture panel is a still frame from a video (has a Repeat Video button)."
+  },
+  {
+    "id": "BTT_E_P6_Q39",
+    "label": 39,
+    "question": "Which car (X or Y) should exit at points C and D?",
+    "picture": "Video frame: top-down roundabout with exit points A, B, C, D; blue car X and yellow car Y side by side at entry",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Car X."},
+      {"letter": "B", "type": "text", "text": "Car Y."},
+      {"letter": "C", "type": "text", "text": "Both vehicles."}
+    ],
+    "marked": "B",
+    "notes": "Picture panel is a still frame from a video (has a Repeat Video button)."
+  },
+  {
+    "id": "BTT_E_P6_Q40",
+    "label": 40,
+    "question": "It is important to check the 'blind spot' before",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Changing lanes."},
+      {"letter": "B", "type": "text", "text": "Changing gear."},
+      {"letter": "C", "type": "text", "text": "Slowing down."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q41",
+    "label": 41,
+    "question": "The 'Two second rule' is used in normal driving situation at",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Certain speed only."},
+      {"letter": "B", "type": "text", "text": "All speed."},
+      {"letter": "C", "type": "text", "text": "Fixed speed only."}
+    ],
+    "marked": "B",
+    "notes": "Source grammar kept: 'normal driving situation' and 'All speed.' (singular)."
+  },
+  {
+    "id": "BTT_E_P6_Q42",
+    "label": 42,
+    "question": "When you cannot confirm the direction of the approach of an emergency vehicle, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Maintain your speed and position."},
+      {"letter": "B", "type": "text", "text": "Increase the speed of your vehicle."},
+      {"letter": "C", "type": "text", "text": "Slow down your speed and move to the left lane."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q43",
+    "label": 43,
+    "question": "While driving and you hear the siren of an ambulance behind you, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Stop immediately to let the ambulance overtake or pass."},
+      {"letter": "B", "type": "text", "text": "Keep left, slow down and stop if necessary."},
+      {"letter": "C", "type": "text", "text": "Speed up in order not to obstruct the ambulance."}
+    ],
+    "marked": "B",
+    "notes": "Source grammar kept: 'While driving and you hear'."
+  },
+  {
+    "id": "BTT_E_P6_Q44",
+    "label": 44,
+    "question": "When driving in heavy rain and passing through water, you should gently test your",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Horn."},
+      {"letter": "B", "type": "text", "text": "Brakes from time to time."},
+      {"letter": "C", "type": "text", "text": "Signals."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q45",
+    "label": 45,
+    "question": "You are driving on a three-lane carriageway at 80 km/h .There is no traffic ahead. Which lane should you use?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Any lane."},
+      {"letter": "B", "type": "text", "text": "Middle lane."},
+      {"letter": "C", "type": "text", "text": "Left lane."}
+    ],
+    "marked": "C",
+    "notes": "Source spacing typo kept: space before the full stop and none after it in '80 km/h .There'."
+  },
+  {
+    "id": "BTT_E_P6_Q46",
+    "label": 46,
+    "question": "When facing oncoming traffic at night, which lights should you use?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Dipped headlights."},
+      {"letter": "B", "type": "text", "text": "High beam headlights."},
+      {"letter": "C", "type": "text", "text": "Spot lights."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q47",
+    "label": 47,
+    "question": "When the oncoming car refuses to dim its headlights, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and look at the left side of the kerb."},
+      {"letter": "B", "type": "text", "text": "Retaliate by turning on your high beam"},
+      {"letter": "C", "type": "text", "text": "Maintain your speed and the headlight status."}
+    ],
+    "marked": "A",
+    "notes": "Option B has no final full stop in the source."
+  },
+  {
+    "id": "BTT_E_P6_Q48",
+    "label": 48,
+    "question": "You should dip your headlights when",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Driving in a dark area."},
+      {"letter": "B", "type": "text", "text": "Facing oncoming traffic."},
+      {"letter": "C", "type": "text", "text": "Approaching a blind corner."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q49",
+    "label": 49,
+    "question": "You are permitted to use the outer most right lane on a three-lane dual carriageway when",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "You are travelling at the maximum legal speed limit of the road."},
+      {"letter": "B", "type": "text", "text": "You intend to turn right ahead."},
+      {"letter": "C", "type": "text", "text": "Emergency vehicles are not using it."}
+    ],
+    "marked": "B",
+    "notes": "Source spelling kept: 'outer most' written as two words."
+  },
+  {
+    "id": "BTT_E_P6_Q50",
+    "label": 50,
+    "question": "On Saturday, all vehicles must avoid the bus lane between",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "11.00 am and 2.00 pm."},
+      {"letter": "B", "type": "text", "text": "11.30 am and 2.00 pm."},
+      {"letter": "C", "type": "text", "text": "11.30 am and 2.30 pm."}
+    ],
+    "marked": "B",
+    "notes": ""
+  }
+]

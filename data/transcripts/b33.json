@@ -1,0 +1,262 @@
+[
+  {
+    "id": "FTT_E_P6_Q41",
+    "label": 41,
+    "question": "When you are caught in a traffic jam, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Keep close to the vehicle in front."},
+      {"letter": "B", "type": "text", "text": "Move to lane with a shorter queue."},
+      {"letter": "C", "type": "text", "text": "Stay in your own lane."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q42",
+    "label": 42,
+    "question": "How often should you test your brakes?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Daily."},
+      {"letter": "B", "type": "text", "text": "Weekly."},
+      {"letter": "C", "type": "text", "text": "Monthly."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q43",
+    "label": 43,
+    "question": "When you are involved in an accident, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Stop."},
+      {"letter": "B", "type": "text", "text": "Stop only when there is injury."},
+      {"letter": "C", "type": "text", "text": "Not stop when there is no injury."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q44",
+    "label": 44,
+    "question": "How can you prevent 'aquaplaning' occuring?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Speed up."},
+      {"letter": "B", "type": "text", "text": "Slow down."},
+      {"letter": "C", "type": "text", "text": "Drive at normal speed."}
+    ],
+    "marked": "B",
+    "notes": "Source typo kept: 'occuring' (should be 'occurring')."
+  },
+  {
+    "id": "FTT_E_P6_Q45",
+    "label": 45,
+    "question": "When a driver causes inconvenience to you, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Show a provocative gesture."},
+      {"letter": "B", "type": "text", "text": "Use aggressive language."},
+      {"letter": "C", "type": "text", "text": "Keep calm."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q46",
+    "label": 46,
+    "question": "Driving on the road shoulder of an expressway is",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "An offence."},
+      {"letter": "B", "type": "text", "text": "Allowed if you are turning left."},
+      {"letter": "C", "type": "text", "text": "Allowed if there is a traffic jam."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q47",
+    "label": 47,
+    "question": "When you are overtaking a cyclist , you should leave as much space as you would give a car. What is the main reason for this?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "The cyclist might get off the bike."},
+      {"letter": "B", "type": "text", "text": "The cyclist might stop suddenly."},
+      {"letter": "C", "type": "text", "text": "The cyclist might swerve."}
+    ],
+    "marked": "C",
+    "notes": "Source has a stray space before the comma: 'cyclist , you'."
+  },
+  {
+    "id": "FTT_E_P6_Q48",
+    "label": 48,
+    "question": "How should you signal to let others know of your intention?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "At least 2 seconds in advance."},
+      {"letter": "B", "type": "text", "text": "At least 3 seconds in advance."},
+      {"letter": "C", "type": "text", "text": "At least 5 seconds in advance."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q49",
+    "label": 49,
+    "question": "To move off safely from a parked position, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Signal your intention and move off."},
+      {"letter": "B", "type": "text", "text": "Look right, left and right again."},
+      {"letter": "C", "type": "text", "text": "Check mirrors, give signal, look around to check traffic or pedestrians."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q50",
+    "label": 50,
+    "question": "When making a turn, you should slow down",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "During the turn."},
+      {"letter": "B", "type": "text", "text": "After the turn."},
+      {"letter": "C", "type": "text", "text": "Before the turn."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q01",
+    "label": 1,
+    "question": "When driving pass a line of parked vehicles on the side of the road, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Continue driving at the same speed."},
+      {"letter": "B", "type": "text", "text": "Slow down and look out for pedestrians dashing out."},
+      {"letter": "C", "type": "text", "text": "Continue driving at the same speed and sound your horn."}
+    ],
+    "marked": "B",
+    "notes": "Source typo kept: 'driving pass' (should be 'past')."
+  },
+  {
+    "id": "FTT_E_P7_Q02",
+    "label": 2,
+    "question": "When passing every side road, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Stop before proceeding."},
+      {"letter": "B", "type": "text", "text": "Check before driving pass them"},
+      {"letter": "C", "type": "text", "text": "Accelerate pass them."}
+    ],
+    "marked": "B",
+    "notes": "Option B has no final full stop in the source. Source typo kept in B and C: 'pass them' (should be 'past')."
+  },
+  {
+    "id": "FTT_E_P7_Q03",
+    "label": 3,
+    "question": "When passing minor roads joining from the left and right, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Speed up."},
+      {"letter": "B", "type": "text", "text": "Drive at normal speed."},
+      {"letter": "C", "type": "text", "text": "Ease off the accelerator."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q04",
+    "label": 4,
+    "question": "When your vehicle pulled strongly to one side while driving, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Grip the steering wheel firmly and pull up slowly to the side of the road."},
+      {"letter": "B", "type": "text", "text": "Apply the handbrake to stop the vehicle."},
+      {"letter": "C", "type": "text", "text": "Grip the steering wheel and continue on at a normal speed."}
+    ],
+    "marked": "A",
+    "notes": "Source grammar kept: 'your vehicle pulled' (tense)."
+  },
+  {
+    "id": "FTT_E_P7_Q05",
+    "label": 5,
+    "question": "Which statement about steering is true?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "You must keep both hands on the steering wheel at all times."},
+      {"letter": "B", "type": "text", "text": "You can place your hands at any position as long as you are comfortable."},
+      {"letter": "C", "type": "text", "text": "You should not take both hands off the steering wheel when the vehicle is moving."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q06",
+    "label": 6,
+    "question": "What should you use the horn for?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "To signal your annoyance."},
+      {"letter": "B", "type": "text", "text": "To greet other road users."},
+      {"letter": "C", "type": "text", "text": "To warn others of danger."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q07",
+    "label": 7,
+    "question": "Are you permitted to make a U-turn at traffic lights?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "No, unless there is a U-turn permitted sign at the intersection."},
+      {"letter": "B", "type": "text", "text": "Yes, at all times."},
+      {"letter": "C", "type": "text", "text": "Yes, if there is no danger of colliding with another vehicle."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q08",
+    "label": 8,
+    "question": "When the car from the side road does not give way to you, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Sound the horn to stop the car from coming out."},
+      {"letter": "B", "type": "text", "text": "Quickly switch to the right lane to pass the junction."},
+      {"letter": "C", "type": "text", "text": "Slow down and allow the car to proceed."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q09",
+    "label": 9,
+    "question": "When the oncoming car at the bend has gone across the centre white line on the road towards your direction, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Sound the horn and flash your headlight to give warning."},
+      {"letter": "B", "type": "text", "text": "Slow down and move over to the left side of the road."},
+      {"letter": "C", "type": "text", "text": "Brake hard and stop your car immediately."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q10",
+    "label": 10,
+    "question": "If you failed to have a proper control of your vehicle, you could be charged for ______ even though your blood alcohol content is below the legal limit.",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Careless driving."},
+      {"letter": "B", "type": "text", "text": "Drink driving."},
+      {"letter": "C", "type": "text", "text": "Reckless driving."}
+    ],
+    "marked": "B",
+    "notes": "Question contains a fill-in blank drawn as a solid underline; rendered here as 6 underscores (exact count cannot be read from the image)."
+  }
+]

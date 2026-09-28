@@ -1,0 +1,262 @@
+[
+  {
+    "id": "BTT_E_P3_Q01",
+    "label": 1,
+    "question": "On seeing this sign, you",
+    "picture": "Blue circular sign with a white arrow going straight up then turning right",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Must turn right ahead."},
+      {"letter": "B", "type": "text", "text": "May turn left or go straight if you wish."},
+      {"letter": "C", "type": "text", "text": "Must make a U-turn as the road ends on the right."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q02",
+    "label": 2,
+    "question": "This sign means",
+    "picture": "Blue circular sign with a white arrow pointing diagonally down to the left",
+    "options": [
+      {"letter": "A", "type": "text", "text": "There is a sharp bend on the left - drive carefully."},
+      {"letter": "B", "type": "text", "text": "You cannot go straight or turn right."},
+      {"letter": "C", "type": "text", "text": "Keep to the left side of the road."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q03",
+    "label": 3,
+    "question": "This sign means",
+    "picture": "Red-bordered circular sign with a black lorry crossed by a red diagonal bar",
+    "options": [
+      {"letter": "A", "type": "text", "text": "'No Waiting' for lorries."},
+      {"letter": "B", "type": "text", "text": "'No Parking' for lorries."},
+      {"letter": "C", "type": "text", "text": "'No Entry' for lorries."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q04",
+    "label": 4,
+    "question": "This sign means",
+    "picture": "Circular sign with a blue background, red border and a single red diagonal bar",
+    "options": [
+      {"letter": "A", "type": "text", "text": "You can wait for a short while if you are loading or unloading."},
+      {"letter": "B", "type": "text", "text": "You cannot wait but you can stop to let down or pick up passengers."},
+      {"letter": "C", "type": "text", "text": "You cannot stop even to let down or pick up passengers."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q05",
+    "label": 5,
+    "question": "This sign means",
+    "picture": "Red triangle warning sign with a black divided road passing under a bridge symbol",
+    "options": [
+      {"letter": "A", "type": "text", "text": "You are about to pass an MRT line."},
+      {"letter": "B", "type": "text", "text": "You are about to pass an overhead bridge."},
+      {"letter": "C", "type": "text", "text": "You are about to enter the expressway."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q06",
+    "label": 6,
+    "question": "When you see this sign, you should",
+    "picture": "Red triangle warning sign with a black figure of a man digging a heap with a shovel",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Switch lane and drive faster to avoid obstruction."},
+      {"letter": "B", "type": "text", "text": "Slow down and beware of labourers in front."},
+      {"letter": "C", "type": "text", "text": "Slow down and beware of open-air hawker stalls."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q07",
+    "label": 7,
+    "question": "This sign indicates that",
+    "picture": "Red triangle warning sign with a black car and wavy skid tracks behind it",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Driver must slow down and look out for traffic merging from the right or left."},
+      {"letter": "B", "type": "text", "text": "Driver must look out for traffic from the right and left at cross-road in front."},
+      {"letter": "C", "type": "text", "text": "Driver must reduce speed and drive carefully to prevent skidding."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q08",
+    "label": 8,
+    "question": "On seeing this sign, you should",
+    "picture": "Red triangle warning sign with a black semicircular bump on a road line",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down, do not overtake because there is a heap of sand ahead."},
+      {"letter": "B", "type": "text", "text": "Slow down, do not overtake because there is a road hump ahead."},
+      {"letter": "C", "type": "text", "text": "Slow down, do not overtake because there is a low hill ahead."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q09",
+    "label": 9,
+    "question": "When you see this sign, you should",
+    "picture": "Red triangle warning sign with a black car on a steep slope rising to the right",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Overtake slow moving vehicles so that you will not lose speed."},
+      {"letter": "B", "type": "text", "text": "Overtake slow moving vehicles and build up speed to go up the slope."},
+      {"letter": "C", "type": "text", "text": "Keep left, do not overtake, beware of oncoming traffic."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q10",
+    "label": 10,
+    "question": "This sign means that",
+    "picture": "Rectangular sign with a yellow criss-cross grid on dark background above the words \"Box Junction\"",
+    "options": [
+      {"letter": "A", "type": "text", "text": "No vehicle is allowed to remain in the yellow box under any circumstances."},
+      {"letter": "B", "type": "text", "text": "Turning vehicle are allowed to remain in the yellow box if they do not obstruct other vehicle."},
+      {"letter": "C", "type": "text", "text": "Vehicle going straight are allowed to remain in the yellow box if they do not obstruct other vehicle."}
+    ],
+    "marked": "B",
+    "notes": "Source grammar kept as printed in options B and C: 'Turning vehicle are', 'Vehicle going straight are', 'other vehicle'."
+  },
+  {
+    "id": "BTT_E_P3_Q11",
+    "label": 11,
+    "question": "When you see this traffic sign, you should drive,",
+    "picture": "Blue rectangular sign with white text \"Speed Check Area\"",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Within the speed limit of the road."},
+      {"letter": "B", "type": "text", "text": "At the maximum speed limit of the vehicle."},
+      {"letter": "C", "type": "text", "text": "Very slowly."}
+    ],
+    "marked": "A",
+    "notes": "Question ends with a comma as printed."
+  },
+  {
+    "id": "BTT_E_P3_Q12",
+    "label": 12,
+    "question": "This sign means",
+    "picture": "Red-bordered circular sign with a black vehicle and a red-yellow explosion symbol, crossed by a red diagonal bar",
+    "options": [
+      {"letter": "A", "type": "text", "text": "No entry to fire engines."},
+      {"letter": "B", "type": "text", "text": "Explosive area ahead."},
+      {"letter": "C", "type": "text", "text": "No entry to vehicles carrying dangerous goods."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q13",
+    "label": 13,
+    "question": "Flashing amber light signal before the tunnel warns drivers",
+    "picture": "Black oval lamp unit with two white lamps and a centre lamp showing an amber X with light rays",
+    "options": [
+      {"letter": "A", "type": "text", "text": "That the said lane is closed to traffic"},
+      {"letter": "B", "type": "text", "text": "To slow down and be prepared to change lane.(possible obstruction ahead)"},
+      {"letter": "C", "type": "text", "text": "That the lights are out of order."}
+    ],
+    "marked": "B",
+    "notes": "Option A has no final full stop in the source. Option B has no space between 'lane.' and '(possible' in the source."
+  },
+  {
+    "id": "BTT_E_P3_Q14",
+    "label": 14,
+    "question": "Which of these signs mean 'Bicycle must travel along cycle track'?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Red-bordered circular sign with pedestrian and bicycle symbols crossed by a red diagonal bar"},
+      {"letter": "B", "type": "image", "text": "Red-bordered circular sign with a black bicycle crossed by a red diagonal bar"},
+      {"letter": "C", "type": "image", "text": "Blue circular sign with a white bicycle symbol"}
+    ],
+    "marked": "C",
+    "notes": "Question says 'signs mean' as printed. Option signs are small thumbnails."
+  },
+  {
+    "id": "BTT_E_P3_Q15",
+    "label": 15,
+    "question": "Which of these signs means 'Designated pedestrian crossing' ahead ?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Red triangle warning sign with two elderly people, one using a walking stick"},
+      {"letter": "B", "type": "image", "text": "Red triangle warning sign with a person walking over striped crossing lines"},
+      {"letter": "C", "type": "image", "text": "Red triangle warning sign with two children walking"}
+    ],
+    "marked": "B",
+    "notes": "Space before the question mark as printed. Option signs are small thumbnails."
+  },
+  {
+    "id": "BTT_E_P3_Q16",
+    "label": 16,
+    "question": "A broken white line on the centre of the road as shown in this diagram means:",
+    "picture": "Top-down view of a road with a broken white centre line and two white arrows pointing the same way (upwards)",
+    "options": [
+      {"letter": "A", "type": "text", "text": "The area is dangerous, you must not overtake."},
+      {"letter": "B", "type": "text", "text": "Keep to the left of this line."},
+      {"letter": "C", "type": "text", "text": "Parking is not allowed on either side of the road."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q17",
+    "label": 17,
+    "question": "The single continuous white line along the centre of a two-way road means",
+    "picture": "Top-down view of a road with a single continuous white centre line and white arrows pointing in opposite directions",
+    "options": [
+      {"letter": "A", "type": "text", "text": "No Parking on both sides of the road during week-days."},
+      {"letter": "B", "type": "text", "text": "No Parking on both sides of the road between 7.00 am and 7.00 pm."},
+      {"letter": "C", "type": "text", "text": "No Parking on both sides of the road at all times."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q18",
+    "label": 18,
+    "question": "At traffic light junctions, amber lights means",
+    "picture": "Three-lamp traffic light with only the middle amber lamp lit",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Prepare to go."},
+      {"letter": "B", "type": "text", "text": "Go if the way is clear."},
+      {"letter": "C", "type": "text", "text": "Stop before the stop-line."}
+    ],
+    "marked": "C",
+    "notes": "Question says 'amber lights means' as printed."
+  },
+  {
+    "id": "BTT_E_P3_Q19",
+    "label": 19,
+    "question": "What does this traffic light signal indicates?",
+    "picture": "Two-column traffic light with a full green light lit on the left and a green right-turn arrow lit on the right",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Only vehicles turning right can proceed."},
+      {"letter": "B", "type": "text", "text": "Vehicles may go straight and turn right."},
+      {"letter": "C", "type": "text", "text": "All vehicles must turn right."}
+    ],
+    "marked": "B",
+    "notes": "Question says 'does ... indicates' as printed."
+  },
+  {
+    "id": "BTT_E_P3_Q20",
+    "label": 20,
+    "question": "The light turns red as you approach a traffic junction, when stopping you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Depress the brake and the clutch pedals simultaneously."},
+      {"letter": "B", "type": "text", "text": "Shift to neutral and step on the brakes."},
+      {"letter": "C", "type": "text", "text": "Brake firmly and depress the clutch pedal as the car comes to a stop."}
+    ],
+    "marked": "C",
+    "notes": ""
+  }
+]

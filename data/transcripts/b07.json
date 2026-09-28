@@ -1,0 +1,262 @@
+[
+  {
+    "id": "BTT_E_P3_Q21",
+    "label": 21,
+    "question": "When approaching a junction and the traffic lights signal change from green to amber, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Stop at the stop line unless you are so close that sudden or sharp braking might cause an accident."},
+      {"letter": "B", "type": "text", "text": "Speed up to clear the intersection."},
+      {"letter": "C", "type": "text", "text": "Stop only if a red light camera is in use."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q22",
+    "label": 22,
+    "question": "The signal given by the Policeman in the picture means",
+    "picture": "Traffic policeman in white uniform, helmet and gloves, facing forward with both arms down at his sides",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Vehicles approaching from his left and right to stop."},
+      {"letter": "B", "type": "text", "text": "Vehicles approaching from in front and behind him to stop."},
+      {"letter": "C", "type": "text", "text": "Vehicles approaching from all directions to stop."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q23",
+    "label": 23,
+    "question": "Which of these driver's arm signal mean he intends to move in or turn left?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Rear view of a car on a lighter red background, driver's arm at right window, no motion lines"},
+      {"letter": "B", "type": "image", "text": "Rear view of a car, driver's arm out of right window with a large orange oval motion loop"},
+      {"letter": "C", "type": "image", "text": "Rear view of a car, driver's arm out of right window with small orange stacked motion marks"}
+    ],
+    "marked": "B",
+    "notes": "Option pictures are tiny, low-resolution thumbnails (probably stills of animated arm signals); fine detail is hard to make out."
+  },
+  {
+    "id": "BTT_E_P3_Q24",
+    "label": 24,
+    "question": "Which of these driver's arm signal indicates that he intends to stop?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Rear view of a car, driver's arm out of right window with a large orange oval motion loop"},
+      {"letter": "B", "type": "image", "text": "Rear view of a car, driver's arm out of right window with small orange stacked motion marks"},
+      {"letter": "C", "type": "image", "text": "Rear view of a car on a lighter red background, driver's arm at right window, no motion lines"}
+    ],
+    "marked": "C",
+    "notes": "Option pictures are tiny, low-resolution thumbnails (probably stills of animated arm signals); fine detail is hard to make out. Same three pictures as Q23 in a different order."
+  },
+  {
+    "id": "BTT_E_P3_Q25",
+    "label": 25,
+    "question": "If the car you are overtaking is drifting in its lane, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Use your horn to warn him."},
+      {"letter": "B", "type": "text", "text": "Signal him with your hand."},
+      {"letter": "C", "type": "text", "text": "Overtake it quickly."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q26",
+    "label": 26,
+    "question": "To drive in a way where other drivers will not find it necessary to overtake you, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive on the extreme right lane all the time."},
+      {"letter": "B", "type": "text", "text": "Always drive at a speed that match the traffic flow."},
+      {"letter": "C", "type": "text", "text": "Drive at the maximun speed limit of the road all the time."}
+    ],
+    "marked": "B",
+    "notes": "Source typo in option C: 'maximun' (for 'maximum'). Option B reads 'match' as printed."
+  },
+  {
+    "id": "BTT_E_P3_Q27",
+    "label": 27,
+    "question": "Which car has the right of way?",
+    "picture": "Video frame from above: roundabout at a crossroads, blue car A on the roundabout, orange car M approaching from below, roundabout sign on the left",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Car A."},
+      {"letter": "B", "type": "text", "text": "Car M."},
+      {"letter": "C", "type": "text", "text": "Either car A or M."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q28",
+    "label": 28,
+    "question": "In traffic hold-ups, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Try to get ahead of others by overtaking them on the right."},
+      {"letter": "B", "type": "text", "text": "Try to get ahead of others by overtaking them on the left."},
+      {"letter": "C", "type": "text", "text": "Stay in queue and follow the traffic flow."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q29",
+    "label": 29,
+    "question": "When you see a vehicle slowing down before a Zebra Crossing, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and be prepared to stop."},
+      {"letter": "B", "type": "text", "text": "Sound the horn before passing the slow moving vehicle."},
+      {"letter": "C", "type": "text", "text": "Maintain your speed."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q30",
+    "label": 30,
+    "question": "Road hogging",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Allows others to overtake safely."},
+      {"letter": "B", "type": "text", "text": "Holds up the flow of traffic."},
+      {"letter": "C", "type": "text", "text": "Reduces road accident."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q31",
+    "label": 31,
+    "question": "You want to reverse into a side road. You are not sure that the area behind your vehicle is clear. What should you do?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Carry on, assuming it is clear."},
+      {"letter": "B", "type": "text", "text": "Look through the rear window only."},
+      {"letter": "C", "type": "text", "text": "Get out and check."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q32",
+    "label": 32,
+    "question": "Before entering a round about, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Give way to traffic on your right."},
+      {"letter": "B", "type": "text", "text": "Stop first before entering."},
+      {"letter": "C", "type": "text", "text": "Accelerate to merge smoothly with traffic already in the roundabout."}
+    ],
+    "marked": "A",
+    "notes": "Question prints 'round about' as two words; option C prints 'roundabout'."
+  },
+  {
+    "id": "BTT_E_P3_Q33",
+    "label": 33,
+    "question": "Before moving off, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Use your mirrors and signal if necessary."},
+      {"letter": "B", "type": "text", "text": "Use your mirrors, check your blind spot and signal."},
+      {"letter": "C", "type": "text", "text": "Signal and move."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q34",
+    "label": 34,
+    "question": "Drinking and driving may cause",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Increase confidence."},
+      {"letter": "B", "type": "text", "text": "Loss of proper control of the vehicle."},
+      {"letter": "C", "type": "text", "text": "Greater awareness of danger."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q35",
+    "label": 35,
+    "question": "Generally a small amount of alcohol can make you less safe on the road.",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "True."},
+      {"letter": "B", "type": "text", "text": "False."},
+      {"letter": "C", "type": "text", "text": "Not true, if you were an experience driver."}
+    ],
+    "marked": "A",
+    "notes": "Source typo in option C: 'experience driver' (for 'experienced')."
+  },
+  {
+    "id": "BTT_E_P3_Q36",
+    "label": 36,
+    "question": "How does the consumption of alcohol affect a person's driving ?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "It enables the driver to make better judgements."},
+      {"letter": "B", "type": "text", "text": "It enables the driver to have better vision of the road."},
+      {"letter": "C", "type": "text", "text": "It reduces the driver's reaction."}
+    ],
+    "marked": "C",
+    "notes": "Question has a space before the question mark, as printed."
+  },
+  {
+    "id": "BTT_E_P3_Q37",
+    "label": 37,
+    "question": "In this scenario Car A should",
+    "picture": "Video frame from above: blue car A behind a lorry on a road, near a side road junction on the lorry's left",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Quickly overtake the lorry before the junction."},
+      {"letter": "B", "type": "text", "text": "Slow down and let the lorry complete the turn."},
+      {"letter": "C", "type": "text", "text": "Overtake the lorry on the left."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q38",
+    "label": 38,
+    "question": "Which car (X or Y) should exit at points C and D?",
+    "picture": "Video frame from above: roundabout with exits labelled A, B, C, D; blue car X and yellow car Y side by side entering from below",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Car X."},
+      {"letter": "B", "type": "text", "text": "Car Y."},
+      {"letter": "C", "type": "text", "text": "Both vehicles."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q39",
+    "label": 39,
+    "question": "'Blind spots' of a vehicle is an area which cannot be viewed by",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "The rear view mirror."},
+      {"letter": "B", "type": "text", "text": "Left and right wings mirrors."},
+      {"letter": "C", "type": "text", "text": "Both A and B."}
+    ],
+    "marked": "C",
+    "notes": "Option B prints 'wings mirrors' (for 'wing mirrors')."
+  },
+  {
+    "id": "BTT_E_P3_Q40",
+    "label": 40,
+    "question": "The Two-second Rule is a simple check to ensure",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "A safe distance for you to move off from a junction."},
+      {"letter": "B", "type": "text", "text": "A safe distance between your vehicle and the vehicle in front."},
+      {"letter": "C", "type": "text", "text": "A safe length of time to signal before your manoeuvre."}
+    ],
+    "marked": "B",
+    "notes": ""
+  }
+]

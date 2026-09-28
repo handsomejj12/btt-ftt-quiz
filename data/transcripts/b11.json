@@ -1,0 +1,262 @@
+[
+  {
+    "id": "BTT_E_P5_Q01",
+    "label": 1,
+    "question": "This sign means",
+    "picture": "Red octagonal sign with white words \"STOP\" and \"CHILDREN\"",
+    "options": [
+      {"letter": "A", "type": "text", "text": "You must stop for children to cross the road."},
+      {"letter": "B", "type": "text", "text": "Children must not cross the road."},
+      {"letter": "C", "type": "text", "text": "You can proceed as only children have to stop."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q02",
+    "label": 2,
+    "question": "This sign means",
+    "picture": "Inverted red-bordered white triangle sign with the words \"GIVE WAY\"",
+    "options": [
+      {"letter": "A", "type": "text", "text": "You must give way to pedestrians only."},
+      {"letter": "B", "type": "text", "text": "Pedestrians must give way to traffic at the junction."},
+      {"letter": "C", "type": "text", "text": "You must give way to traffic on the major road."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q03",
+    "label": 3,
+    "question": "This sign means 'No Entry' for vehicles",
+    "picture": "Red-bordered white circular sign showing \"2.3M\" between two inward-pointing black arrowheads",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Higher than 2.3 metres."},
+      {"letter": "B", "type": "text", "text": "Longer than 2.3 metres."},
+      {"letter": "C", "type": "text", "text": "Wider than 2.3 metres."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q04",
+    "label": 4,
+    "question": "What does this sign mean?",
+    "picture": "Red circular sign with a black right-turning arrow crossed by a red diagonal bar",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Bend to the right."},
+      {"letter": "B", "type": "text", "text": "No right turn."},
+      {"letter": "C", "type": "text", "text": "Road on the right closed."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q05",
+    "label": 5,
+    "question": "When you see this sign, you should",
+    "picture": "Red triangle warning sign with a vertical road and a side road branching off to the upper left",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Stop and give way to traffic from the right and left."},
+      {"letter": "B", "type": "text", "text": "Not slow down as you have the right of way."},
+      {"letter": "C", "type": "text", "text": "Slow down and beware of traffic from the left."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q06",
+    "label": 6,
+    "question": "When you see this sign, you should",
+    "picture": "Red triangle warning sign with a vertical road and a side road branching off to the upper right",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Not slow down as you have the right of way."},
+      {"letter": "B", "type": "text", "text": "Slow down and beware of traffic from the right."},
+      {"letter": "C", "type": "text", "text": "Slow down and give way to traffic from the right and left."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q07",
+    "label": 7,
+    "question": "If you need to display the 'vehicle breakdown', it should be placed",
+    "picture": "Red triangle with a plain white centre",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Just behind the vehicle."},
+      {"letter": "B", "type": "text", "text": "At least 10 metres behind your vehicle."},
+      {"letter": "C", "type": "text", "text": "At least 20 metres behind your vehicle."}
+    ],
+    "marked": "C",
+    "notes": "Question appears to omit a word after 'vehicle breakdown' (e.g. sign/triangle); copied as printed."
+  },
+  {
+    "id": "BTT_E_P5_Q08",
+    "label": 8,
+    "question": "When you approached this warning sign, you should",
+    "picture": "Red triangle warning sign showing a traffic light with red, amber and green lamps",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Continue at the same speed."},
+      {"letter": "B", "type": "text", "text": "Slow down and be prepared to stop."},
+      {"letter": "C", "type": "text", "text": "Increase speed to beat the lights."}
+    ],
+    "marked": "B",
+    "notes": "Source says 'approached' (past tense); copied as printed."
+  },
+  {
+    "id": "BTT_E_P5_Q09",
+    "label": 9,
+    "question": "Which of these signs indicates a staggered junction?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Red triangle warning sign with a black cross-shaped crossroads symbol"},
+      {"letter": "B", "type": "image", "text": "Red triangle warning sign with a black T-shaped junction symbol"},
+      {"letter": "C", "type": "image", "text": "Red triangle warning sign with a vertical road and side roads offset left and right"}
+    ],
+    "marked": "C",
+    "notes": "Option pictures are small thumbnails."
+  },
+  {
+    "id": "BTT_E_P5_Q10",
+    "label": 10,
+    "question": "What does this sign means?",
+    "picture": "Square sign, yellow top and red bottom, with a blue circle showing a white \"P\", a car and \"COUPON PARKING\"",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Parking lot for police vehicle only."},
+      {"letter": "B", "type": "text", "text": "Parking place for all vehicles."},
+      {"letter": "C", "type": "text", "text": "Parking place for season holders only."}
+    ],
+    "marked": "B",
+    "notes": "Source typo in question: 'does this sign means' (should be 'mean')."
+  },
+  {
+    "id": "BTT_E_P5_Q11",
+    "label": 11,
+    "question": "When you see this traffic sign, you should",
+    "picture": "Blue rectangular sign with white text \"Keep Left Unless Overtaking\"",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive on the road shoulder."},
+      {"letter": "B", "type": "text", "text": "Overtake vehicles on the left."},
+      {"letter": "C", "type": "text", "text": "Use the left lane of the road."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q12",
+    "label": 12,
+    "question": "What does this traffic sign mean?",
+    "picture": "Red circular sign with a red diagonal bar over a black car with a yellow explosion symbol above it",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Fire engines are prohibited in the tunnel."},
+      {"letter": "B", "type": "text", "text": "Vehicle carrying dangerous goods are not allowed to enter."},
+      {"letter": "C", "type": "text", "text": "Lane closed - vehicle on fire in the tunnel."}
+    ],
+    "marked": "B",
+    "notes": "Option B grammar as printed: 'Vehicle carrying ... are'."
+  },
+  {
+    "id": "BTT_E_P5_Q13",
+    "label": 13,
+    "question": "When you see this sign, you should",
+    "picture": "Red triangle warning sign showing two stooped elderly figures, one with a walking stick",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Keep a lookout as there is a school for the blind ahead."},
+      {"letter": "B", "type": "text", "text": "Slow down and beware of elderly people crossing the road."},
+      {"letter": "C", "type": "text", "text": "Stop the car and help the handicapped person to cross the road."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q14",
+    "label": 14,
+    "question": "Which of these signs mean 'bicycle must travel along cycle track' ?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Red-bordered circular sign with a diagonal bar over a pedestrian and a bicycle"},
+      {"letter": "B", "type": "image", "text": "Red-bordered circular sign with a diagonal bar over a bicycle"},
+      {"letter": "C", "type": "image", "text": "Blue circular sign with a white bicycle"}
+    ],
+    "marked": "C",
+    "notes": "Space before the question mark in the source. Option pictures are small thumbnails; option A symbols are hard to make out."
+  },
+  {
+    "id": "BTT_E_P5_Q15",
+    "label": 15,
+    "question": "The zig-zag lines on the road indicate that",
+    "picture": "Overhead view of a grey road with white zig-zag lines along both edges",
+    "options": [
+      {"letter": "A", "type": "text", "text": "The road is not even."},
+      {"letter": "B", "type": "text", "text": "The road is slippery."},
+      {"letter": "C", "type": "text", "text": "There is a zebra crossing ahead."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q16",
+    "label": 16,
+    "question": "The Parallel continuous yellow lines as shown in the diagram means",
+    "picture": "Overhead view of a grey road with two parallel continuous yellow lines along the left edge",
+    "options": [
+      {"letter": "A", "type": "text", "text": "No parking on that side of the road."},
+      {"letter": "B", "type": "text", "text": "No parking on the opposite side of the road."},
+      {"letter": "C", "type": "text", "text": "No overtaking allowed on this side of the road."}
+    ],
+    "marked": "A",
+    "notes": "Source capitalises 'Parallel' and uses 'lines ... means'; copied as printed."
+  },
+  {
+    "id": "BTT_E_P5_Q17",
+    "label": 17,
+    "question": "Which of these traffic light signal means turning right be ready to stop?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Traffic lights showing a green light and an amber right-turn arrow"},
+      {"letter": "B", "type": "image", "text": "Traffic lights showing a green light and a green right-turn arrow"},
+      {"letter": "C", "type": "image", "text": "Traffic lights showing a green light and a red right-turn arrow"}
+    ],
+    "marked": "A",
+    "notes": "Question grammar as printed ('traffic light signal means'). Option pictures are small thumbnails."
+  },
+  {
+    "id": "BTT_E_P5_Q18",
+    "label": 18,
+    "question": "When the traffic light signal turns 'green', you should check",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "For oncoming traffic before moving off."},
+      {"letter": "B", "type": "text", "text": "For oncoming traffic and traffic from the right and left before moving off."},
+      {"letter": "C", "type": "text", "text": "The rear view mirror before moving off."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q19",
+    "label": 19,
+    "question": "When the traffic lights signal turns amber and you have already passed the stop line you should,",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Stop and reverse back to the stop line."},
+      {"letter": "B", "type": "text", "text": "Continue to drive through the junction."},
+      {"letter": "C", "type": "text", "text": "Stop immediately."}
+    ],
+    "marked": "B",
+    "notes": "Question ends with a comma in the source."
+  },
+  {
+    "id": "BTT_E_P5_Q20",
+    "label": 20,
+    "question": "When the traffic lights signal turns amber, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Accelerate and cross the junction."},
+      {"letter": "B", "type": "text", "text": "Slow down and be ready to stop."},
+      {"letter": "C", "type": "text", "text": "Proceed with caution as the traffic light signals are out of order."}
+    ],
+    "marked": "B",
+    "notes": ""
+  }
+]

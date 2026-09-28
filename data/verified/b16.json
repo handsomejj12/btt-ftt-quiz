@@ -1,0 +1,262 @@
+[
+  {
+    "id": "FTT_E_P10_Q01",
+    "label": 1,
+    "question": "You intend to move out from a road side parking lot. Just before moving out, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Sound the horn."},
+      {"letter": "B", "type": "text", "text": "Lookout for motorcyclists passing you."},
+      {"letter": "C", "type": "text", "text": "Change down to first gear."}
+    ],
+    "marked": "B",
+    "notes": "Option B prints 'Lookout' as one word (source typo for 'Look out'); kept as printed."
+  },
+  {
+    "id": "FTT_E_P10_Q02",
+    "label": 2,
+    "question": "You see a pedestrian with a white walking stick. This means that the person is",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Physically disabled."},
+      {"letter": "B", "type": "text", "text": "Blind only."},
+      {"letter": "C", "type": "text", "text": "Deaf only."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P10_Q03",
+    "label": 3,
+    "question": "You should use the right foot to control the",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Clutch and rear brake."},
+      {"letter": "B", "type": "text", "text": "Foot-brake and accelerator."},
+      {"letter": "C", "type": "text", "text": "Gear lever and accelerator."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P10_Q04",
+    "label": 4,
+    "question": "You should wear suitable shoes when driving to",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Prevent wear of the pedal."},
+      {"letter": "B", "type": "text", "text": "Maintain control of the pedal."},
+      {"letter": "C", "type": "text", "text": "Enable you to adjust your seat."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P10_Q05",
+    "label": 5,
+    "question": "Your overall stopping distance will be longer when driving",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "In the rain."},
+      {"letter": "B", "type": "text", "text": "At night."},
+      {"letter": "C", "type": "text", "text": "In strong wind."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P10_Q06",
+    "label": 6,
+    "question": "Your vehicle pulls to one side when braking, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Change the tyres around."},
+      {"letter": "B", "type": "text", "text": "Pump the pedal when braking."},
+      {"letter": "C", "type": "text", "text": "Consult your mechanic as soon as possible."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P10_Q07",
+    "label": 7,
+    "question": "You can drive on the bus lane",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "When all other lanes are occupied."},
+      {"letter": "B", "type": "text", "text": "Outside the restricted hours."},
+      {"letter": "C", "type": "text", "text": "When passing another vehicle on the left."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P10_Q08",
+    "label": 8,
+    "question": "Which road user has caused a hazard?",
+    "picture": "Video frame of a road near a pedestrian crossing: a blue car labelled A at the kerb, a pedestrian labelled B, a yellow car labelled C",
+    "options": [
+      {"letter": "A", "type": "text", "text": "The parked car (A)"},
+      {"letter": "B", "type": "text", "text": "The pedestrian walking along the road (B)"},
+      {"letter": "C", "type": "text", "text": "The moving car (C)"}
+    ],
+    "marked": "A",
+    "notes": "Picture panel is a video frame with a 'Repeat Video' button. Options have no final full stop in the source."
+  },
+  {
+    "id": "FTT_E_P10_Q09",
+    "label": 9,
+    "question": "Which of these can affect your reaction time?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drugs."},
+      {"letter": "B", "type": "text", "text": "Contact lenses."},
+      {"letter": "C", "type": "text", "text": "Tinted windows."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P10_Q10",
+    "label": 10,
+    "question": "The 'Two second rule' is used in normal driving situation at",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Certain speed only."},
+      {"letter": "B", "type": "text", "text": "All speed."},
+      {"letter": "C", "type": "text", "text": "Fixed speed only."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P10_Q11",
+    "label": 11,
+    "question": "A new driver caught not displaying the 'Probation Plate' twice would",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Have to pay fine."},
+      {"letter": "B", "type": "text", "text": "Have his licence be revoked."},
+      {"letter": "C", "type": "text", "text": "Be suspended for 6 months."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P10_Q12",
+    "label": 12,
+    "question": "You are not allowed to book for a driving test, if you have accumulated",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "11 demerit points."},
+      {"letter": "B", "type": "text", "text": "12 demerit points."},
+      {"letter": "C", "type": "text", "text": "13 demerit points."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P10_Q13",
+    "label": 13,
+    "question": "While driving and you hear the siren of an ambulance behind you, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Stop immediately to let the ambulance overtake or pass."},
+      {"letter": "B", "type": "text", "text": "Keep left, slow down and stop if necessary."},
+      {"letter": "C", "type": "text", "text": "Speed up in order not to obstruct the ambulance."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P10_Q14",
+    "label": 14,
+    "question": "When someone follow closely behind you, he is telling you to",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive faster."},
+      {"letter": "B", "type": "text", "text": "Move over and let him pass."},
+      {"letter": "C", "type": "text", "text": "Race with him."}
+    ],
+    "marked": "B",
+    "notes": "Question prints 'someone follow' (grammar as in source); kept as printed."
+  },
+  {
+    "id": "FTT_E_P10_Q15",
+    "label": 15,
+    "question": "When driving in heavy rain and passing through water, you should gently test your",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Horn."},
+      {"letter": "B", "type": "text", "text": "Brakes from time to time."},
+      {"letter": "C", "type": "text", "text": "Signals."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P10_Q16",
+    "label": 16,
+    "question": "When starting the engine (automatic), the gear selector should be in",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Park (P) or Neutral (N) position."},
+      {"letter": "B", "type": "text", "text": "Reverse (R) position."},
+      {"letter": "C", "type": "text", "text": "Drive (D) position."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P10_Q17",
+    "label": 17,
+    "question": "Who is prohibited to drive on the expressway?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Motorcycle riders on probation."},
+      {"letter": "B", "type": "text", "text": "Motorcycle riders with side-cars."},
+      {"letter": "C", "type": "text", "text": "Motorcar probationary driving licence holders."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P10_Q18",
+    "label": 18,
+    "question": "Your vehicle has a puncture on the expressway. What should you do?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive slowly to the workshop."},
+      {"letter": "B", "type": "text", "text": "Pull up on the road shoulder."},
+      {"letter": "C", "type": "text", "text": "Stop in your lane and switch on the hazard lights."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P10_Q19",
+    "label": 19,
+    "question": "You are driving on a three-lane carriageway at 80 km/h .There is no traffic ahead. Which lane should you use?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Any lane."},
+      {"letter": "B", "type": "text", "text": "Middle lane."},
+      {"letter": "C", "type": "text", "text": "Left lane."}
+    ],
+    "marked": "C",
+    "notes": "Source spacing '80 km/h .There' (space before the full stop, none after) kept as printed."
+  },
+  {
+    "id": "FTT_E_P10_Q20",
+    "label": 20,
+    "question": "You need more braking effort when stopping your vehicle in",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "2nd gear."},
+      {"letter": "B", "type": "text", "text": "3rd gear."},
+      {"letter": "C", "type": "text", "text": "4th gear."}
+    ],
+    "marked": "C",
+    "notes": ""
+  }
+]

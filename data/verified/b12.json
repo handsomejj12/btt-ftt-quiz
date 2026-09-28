@@ -1,0 +1,262 @@
+[
+  {
+    "id": "BTT_E_P5_Q21",
+    "label": 21,
+    "question": "This policeman is giving signal to vehicles approaching",
+    "picture": "Traffic policeman in white uniform and helmet with one arm stretched straight out to the viewer's right",
+    "options": [
+      {"letter": "A", "type": "text", "text": "From front and behind to go."},
+      {"letter": "B", "type": "text", "text": "From the right may proceed."},
+      {"letter": "C", "type": "text", "text": "From the left may proceed."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q22",
+    "label": 22,
+    "question": "When you see a police officer giving this hand signal at a junction, you should",
+    "picture": "Traffic police officer in white uniform and helmet facing the viewer with both arms raised straight up",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Turn left only."},
+      {"letter": "B", "type": "text", "text": "Turn right only."},
+      {"letter": "C", "type": "text", "text": "Stop at the stop line."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q23",
+    "label": 23,
+    "question": "Which of these rider's arm signal mean he intends to move out or turn left?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Small drawing of a motorcyclist with one arm raised upward, bent at the elbow"},
+      {"letter": "B", "type": "image", "text": "Small drawing of a motorcyclist with one arm stretched straight out to the viewer's left"},
+      {"letter": "C", "type": "image", "text": "Small drawing of a motorcyclist with one arm held out to the viewer's right, with motion lines"}
+    ],
+    "marked": "B",
+    "notes": "Option pictures are very small and low resolution; arm positions described from enlarged crops. Question grammar as in source ('rider's arm signal mean')."
+  },
+  {
+    "id": "BTT_E_P5_Q24",
+    "label": 24,
+    "question": "When being overtaken, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Speed up."},
+      {"letter": "B", "type": "text", "text": "Maintain your speed."},
+      {"letter": "C", "type": "text", "text": "Slow down."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q25",
+    "label": 25,
+    "question": "When the motorcycle you are overtaking suddenly increases speed, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Accelerate more to overtake it quickly."},
+      {"letter": "B", "type": "text", "text": "Slow down and abort overtaking it."},
+      {"letter": "C", "type": "text", "text": "Sound your horn to warn the driver."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q26",
+    "label": 26,
+    "question": "Which car should give way to Car A?",
+    "picture": "Video frame of a crossroads from above: green Car A at the top, white Car C on the left, yellow Car B at the bottom, with blue path arrows",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Car C."},
+      {"letter": "B", "type": "text", "text": "Car B."},
+      {"letter": "C", "type": "text", "text": "Cars B & C."}
+    ],
+    "marked": "B",
+    "notes": "Picture panel is a video frame with a Repeat Video button."
+  },
+  {
+    "id": "BTT_E_P5_Q27",
+    "label": 27,
+    "question": "Which car should give way?",
+    "picture": "Video frame from above: yellow Car A in a merging lane beside red Car B on a three-lane road, with a small roadside sign",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Car 'A' should give way to Car 'B'."},
+      {"letter": "B", "type": "text", "text": "Car 'B' should speed up to allow Car 'A' to merge."},
+      {"letter": "C", "type": "text", "text": "Car \"B' should stop to allow Car 'A' to merge smoothly."}
+    ],
+    "marked": "A",
+    "notes": "Picture panel is a video frame with a Repeat Video button. Option C source has mismatched quotes: Car \"B' (double quote before B, single quote after)."
+  },
+  {
+    "id": "BTT_E_P5_Q28",
+    "label": 28,
+    "question": "When driving pass pedestrians or cyclists, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive at normal speed, close to them."},
+      {"letter": "B", "type": "text", "text": "Slow down and always give ample side clearance."},
+      {"letter": "C", "type": "text", "text": "Drive quickly past them."}
+    ],
+    "marked": "B",
+    "notes": "Source typo in question: 'pass' should be 'past'."
+  },
+  {
+    "id": "BTT_E_P5_Q29",
+    "label": 29,
+    "question": "When following a bus that pulls up at a bus stop, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Accelerate past the bus quickly."},
+      {"letter": "B", "type": "text", "text": "Slow down and watch carefully for pedestrians."},
+      {"letter": "C", "type": "text", "text": "Sound the horn and overtake the bus."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q30",
+    "label": 30,
+    "question": "When the 'Red man' signal is on and pedestrians are crossing, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Horn the pedestrians to demand the right of way."},
+      {"letter": "B", "type": "text", "text": "Stop and allow pedestrians to cross."},
+      {"letter": "C", "type": "text", "text": "Proceed behind the pedestrians."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q31",
+    "label": 31,
+    "question": "When you see children standing by the side of the road, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Maintain your normal speed."},
+      {"letter": "B", "type": "text", "text": "Slow down and be prepared to stop if necessary."},
+      {"letter": "C", "type": "text", "text": "Speed pass them."}
+    ],
+    "marked": "B",
+    "notes": "Source typo in option C: 'pass' should be 'past'."
+  },
+  {
+    "id": "BTT_E_P5_Q32",
+    "label": 32,
+    "question": "In which of these situations should you avoid overtaking?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Approaching a dip in the road."},
+      {"letter": "B", "type": "text", "text": "On a 50 km/h road.."},
+      {"letter": "C", "type": "text", "text": "In a one-way street."}
+    ],
+    "marked": "A",
+    "notes": "Option B ends with a double full stop in the source."
+  },
+  {
+    "id": "BTT_E_P5_Q33",
+    "label": 33,
+    "question": "What should you use the horn for?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "To signal your annoyance."},
+      {"letter": "B", "type": "text", "text": "To greet other road users."},
+      {"letter": "C", "type": "text", "text": "To warn others of danger."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q34",
+    "label": 34,
+    "question": "If you intend to drive after attending a function, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Avoid mixing your alcoholic drinks."},
+      {"letter": "B", "type": "text", "text": "Avoid drinking alcohol."},
+      {"letter": "C", "type": "text", "text": "Drink coffee before drinking alcohol."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q35",
+    "label": 35,
+    "question": "The penalty for a repeat drink driving offender is",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Fine, disqualification and a mandatory jail sentence."},
+      {"letter": "B", "type": "text", "text": "Disqualification only."},
+      {"letter": "C", "type": "text", "text": "Fine and disqualification only."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q36",
+    "label": 36,
+    "question": "Drink driving can contribute to accidents because",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drivers' judgement is impaired."},
+      {"letter": "B", "type": "text", "text": "Drivers take shorter time to react."},
+      {"letter": "C", "type": "text", "text": "Drivers' vision is improved."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q37",
+    "label": 37,
+    "question": "In the situation shown, the long vehicle is about to turn left and the car is going straight. The car should",
+    "picture": "Video frame from above: a long blue truck with a small red car beside its rear end, next to a side road junction",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and stop if necessary."},
+      {"letter": "B", "type": "text", "text": "Maintain its speed and position."},
+      {"letter": "C", "type": "text", "text": "Proceed quickly to pass the junction."}
+    ],
+    "marked": "A",
+    "notes": "Picture panel is a video frame with a Repeat Video button."
+  },
+  {
+    "id": "BTT_E_P5_Q38",
+    "label": 38,
+    "question": "Car A intends to pass Car B near a side road on the left, Car A should",
+    "picture": "Video frame from above: blue Car A behind light-blue Car B in the next lane, beside a side road junction",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive faster to pass the junction."},
+      {"letter": "B", "type": "text", "text": "Pass Car B on the right side."},
+      {"letter": "C", "type": "text", "text": "Pass Car B only after the junction."}
+    ],
+    "marked": "C",
+    "notes": "Picture panel is a video frame with a Repeat Video button."
+  },
+  {
+    "id": "BTT_E_P5_Q39",
+    "label": 39,
+    "question": "Before you make a U-turn on the road, you should check your blind spot by",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Looking at the rear view mirror."},
+      {"letter": "B", "type": "text", "text": "Looking over your shoulder."},
+      {"letter": "C", "type": "text", "text": "Looking at the side mirrors."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q40",
+    "label": 40,
+    "question": "The 'two-second rule' is used in normal driving situation at",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Certain speed only."},
+      {"letter": "B", "type": "text", "text": "All speed."},
+      {"letter": "C", "type": "text", "text": "Fixed speed only."}
+    ],
+    "marked": "B",
+    "notes": ""
+  }
+]

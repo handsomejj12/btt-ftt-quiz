@@ -1,0 +1,262 @@
+[
+  {
+    "id": "FTT_E_P9_Q31",
+    "label": 31,
+    "question": "When you noticed a cut in the sidewall of one of your tyres, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Replace the tyre before driving the vehicle."},
+      {"letter": "B", "type": "text", "text": "Check regularly to see if it gets any worse."},
+      {"letter": "C", "type": "text", "text": "Reduce pressure in the tyre before you drive."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q32",
+    "label": 32,
+    "question": "When driving round a sharp bend at high speed, your vehicle tends to be pushed out of its path of travel by a force called the",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Gravitational force."},
+      {"letter": "B", "type": "text", "text": "Centrigfugal force."},
+      {"letter": "C", "type": "text", "text": "Frictional force."}
+    ],
+    "marked": "B",
+    "notes": "Source typo in option B: 'Centrigfugal' (for 'Centrifugal'), kept as printed."
+  },
+  {
+    "id": "FTT_E_P9_Q33",
+    "label": 33,
+    "question": "When driving on a wet road, your stopping distance will",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Not increase."},
+      {"letter": "B", "type": "text", "text": "Increase to twice more than that of a dry road."},
+      {"letter": "C", "type": "text", "text": "Increase to four times more than that of a dry road."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q34",
+    "label": 34,
+    "question": "To prevent 'free wheeling' when stopping, you should not",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Depress the foot brake early."},
+      {"letter": "B", "type": "text", "text": "Depress the clutch too soon."},
+      {"letter": "C", "type": "text", "text": "Depress the accelerator pedal."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q35",
+    "label": 35,
+    "question": "To enable you to stop in any emergency without losing control of your vehicle, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive according to the speed limit of the road."},
+      {"letter": "B", "type": "text", "text": "Constantly adjust your speed to the conditions of the road."},
+      {"letter": "C", "type": "text", "text": "Adjust your steering grip."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q36",
+    "label": 36,
+    "question": "When the oncoming car refuses to dim its headlights, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and look at the left side of the kerb."},
+      {"letter": "B", "type": "text", "text": "Retaliate by turning on your high beam."},
+      {"letter": "C", "type": "text", "text": "Maintain your speed and the headlight status."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q37",
+    "label": 37,
+    "question": "You are turning left from a main road into a side road. Pedestrians are already crossing the road into which you are turning, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Continue as it is your right of way."},
+      {"letter": "B", "type": "text", "text": "Wait and allow them to cross."},
+      {"letter": "C", "type": "text", "text": "Sound your horn to warn them."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q38",
+    "label": 38,
+    "question": "When the traffic lights signal turns amber, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Accelerate and cross the junction."},
+      {"letter": "B", "type": "text", "text": "Slow down and be ready to stop."},
+      {"letter": "C", "type": "text", "text": "Proceed with caution as the traffic light signals are out of order."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q39",
+    "label": 39,
+    "question": "When you approach a 'green' traffic light signal at a junction, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Accelerate hard."},
+      {"letter": "B", "type": "text", "text": "Slow down and be ready to stop."},
+      {"letter": "C", "type": "text", "text": "Maintain your speed."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q40",
+    "label": 40,
+    "question": "You are following a long vehicle. It approaches a cross-roads and signals left but moves out to the right. You should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Get closer in order to pass it quickly."},
+      {"letter": "B", "type": "text", "text": "Overtake as it starts to slow down."},
+      {"letter": "C", "type": "text", "text": "Stay well back and give it more room."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q41",
+    "label": 41,
+    "question": "When should you use the right outer most lane of a carriageway?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "When driving at the maximum speed."},
+      {"letter": "B", "type": "text", "text": "When overtaking."},
+      {"letter": "C", "type": "text", "text": "When all other lanes are occupied."}
+    ],
+    "marked": "B",
+    "notes": "'outer most' is printed as two words in the source."
+  },
+  {
+    "id": "FTT_E_P9_Q42",
+    "label": 42,
+    "question": "You are driving in slow-moving queues of traffic. Just before changing lane you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Sound the horn."},
+      {"letter": "B", "type": "text", "text": "Look out for motorcycles filtering through the traffic."},
+      {"letter": "C", "type": "text", "text": "Change down to first gear."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q43",
+    "label": 43,
+    "question": "When the temperature gauge indicates 'hot' and steam is coming out from the bonnet of your car, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive slowly to the nearest workshop."},
+      {"letter": "B", "type": "text", "text": "Stop by the side and wait for the engine to cool before filling with water."},
+      {"letter": "C", "type": "text", "text": "Stop and fill the radiator with coolant immediately."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q44",
+    "label": 44,
+    "question": "When a skid is caused by harsh braking, correction can only begin by releasing the",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Clutch pedal."},
+      {"letter": "B", "type": "text", "text": "Accelerator pedal."},
+      {"letter": "C", "type": "text", "text": "Brake pedal."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q45",
+    "label": 45,
+    "question": "When the car skids while braking, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Depress the brake pedal harder."},
+      {"letter": "B", "type": "text", "text": "Release and depress the foot brake again."},
+      {"letter": "C", "type": "text", "text": "Apply handbrake immediately."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q46",
+    "label": 46,
+    "question": "You are travelling at the legal speed limit. A vehicle comes up quickly behind, flashing its headlights. You should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Maintain your speed to prevent the vehicle from overtaking."},
+      {"letter": "B", "type": "text", "text": "Allow the vehicle to overtake."},
+      {"letter": "C", "type": "text", "text": "Tap the brakes sharply to show your brake lights."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q47",
+    "label": 47,
+    "question": "The road shoulder of an expressway is also meant for",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Motorist to take a rest."},
+      {"letter": "B", "type": "text", "text": "Picking up and letting down of passengers."},
+      {"letter": "C", "type": "text", "text": "Broken down vehicles."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q48",
+    "label": 48,
+    "question": "You are turning left into a side road. Cyclists are crossing the road near the junction. You should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Sound your horn."},
+      {"letter": "B", "type": "text", "text": "Wait for them to cross."},
+      {"letter": "C", "type": "text", "text": "Proceed as normal."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q49",
+    "label": 49,
+    "question": "You must signal your intention at least",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "2 seconds in advance."},
+      {"letter": "B", "type": "text", "text": "3 seconds in advance."},
+      {"letter": "C", "type": "text", "text": "5 seconds in advance."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q50",
+    "label": 50,
+    "question": "When moving off from a stationary position, you have to",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Look in the mirrors, give proper signal, check traffic and pedestrians."},
+      {"letter": "B", "type": "text", "text": "Give way to passing and overtaking vehicles."},
+      {"letter": "C", "type": "text", "text": "Both answers A and B."}
+    ],
+    "marked": "C",
+    "notes": ""
+  }
+]

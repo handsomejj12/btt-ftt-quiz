@@ -1,0 +1,262 @@
+[
+  {
+    "id": "FTT_E_P2_Q01",
+    "label": 1,
+    "question": "When you are approaching a stationary vehicle with a driver in it, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive past him quickly so as not to obstruct him."},
+      {"letter": "B", "type": "text", "text": "Slow down a little because he may move out suddenly."},
+      {"letter": "C", "type": "text", "text": "Drive at the same speed because it is his duty to check passing traffic."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q02",
+    "label": 2,
+    "question": "When driving a car you are not familiar with, you should first test",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "How fast it can go in the 1st gear."},
+      {"letter": "B", "type": "text", "text": "How much space it requires to make a turn."},
+      {"letter": "C", "type": "text", "text": "How effective its brakes are."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q03",
+    "label": 3,
+    "question": "Before opening your car door, you should look out for",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Passsers-by and other motor vehicles."},
+      {"letter": "B", "type": "text", "text": "Cyclist and motorcyclist."},
+      {"letter": "C", "type": "text", "text": "All the above."}
+    ],
+    "marked": "C",
+    "notes": "Source typo in option A: 'Passsers-by' (three s) kept as printed."
+  },
+  {
+    "id": "FTT_E_P2_Q04",
+    "label": 4,
+    "question": "When changing gear, you should look",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Down at the gear lever."},
+      {"letter": "B", "type": "text", "text": "At the road ahead."},
+      {"letter": "C", "type": "text", "text": "Down at the clutch pedal."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q05",
+    "label": 5,
+    "question": "The correct way of braking is to",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Press the brake pedal early and hard and then reduce pressure gradually."},
+      {"letter": "B", "type": "text", "text": "Press the brake pedal late and hard until the vehicle comes to a stop."},
+      {"letter": "C", "type": "text", "text": "Press hard on the brake and clutch pedal together till vehicle stops."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q06",
+    "label": 6,
+    "question": "The handbrake is used",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "When driving up a hill."},
+      {"letter": "B", "type": "text", "text": "To control the speed of the car."},
+      {"letter": "C", "type": "text", "text": "When the car is stationary during stopping, waiting and parking."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q07",
+    "label": 7,
+    "question": "When your car breaks down on an expressway, a red triangle breakdown sign should be placed",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "On the top of your car."},
+      {"letter": "B", "type": "text", "text": "Beside your car."},
+      {"letter": "C", "type": "text", "text": "At least 20 metres behind your car."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q08",
+    "label": 8,
+    "question": "In the situation as shown, the motor car should",
+    "picture": "Overhead video frame: red car with a motorcyclist alongside on its left, approaching a side road on the left",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and turn after the motorcyclist."},
+      {"letter": "B", "type": "text", "text": "Speed up and turn before the motorcyclist reaches the junction."},
+      {"letter": "C", "type": "text", "text": "Turn side by side with the motorcyclist."}
+    ],
+    "marked": "A",
+    "notes": "Picture panel is a video frame with a Repeat Video button."
+  },
+  {
+    "id": "FTT_E_P2_Q09",
+    "label": 9,
+    "question": "In a traffic hold-up situation as shown, vehicle 'X' should",
+    "picture": "Overhead video frame of a junction in queued traffic: red car X, blue car Y in a side road, space marked Z",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Leave some space for vehicle Y to move out."},
+      {"letter": "B", "type": "text", "text": "Move to the position 'Z'."},
+      {"letter": "C", "type": "text", "text": "Turn left instead."}
+    ],
+    "marked": "A",
+    "notes": "Picture panel is a video frame with a Repeat Video button."
+  },
+  {
+    "id": "FTT_E_P2_Q10",
+    "label": 10,
+    "question": "Which of the following statements on alcohol and driving is true?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "It is safe to drive as long as you think you are not drunk."},
+      {"letter": "B", "type": "text", "text": "It is unsafe to drive after consuming alcohol."},
+      {"letter": "C", "type": "text", "text": "It is safe to drive one hour after having the last drink."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q11",
+    "label": 11,
+    "question": "You are on a clear and open road in good weather condition, the distance between you and the vehicle in front should be",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "One car's length."},
+      {"letter": "B", "type": "text", "text": "Two car's length."},
+      {"letter": "C", "type": "text", "text": "Two second time gap."}
+    ],
+    "marked": "C",
+    "notes": "Option B 'Two car's length.' is printed with the apostrophe as shown (grammatically odd), kept as printed."
+  },
+  {
+    "id": "FTT_E_P2_Q12",
+    "label": 12,
+    "question": "A person will not be allowed to register for a test if he has accumulated",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "10 demerit points."},
+      {"letter": "B", "type": "text", "text": "12 demerit points."},
+      {"letter": "C", "type": "text", "text": "13 demerit points."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q13",
+    "label": 13,
+    "question": "You will not be allowed to apply for a driving test date if you have",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "10 demerit points."},
+      {"letter": "B", "type": "text", "text": "12 demerit points."},
+      {"letter": "C", "type": "text", "text": "13 demerit points."}
+    ],
+    "marked": "C",
+    "notes": "Same options as Q12 with slightly different question wording."
+  },
+  {
+    "id": "FTT_E_P2_Q14",
+    "label": 14,
+    "question": "When you hear the siren of an emergency vehicle but are not sure where it is coming from, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Continue to drive at the same speed."},
+      {"letter": "B", "type": "text", "text": "Move to the side and stop if necessary."},
+      {"letter": "C", "type": "text", "text": "Drive faster so as not to obstruct the emergency vehicle."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q15",
+    "label": 15,
+    "question": "When passing a parked vehicle, you should leave a safe gap of at least",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "0.3 metre between your vehicle and the parked vehicle."},
+      {"letter": "B", "type": "text", "text": "0.5 metre between your vehicle and the parked vehicle."},
+      {"letter": "C", "type": "text", "text": "1.0 metre between your vehicle and the parked vehicle."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q16",
+    "label": 16,
+    "question": "After you have driven through a flood, you should check",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Your lights."},
+      {"letter": "B", "type": "text", "text": "Your brakes."},
+      {"letter": "C", "type": "text", "text": "Your tyres."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q17",
+    "label": 17,
+    "question": "An automatic car has two foot pedals",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "The brake and clutch pedals."},
+      {"letter": "B", "type": "text", "text": "The accelerator and brake pedals."},
+      {"letter": "C", "type": "text", "text": "The clutch and accelerator pedals."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q18",
+    "label": 18,
+    "question": "A basic rule when driving on an expressway is",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "To use the lane that has least traffic."},
+      {"letter": "B", "type": "text", "text": "To keep to the left lane unless overtaking."},
+      {"letter": "C", "type": "text", "text": "Always use the road shoulder."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q19",
+    "label": 19,
+    "question": "If you missed the exit on an expressway, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Stop and wait for a chance to reverse back to the exit"},
+      {"letter": "B", "type": "text", "text": "Carry on driving to the next exit"},
+      {"letter": "C", "type": "text", "text": "Reverse as quickly as possible so as not to create confusion"}
+    ],
+    "marked": "B",
+    "notes": "None of the three options ends with a full stop in the source."
+  },
+  {
+    "id": "FTT_E_P2_Q20",
+    "label": 20,
+    "question": "When you have completed changing up to the 5th gear, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Depress the clutch pedal slightly."},
+      {"letter": "B", "type": "text", "text": "Rest your left foot on the clutch pedal."},
+      {"letter": "C", "type": "text", "text": "Rest your left foot on the floor board."}
+    ],
+    "marked": "C",
+    "notes": ""
+  }
+]

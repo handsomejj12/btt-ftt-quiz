@@ -1,0 +1,203 @@
+BTT_E_P1_Q05: None of the three options ends with a full stop in the source.
+BTT_E_P1_Q14: Option B capitalises "Crossing" mid-sentence in the source.
+BTT_E_P1_Q15: Options begin with a lowercase letter in the source.
+BTT_E_P1_Q16: Option B capitalises "Crossing" mid-sentence in the source.
+BTT_E_P1_Q19: Question reads "see green traffic light signal" (no article) in the source.
+BTT_E_P1_Q21: Option B reads "approaching policeman" (no "the") as printed.
+BTT_E_P1_Q30: Option B reads "could cause road accident" (no "a") as printed.
+BTT_E_P1_Q37: Question text hyphenated across a line break ("bus-" / "stop"). Option C says "pedestrian" (singular) as printed.
+BTT_E_P1_Q40: Question reads "when road condition is" (no "the") as printed.
+BTT_E_P1_Q43: Source reads 'through flood' (no article).
+BTT_E_P1_Q47: Option A reads 'other road user' (singular) in the source, likely meant 'users'.
+BTT_E_P1_Q48: Source writes 'right most' as two words.
+BTT_E_P1_Q49: Source reads 'motorist is allowed' (no article).
+BTT_E_P2_Q07: Option A reads 'alternative vehicles' in the source, likely meant 'alternate'.
+BTT_E_P2_Q14: Option C source wording 'a children playground' kept as printed.
+BTT_E_P2_Q21: Option B source typo 'stop safety' (should be 'safely'); option C source wording 'Traffic lights signals' kept as printed.
+BTT_E_P2_Q25: Options have no final full stop in the source.
+BTT_E_P2_Q26: Option B source wording 'to overtaking' kept as printed.
+BTT_E_P2_Q27: Video question (picture panel has a Repeat Video button; only a still frame is available). Source has a space before the question mark.
+BTT_E_P2_Q38: Picture panel is a video frame with a Repeat Video button.
+BTT_E_P2_Q39: Picture panel is a video frame with a Repeat Video button.
+BTT_E_P2_Q41: Source wording kept as printed: "weather condition" and "Two car's length".
+BTT_E_P2_Q48: Source typo in option B: "higher that" (should be "higher than"); kept as printed.
+BTT_E_P2_Q50: Question has a fill-in blank shown as an underline, transcribed as "_____". Source wording "Children passenger" kept as printed. Options have no final full stop.
+BTT_E_P3_Q10: Source grammar kept as printed in options B and C: 'Turning vehicle are', 'Vehicle going straight are', 'other vehicle'.
+BTT_E_P3_Q11: Question ends with a comma as printed.
+BTT_E_P3_Q13: Option A has no final full stop in the source. Option B has no space between 'lane.' and '(possible' in the source.
+BTT_E_P3_Q14: Question says 'signs mean' as printed. Option signs are small thumbnails.
+BTT_E_P3_Q15: Space before the question mark as printed. Option signs are small thumbnails.
+BTT_E_P3_Q18: Question says 'amber lights means' as printed.
+BTT_E_P3_Q19: Question says 'does ... indicates' as printed.
+BTT_E_P3_Q23: Option pictures are tiny, low-resolution thumbnails (probably stills of animated arm signals); fine detail is hard to make out.
+BTT_E_P3_Q24: Option pictures are tiny, low-resolution thumbnails (probably stills of animated arm signals); fine detail is hard to make out. Same three pictures as Q23 in a different order.
+BTT_E_P3_Q26: Source typo in option C: 'maximun' (for 'maximum'). Option B reads 'match' as printed.
+BTT_E_P3_Q32: Question prints 'round about' as two words; option C prints 'roundabout'.
+BTT_E_P3_Q35: Source typo in option C: 'experience driver' (for 'experienced').
+BTT_E_P3_Q36: Question has a space before the question mark, as printed.
+BTT_E_P3_Q39: Option B prints 'wings mirrors' (for 'wing mirrors').
+BTT_E_P3_Q47: Source typo in option C: 'Swith' (should be 'Switch'); kept as printed.
+BTT_E_P4_Q13: Option B capitalises 'Crossing' mid-sentence as printed.
+BTT_E_P4_Q14: Option C reads 'a children playground' as printed.
+BTT_E_P4_Q17: Option pictures are very small thumbnails; arrow colours read from an enlarged crop.
+BTT_E_P4_Q23: Space before the question mark as printed; grammar 'driver's arm signal mean' as printed. Option pictures are very small thumbnails; arm motions read from an enlarged crop and are hard to make out.
+BTT_E_P4_Q26: Space before the question mark as printed. Picture is a still from a video (Repeat Video button).
+BTT_E_P4_Q27: Space before the question mark as printed. Picture is a still from a video (Repeat Video button).
+BTT_E_P4_Q32: Source grammar: 'How does the car interior lights' kept as printed.
+BTT_E_P4_Q34: Question contains a fill-in blank shown as an underline; rendered as underscores.
+BTT_E_P4_Q37: Source grammar: 'for pedestrian who may' kept as printed.
+BTT_E_P4_Q49: Source typo in option B: 'Putside' (should be 'Outside'), kept as printed.
+BTT_E_P5_Q07: Question appears to omit a word after 'vehicle breakdown' (e.g. sign/triangle); copied as printed.
+BTT_E_P5_Q08: Source says 'approached' (past tense); copied as printed.
+BTT_E_P5_Q09: Option pictures are small thumbnails.
+BTT_E_P5_Q10: Source typo in question: 'does this sign means' (should be 'mean').
+BTT_E_P5_Q12: Option B grammar as printed: 'Vehicle carrying ... are'.
+BTT_E_P5_Q14: Space before the question mark in the source. Option pictures are small thumbnails; option A symbols are hard to make out.
+BTT_E_P5_Q16: Source capitalises 'Parallel' and uses 'lines ... means'; copied as printed.
+BTT_E_P5_Q17: Question grammar as printed ('traffic light signal means'). Option pictures are small thumbnails.
+BTT_E_P5_Q19: Question ends with a comma in the source.
+BTT_E_P5_Q23: Option pictures are very small and low resolution; arm positions described from enlarged crops. Question grammar as in source ('rider's arm signal mean').
+BTT_E_P5_Q26: Picture panel is a video frame with a Repeat Video button.
+BTT_E_P5_Q27: Picture panel is a video frame with a Repeat Video button. Option C source has mismatched quotes: Car "B' (double quote before B, single quote after).
+BTT_E_P5_Q28: Source typo in question: 'pass' should be 'past'.
+BTT_E_P5_Q31: Source typo in option C: 'pass' should be 'past'.
+BTT_E_P5_Q32: Option B ends with a double full stop in the source.
+BTT_E_P5_Q37: Picture panel is a video frame with a Repeat Video button.
+BTT_E_P5_Q38: Picture panel is a video frame with a Repeat Video button.
+BTT_E_P5_Q41: Source prints a space after the hyphen in 'Two- second' and 'Four- second'; kept as printed.
+BTT_E_P5_Q46: Option A in source reads 'in front you' (missing 'of'); kept as printed.
+BTT_E_P5_Q48: Source prints 'outer most' as two words; kept as printed.
+BTT_E_P6_Q02: Option signs are small thumbnails; descriptions made from an enlarged crop.
+BTT_E_P6_Q04: Option signs are small thumbnails; descriptions made from an enlarged crop. Question grammar ('prohibit you to turn') kept as printed.
+BTT_E_P6_Q05: Option signs are small thumbnails; descriptions made from an enlarged crop.
+BTT_E_P6_Q06: Option signs are small thumbnails; descriptions made from an enlarged crop.
+BTT_E_P6_Q07: Option signs are small thumbnails; descriptions made from an enlarged crop.
+BTT_E_P6_Q08: Option signs are small thumbnails; descriptions made from an enlarged crop.
+BTT_E_P6_Q09: Source typo in question: 'What does this sign means?'; kept as printed.
+BTT_E_P6_Q10: Question uses past tense 'approached' as printed.
+BTT_E_P6_Q11: Source grammar: 'signs mean' (not 'means').
+BTT_E_P6_Q12: Source grammar: 'signs mean' (not 'means'). Option pictures are very small; symbols read from an enlarged crop.
+BTT_E_P6_Q13: Option B capitalises 'Crossing' as in source.
+BTT_E_P6_Q15: Source grammar: 'What does ... means?' (should be 'mean').
+BTT_E_P6_Q16: Options have no final full stop in source.
+BTT_E_P6_Q17: Option pictures are very small; arrow colours read from an enlarged crop.
+BTT_E_P6_Q19: Picture panel is a video frame (Repeat Video button).
+BTT_E_P6_Q23: Source grammar: 'rider's arm signal mean'. Option pictures are very small black-and-white drawings.
+BTT_E_P6_Q26: Picture panel is a video frame (Repeat Video button); car paths read from the arrows drawn in the frame.
+BTT_E_P6_Q27: Picture panel is a video frame (Repeat Video button); car paths read from the arrows drawn in the frame. Source grammar: 'Neither ... or'.
+BTT_E_P6_Q28: Source typo: 'driving pass' (should be 'past').
+BTT_E_P6_Q36: Source grammar kept: 'following statement' (singular) in the question.
+BTT_E_P6_Q38: Picture panel is a still frame from a video (has a Repeat Video button).
+BTT_E_P6_Q39: Picture panel is a still frame from a video (has a Repeat Video button).
+BTT_E_P6_Q41: Source grammar kept: 'normal driving situation' and 'All speed.' (singular).
+BTT_E_P6_Q43: Source grammar kept: 'While driving and you hear'.
+BTT_E_P6_Q45: Source spacing typo kept: space before the full stop and none after it in '80 km/h .There'.
+BTT_E_P6_Q47: Option B has no final full stop in the source.
+BTT_E_P6_Q49: Source spelling kept: 'outer most' written as two words.
+FTT_E_P10_Q01: Option B prints 'Lookout' as one word (source typo for 'Look out'); kept as printed.
+FTT_E_P10_Q08: Picture panel is a video frame with a 'Repeat Video' button. Options have no final full stop in the source.
+FTT_E_P10_Q14: Question prints 'someone follow' (grammar as in source); kept as printed.
+FTT_E_P10_Q19: Source spacing '80 km/h .There' (space before the full stop, none after) kept as printed.
+FTT_E_P10_Q22: Source typo in question: 'depress' (likely meant 'depressed'); kept as printed.
+FTT_E_P10_Q26: Option B has no final full stop in the source.
+FTT_E_P10_Q38: Picture panel is a video frame with a Repeat Video button.
+FTT_E_P10_Q41: 'outer most' is printed as two words in the source.
+FTT_E_P10_Q43: Source has a space before the comma after 'overheated'.
+FTT_E_P10_Q50: Option C refers to options A and B.
+FTT_E_P1_Q04: Option B 'Remained the same.' is ungrammatical in the source; kept as printed.
+FTT_E_P1_Q05: Source wording 'Straighten.' and '90 degree' kept as printed.
+FTT_E_P1_Q08: Picture panel is a video frame with a Repeat Video button. 'bus-' / 'stop' wraps across a line break, joined as 'bus-stop'. Option C 'for pedestrian' (singular, no article) kept as printed.
+FTT_E_P1_Q09: Picture panel is a video frame with a Repeat Video button.
+FTT_E_P1_Q18: Picture panel is a video frame with a Repeat Video button.
+FTT_E_P1_Q21: Option C has a stray space before the comma ("front , rear") in the source; kept as printed.
+FTT_E_P1_Q28: Option C refers to options A and B.
+FTT_E_P1_Q30: Option C refers to options A and B.
+FTT_E_P1_Q37: Source typo in question: "appoach" (should be "approach"), kept as printed.
+FTT_E_P1_Q39: Picture panel is a video frame with a Repeat Video button.
+FTT_E_P1_Q40: Option B wording as printed ("as you would"; likely meant "than you would").
+FTT_E_P1_Q45: "hands-free" is hyphenated across a line break in the source.
+FTT_E_P1_Q48: Picture panel is a video frame with a Repeat Video button.
+FTT_E_P2_Q03: Source typo in option A: 'Passsers-by' (three s) kept as printed.
+FTT_E_P2_Q08: Picture panel is a video frame with a Repeat Video button.
+FTT_E_P2_Q09: Picture panel is a video frame with a Repeat Video button.
+FTT_E_P2_Q11: Option B 'Two car's length.' is printed with the apostrophe as shown (grammatically odd), kept as printed.
+FTT_E_P2_Q13: Same options as Q12 with slightly different question wording.
+FTT_E_P2_Q19: None of the three options ends with a full stop in the source.
+FTT_E_P2_Q31: Option C reads 'when you think is necessary' (missing 'it') in the source; kept as printed.
+FTT_E_P2_Q35: Option A reads 'other road user' (singular) in the source; kept as printed.
+FTT_E_P2_Q40: Question says the vehicle moves in from the left lane 'with its left signal on' (checked on an enlarged crop); kept as printed.
+FTT_E_P2_Q41: Source typo in option B: 'higher that' (should be 'higher than').
+FTT_E_P2_Q45: Option A reads 'warn other road users the danger' (missing 'of') as printed in source.
+FTT_E_P2_Q47: Option C has capital 'I' in 'Immediately' as printed in source.
+FTT_E_P2_Q49: Source typo in question: '3 second' (should be '3 seconds').
+FTT_E_P3_Q02: Source typo in question: 'prescribe' (should be 'prescribed'). Option C ends with a double full stop in source.
+FTT_E_P3_Q08: Picture panel is a video frame with a Repeat Video button; only a single still frame is available.
+FTT_E_P3_Q09: Picture panel is a video frame with a Repeat Video button; the frame shows turn-path arrows that may hint at the answer.
+FTT_E_P3_Q13: Source typos kept: question says 'if the has accumulated' (likely 'he'); option C says 'demerits points'.
+FTT_E_P3_Q25: Picture panel is a video frame with a 'Repeat Video' button.
+FTT_E_P3_Q34: Option C source grammar: 'engine stall' (not 'stalls'), kept as printed.
+FTT_E_P3_Q41: Option A source reads 'speed limits' (plural), kept as printed.
+FTT_E_P3_Q47: Source typo in option C: 'driviers' (for 'drivers'). Option A has singular 'Cyclist'. Both kept as printed.
+FTT_E_P3_Q49: Option C source reads '45 degree' (singular), kept as printed.
+FTT_E_P4_Q03: Source grammar kept: 'does a school warden signals' in question; option C says 'opposition pavement' (likely meant 'opposite').
+FTT_E_P4_Q04: Source typo in option C: 'Rduce' (for 'Reduce').
+FTT_E_P4_Q08: Picture panel is a video frame with a 'Repeat Video' button.
+FTT_E_P4_Q09: Option A reads 'Give to car B.' in the source (word 'way' appears to be missing). Picture panel is a video frame with a 'Repeat Video' button.
+FTT_E_P4_Q15: Inconsistent spelling in source: option B uses 'meter' while A and C use 'metre'/'metres'; option C omits 'the' before 'pedestrians'.
+FTT_E_P4_Q18: Question has a space before the question mark ('hazard ?') in the source.
+FTT_E_P4_Q27: Source grammar in option B: 'assist the rider to overtaking safely' (kept as printed). Option C says 'driver' although the question is about a motorcyclist.
+FTT_E_P4_Q29: Source grammar in option B: 'pedestrian and obstruction' singular (kept as printed).
+FTT_E_P4_Q30: Source grammar in question: 'On rainy day' (missing 'a'), kept as printed.
+FTT_E_P4_Q33: Question contains a fill-in blank drawn as an underline; exact underscore count approximated as five. Options have no final full stop.
+FTT_E_P4_Q35: Source typo in option C: 'Swith' (should be 'Switch'), kept as printed.
+FTT_E_P4_Q42: Question ends with a fill-in blank line (rendered as underscores). Option B starts with a lowercase 'water' in the source.
+FTT_E_P4_Q47: Source uses the spelling 'signaling' (single l).
+FTT_E_P4_Q49: Option B source typo: 'Lookout' written as one word (should be 'Look out').
+FTT_E_P5_Q02: Option B source grammar error: 'Let fresh air gets' (should be 'get').
+FTT_E_P5_Q08: Video question (Repeat Video button); picture is a single frame.
+FTT_E_P5_Q09: Video question (Repeat Video button); picture is a single frame.
+FTT_E_P5_Q23: Question uses the spelling 'traveling' (single l), kept as printed.
+FTT_E_P5_Q27: Option A spells 'foot-brake' with a hyphen but option B spells 'Foot brake' without one; kept as printed.
+FTT_E_P5_Q31: Question contains a drawn blank line, transcribed as underscores.
+FTT_E_P5_Q37: Source typo in option B: 'stop safety' (likely 'safely'). Option C reads 'Traffic lights signals' as printed.
+FTT_E_P5_Q43: Source typo in option B: 'Leave you vehicle' (likely 'your').
+FTT_E_P6_Q06: Source typo in option B: 'Thrid' for 'Third' (kept as printed).
+FTT_E_P6_Q08: Video question (Repeat Video button); picture is a single still frame.
+FTT_E_P6_Q09: Video question (Repeat Video button). Question ends without a question mark in the source; 'Car A' and 'car B' capitalised inconsistently as printed.
+FTT_E_P6_Q10: Source grammar in option C: 'experience driver' (likely 'experienced'), kept as printed.
+FTT_E_P6_Q15: Source grammar in question: 'On rainy day' (missing 'a'), kept as printed.
+FTT_E_P6_Q22: Option A source writes "Over heating" as two words.
+FTT_E_P6_Q27: Source typo in option C: "maximun" (for "maximum"). Option B grammar as printed: "that match".
+FTT_E_P6_Q34: Option B starts with a lowercase "keep" in the source.
+FTT_E_P6_Q35: Option A source is missing a word: "in front you" (for "in front of you").
+FTT_E_P6_Q36: Question grammar as printed: "will a child becomes".
+FTT_E_P6_Q44: Source typo kept: 'occuring' (should be 'occurring').
+FTT_E_P6_Q47: Source has a stray space before the comma: 'cyclist , you'.
+FTT_E_P7_Q01: Source typo kept: 'driving pass' (should be 'past').
+FTT_E_P7_Q02: Option B has no final full stop in the source. Source typo kept in B and C: 'pass them' (should be 'past').
+FTT_E_P7_Q04: Source grammar kept: 'your vehicle pulled' (tense).
+FTT_E_P7_Q10: Question contains a fill-in blank drawn as a solid underline; rendered here as 6 underscores (exact count cannot be read from the image).
+FTT_E_P7_Q12: Source grammar kept as printed: 'situation' (singular) and 'All speed.'
+FTT_E_P7_Q13: Source prints '13-demerit points' with a hyphen; kept as printed.
+FTT_E_P7_Q21: Source prints 'Over heating' as two words; kept as printed.
+FTT_E_P7_Q46: Option A source grammar error kept as printed: "as if nothing have happened" (should be "has").
+FTT_E_P7_Q47: Question source typo kept as printed: first word is "f" (missing "I", should be "If").
+FTT_E_P8_Q07: Picture panel is a video frame with a Repeat Video button.
+FTT_E_P8_Q08: Picture panel is a video frame with a Repeat Video button.
+FTT_E_P8_Q11: Source typo in option B: "wings mirrors" (should be "wing mirrors"); kept as printed. Question grammar "'Blind spots' ... is an area" kept as printed.
+FTT_E_P8_Q12: Question says "normal condition" (singular) as printed.
+FTT_E_P8_Q23: Option B source typo: 'depress' (for 'depressed'), kept as printed.
+FTT_E_P8_Q27: Question source wording: 'going down slope' and 'the followings', kept as printed.
+FTT_E_P8_Q31: Option B source typo: 'aquaplanning' (for 'aquaplane'), kept as printed.
+FTT_E_P8_Q37: Option C source wording 'Speed pass them.' kept as printed.
+FTT_E_P8_Q39: Question ends with a comma ('you should,') in the source, kept as printed.
+FTT_E_P8_Q43: Source grammar kept as printed: option A 'them ... it is effective'; option C 'Pumps' (not 'Pump').
+FTT_E_P8_Q46: Source grammar kept as printed: 'learners who stalls'.
+FTT_E_P9_Q02: Source typo kept: 'motocycles' in the question (options spell 'Motorcycles').
+FTT_E_P9_Q03: Source has a space before the full stop: 'expressway .'
+FTT_E_P9_Q04: Question contains a fill-in blank drawn as an underline (length approximated with 10 underscores); no space between the blank and 'so'. Options have no final full stop.
+FTT_E_P9_Q09: Lane numbers in the picture are partly hidden behind faded cars. Options have no final full stop.
+FTT_E_P9_Q10: Option C has no final full stop in the source. Question says 'statement' (singular) as printed.
+FTT_E_P9_Q30: Source typo kept: "aquaplanning" (usual spelling is "aquaplaning").
+FTT_E_P9_Q32: Source typo in option B: 'Centrigfugal' (for 'Centrifugal'), kept as printed.
+FTT_E_P9_Q41: 'outer most' is printed as two words in the source.

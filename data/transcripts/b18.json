@@ -1,0 +1,502 @@
+[
+ {
+  "id": "FTT_E_P10_Q41",
+  "label": 41,
+  "question": "You are permitted to use the outer most right lane on a three-lane dual carriageway when",
+  "picture": null,
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "You are travelling at the maximum legal speed limit of the road."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "You intend to turn right ahead."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "Emergency vehicles are not using it."
+   }
+  ],
+  "marked": "B",
+  "notes": "'outer most' is printed as two words in the source."
+ },
+ {
+  "id": "FTT_E_P10_Q42",
+  "label": 42,
+  "question": "When the temperature gauge on your vehicle indicates 'hot'. What is the cause?",
+  "picture": null,
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "The exhaust pipe is getting too hot."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "The engine is heating up."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "The air conditioning is not working properly."
+   }
+  ],
+  "marked": "B",
+  "notes": ""
+ },
+ {
+  "id": "FTT_E_P10_Q43",
+  "label": 43,
+  "question": "While driving, and your engine gets overheated , you should",
+  "picture": null,
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "Pour water to cool down the engine."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "Slow down and stop at a safe spot to let the engine cool down by itself."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "Drive to the nearest petrol kiosk for repairs."
+   }
+  ],
+  "marked": "B",
+  "notes": "Source has a space before the comma after 'overheated'."
+ },
+ {
+  "id": "FTT_E_P10_Q44",
+  "label": 44,
+  "question": "You are driving in very wet weather. Your vehicle begins to slide. This effect is called",
+  "picture": null,
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "Weaving."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "Fading."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "Aquaplaning."
+   }
+  ],
+  "marked": "C",
+  "notes": ""
+ },
+ {
+  "id": "FTT_E_P10_Q45",
+  "label": 45,
+  "question": "You are travelling at the legal speed limit. A vehicle comes up quickly behind, flashing its headlights. You should",
+  "picture": null,
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "Maintain your speed to prevent the vehicle from overtaking."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "Allow the vehicle to overtake."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "Touch the brakes sharply to show your brake lights."
+   }
+  ],
+  "marked": "B",
+  "notes": ""
+ },
+ {
+  "id": "FTT_E_P10_Q46",
+  "label": 46,
+  "question": "What should you use the road shoulder of an expressway for?",
+  "picture": null,
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "Leaving the expressway."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "Joining the expressway."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "Stopping in an emergency."
+   }
+  ],
+  "marked": "C",
+  "notes": ""
+ },
+ {
+  "id": "FTT_E_P10_Q47",
+  "label": 47,
+  "question": "You intend to turn left and there is a cyclist ahead on the left, you should",
+  "picture": null,
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "Slow down and allow the cyclist to pass the junction."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "Drive faster to avoid the cyclist."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "Horn to warn him you are turning left."
+   }
+  ],
+  "marked": "A",
+  "notes": ""
+ },
+ {
+  "id": "FTT_E_P10_Q48",
+  "label": 48,
+  "question": "You should never attempt to overtake a cyclist",
+  "picture": null,
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "Just before you turn left."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "Just before you turn right."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "On a one-way street."
+   }
+  ],
+  "marked": "A",
+  "notes": ""
+ },
+ {
+  "id": "FTT_E_P10_Q49",
+  "label": 49,
+  "question": "You should use your right hand indicator when",
+  "picture": null,
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "You intend to slow down."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "You are about to stop."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "You intend to move to the right at any time."
+   }
+  ],
+  "marked": "C",
+  "notes": ""
+ },
+ {
+  "id": "FTT_E_P10_Q50",
+  "label": 50,
+  "question": "You should check your mirrors before",
+  "picture": null,
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "Moving off, slowing down and stopping."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "Changing lane, overtaking, turning and every 5 to 10 seconds."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "Both A and B."
+   }
+  ],
+  "marked": "C",
+  "notes": "Option C refers to options A and B."
+ },
+ {
+  "id": "FTT_E_P1_Q01",
+  "label": 1,
+  "question": "When driving behind a bus, you should",
+  "picture": null,
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "Keep a longer following distance."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "Keep the normal following distance."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "Keep more to the right to have a better view."
+   }
+  ],
+  "marked": "A",
+  "notes": ""
+ },
+ {
+  "id": "FTT_E_P1_Q02",
+  "label": 2,
+  "question": "When you are driving along a main road, you should",
+  "picture": null,
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "Stop at every road junction before proceeding."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "Accelerate through each junction."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "Check every side road before you drive past them."
+   }
+  ],
+  "marked": "C",
+  "notes": ""
+ },
+ {
+  "id": "FTT_E_P1_Q03",
+  "label": 3,
+  "question": "You notice a vehicle trying to pull out between a row of stationary vehicles. You should",
+  "picture": null,
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "Drive on regardless of danger ahead."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "Sound the horn and maintain your speed."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "Slow down and be prepared to stop."
+   }
+  ],
+  "marked": "C",
+  "notes": ""
+ },
+ {
+  "id": "FTT_E_P1_Q04",
+  "label": 4,
+  "question": "As vehicle speed increases, your field of vision would be",
+  "picture": null,
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "Reduced."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "Remained the same."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "Increased."
+   }
+  ],
+  "marked": "A",
+  "notes": "Option B 'Remained the same.' is ungrammatical in the source; kept as printed."
+ },
+ {
+  "id": "FTT_E_P1_Q05",
+  "label": 5,
+  "question": "When driving, your arms should be",
+  "picture": null,
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "Straighten."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "Slightly bent."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "Bent at 90 degree."
+   }
+  ],
+  "marked": "B",
+  "notes": "Source wording 'Straighten.' and '90 degree' kept as printed."
+ },
+ {
+  "id": "FTT_E_P1_Q06",
+  "label": 6,
+  "question": "Some of the common vehicle defects that can cause accidents are",
+  "picture": null,
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "Faulty seat belts, seats, child restraint and alarm system."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "Faulty tyres, brakes, shock absorbers and windscreen wipers."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "Dull paint, dented bumpers and old seats."
+   }
+  ],
+  "marked": "B",
+  "notes": ""
+ },
+ {
+  "id": "FTT_E_P1_Q07",
+  "label": 7,
+  "question": "The handbrake of a car acts",
+  "picture": null,
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "Only on the rear wheels."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "Only on the front wheels."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "On both the front and rear wheels."
+   }
+  ],
+  "marked": "A",
+  "notes": ""
+ },
+ {
+  "id": "FTT_E_P1_Q08",
+  "label": 8,
+  "question": "When passing the stationary bus at the bus-stop, you should",
+  "picture": "Video frame: red bus stopped in a yellow-marked bus bay with people at the stop, white car on the road",
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "Sound the horn to warn the bus driver of your presence."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "Speed up to overtake the bus before it moves off."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "Slow down and be ready to stop for pedestrian who may cross the road in front of the bus."
+   }
+  ],
+  "marked": "C",
+  "notes": "Picture panel is a video frame with a Repeat Video button. 'bus-' / 'stop' wraps across a line break, joined as 'bus-stop'."
+ },
+ {
+  "id": "FTT_E_P1_Q09",
+  "label": 9,
+  "question": "Both the van and the car are entering a car park, the car should not overtake the van",
+  "picture": "Video frame, top-down view: white van and red car on a road with yellow edge lines, parked cars on the right",
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "Because of the centre white line."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "Because of the double yellow line."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "Because it is not safe to do so."
+   }
+  ],
+  "marked": "C",
+  "notes": "Picture panel is a video frame with a Repeat Video button."
+ },
+ {
+  "id": "FTT_E_P1_Q10",
+  "label": 10,
+  "question": "How does alcohol affect you?",
+  "picture": null,
+  "options": [
+   {
+    "letter": "A",
+    "type": "text",
+    "text": "It reduces your concentration."
+   },
+   {
+    "letter": "B",
+    "type": "text",
+    "text": "It increases your awareness."
+   },
+   {
+    "letter": "C",
+    "type": "text",
+    "text": "It improves your co-ordination."
+   }
+  ],
+  "marked": "A",
+  "notes": ""
+ }
+]

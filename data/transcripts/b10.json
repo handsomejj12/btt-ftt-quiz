@@ -1,0 +1,502 @@
+[
+  {
+    "id": "BTT_E_P4_Q31",
+    "label": 31,
+    "question": "When driving in the rain, you should",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Drive faster to get home."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Reduce your speed."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Drive at normal speed."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q32",
+    "label": 32,
+    "question": "How does the car interior lights affect your driving?",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "It makes you more alert."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "It reduces your visibility."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "It helps you to see better."
+      }
+    ],
+    "marked": "B",
+    "notes": "Source grammar: 'How does the car interior lights' kept as printed."
+  },
+  {
+    "id": "BTT_E_P4_Q33",
+    "label": 33,
+    "question": "On a wet road, the braking distance will",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Not increase if the tyres are good."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Not increase if the brakes are efficient."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Increase despite good tyres."
+      }
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q34",
+    "label": 34,
+    "question": "If you failed to have a proper control of your vehicle, you could be charged for ___________ even though your blood alcohol content is below the legal limit.",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Careless driving."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Drink driving."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Reckless driving."
+      }
+    ],
+    "marked": "B",
+    "notes": "Question contains a fill-in blank shown as an underline; rendered as underscores."
+  },
+  {
+    "id": "BTT_E_P4_Q35",
+    "label": 35,
+    "question": "If you consume alcohol, you should",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Have a coffee then drive home."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Go home by public transport."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Drive home carefully."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q36",
+    "label": 36,
+    "question": "If you had too much alcohol",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Your ability to drive is impaired."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Your reactions are better."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Your vision is improved."
+      }
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q37",
+    "label": 37,
+    "question": "When passing the stationary bus at the bus-stop, you should",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Sound the horn to warn the bus driver of your presence."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Speed up to overtake the bus before it moves off."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Slow down and be ready to stop for pedestrian who may cross the road in front of the bus."
+      }
+    ],
+    "marked": "C",
+    "notes": "Source grammar: 'for pedestrian who may' kept as printed."
+  },
+  {
+    "id": "BTT_E_P4_Q38",
+    "label": 38,
+    "question": "When a car is stopping in front of a zebra crossing, you should",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Quickly pass the vehicle before any pedestrians come along."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Sound the horn to warn pedestrians."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Slow down and be ready to stop for pedestrians to cross the road."
+      }
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q39",
+    "label": 39,
+    "question": "Motorcyclists will often look over their right shoulder just before turning right. This is because",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "They need to listen for following traffic."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "They need to check for traffic in their blind area."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Looking around helps them balance as they turn."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q40",
+    "label": 40,
+    "question": "The 'Two-Second Rule' of safe following distance applies to all vehicles travelling at",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Slow speed only."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Fast speed only."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Any speed."
+      }
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q41",
+    "label": 41,
+    "question": "In order to avoid an accident with the vehicle in front while driving under normal conditions you should use the",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Two-second rule."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Four-second rule."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Two metre rule."
+      }
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q42",
+    "label": 42,
+    "question": "What must you do when a police vehicle with its siren on is behind you?",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Continue to drive as normal."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Slow down and move to the side."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Speed up."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q43",
+    "label": 43,
+    "question": "If you are in doubt of the depth of flood water (whether passable to vehicles), you should",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Drive through slowly."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Drive through as quickly as possible."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Take an alternative route."
+      }
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q44",
+    "label": 44,
+    "question": "To drive through a flood, you should increase acceleration and",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Change to a lower gear."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Change to a higher gear."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Apply half clutch."
+      }
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q45",
+    "label": 45,
+    "question": "Under what circumstances you may not follow the 'keep left rule'?",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "When travelling at the maximum speed limit of the road."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "When traffic is light."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "When your path is obstructed."
+      }
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q46",
+    "label": 46,
+    "question": "The purpose of using dipped headlights whilst driving is to",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "To save the battery's electrical energy."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "To light up the road immediately in front of you."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "To avoid dazzling drivers of oncoming vehicles."
+      }
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q47",
+    "label": 47,
+    "question": "When blinded by the headlights of an oncoming vehicle at night, you should",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Close your eyes."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Slow down or stop."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Pull down the sun visor."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q48",
+    "label": 48,
+    "question": "Road hogging",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Ensures a smoother flow of traffic."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Causes other vehicles to overtake dangerously on the left."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Causes other vehicles to overtake on the right."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q49",
+    "label": 49,
+    "question": "You can drive on the bus lane",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "When all other lanes are occupied."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Putside the restricted hours."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "When passing another vehicle on the left."
+      }
+    ],
+    "marked": "B",
+    "notes": "Source typo in option B: 'Putside' (should be 'Outside'), kept as printed."
+  },
+  {
+    "id": "BTT_E_P4_Q50",
+    "label": 50,
+    "question": "Seat belt must be worn at all times by",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "The driver only."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "The passengers only."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "The driver as well as the passengers."
+      }
+    ],
+    "marked": "C",
+    "notes": ""
+  }
+]

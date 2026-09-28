@@ -1,0 +1,262 @@
+[
+  {
+    "id": "BTT_E_P1_Q21",
+    "label": 21,
+    "question": "The signal given by the policeman in the picture means",
+    "picture": "Traffic policeman in white uniform and helmet facing front, both forearms raised upright beside the head, palms facing forward",
+    "options": [
+      {"letter": "A", "type": "text", "text": "All vehicles must stop."},
+      {"letter": "B", "type": "text", "text": "Vehicles approaching policeman from in front and behind him must stop."},
+      {"letter": "C", "type": "text", "text": "Vehicles approaching from his right and left to stop."}
+    ],
+    "marked": "A",
+    "notes": "Option B reads \"approaching policeman\" (no \"the\") as printed."
+  },
+  {
+    "id": "BTT_E_P1_Q22",
+    "label": 22,
+    "question": "This Police officer is signalling",
+    "picture": "Traffic policeman in white uniform turned to the side with one hand raised, palm open",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drivers from his left, front and rear to go."},
+      {"letter": "B", "type": "text", "text": "Drivers from his left, front and rear to stop."},
+      {"letter": "C", "type": "text", "text": "Drivers from his right, front and behind to stop."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q23",
+    "label": 23,
+    "question": "When a driver signals in this manner, it means",
+    "picture": "Rear view of a blue car; driver's arm out of the right window moving in a circle (orange circular arrows)",
+    "options": [
+      {"letter": "A", "type": "text", "text": "He intends to make a U-turn."},
+      {"letter": "B", "type": "text", "text": "He intends to go around the round-about."},
+      {"letter": "C", "type": "text", "text": "He intends to move to the left or turn to the left."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q24",
+    "label": 24,
+    "question": "You may overtake another vehicle on the left",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "If it is a heavy vehicle."},
+      {"letter": "B", "type": "text", "text": "If the driver in front signals his intention to turn right."},
+      {"letter": "C", "type": "text", "text": "If you are certain that the vehicle would not change direction."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q25",
+    "label": 25,
+    "question": "When should you start to keep left after overtaking?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "As soon as you are ahead of the overtaken vehicle."},
+      {"letter": "B", "type": "text", "text": "When you can see the overtaken vehicle in your left wing mirror."},
+      {"letter": "C", "type": "text", "text": "When you can see the overtaken vehicle in your rear view mirror inside the cabin."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q26",
+    "label": 26,
+    "question": "This diagram shows Cars A, B and C turning in the directions indicated at an uncontrolled junction. Which car must give way?",
+    "picture": "Top-down crossroads diagram with yellow Car A (bottom), blue Car B (right) and red Car C (top), curved arrows showing each car's turn",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Car A must give way to cars B and C."},
+      {"letter": "B", "type": "text", "text": "Car B must give way to cars A and C."},
+      {"letter": "C", "type": "text", "text": "Car C must give way to cars A and B."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q27",
+    "label": 27,
+    "question": "This diagram shows Cars A, B and C going in the directions indicated at an uncontrolled junction. Which cars should give way?",
+    "picture": "Top-down crossroads diagram with yellow Car A (bottom), blue Car B (right) and red Car C (top); B's arrow goes straight, A's and C's arrows curve",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Cars A and C should give way to Car B."},
+      {"letter": "B", "type": "text", "text": "Cars A and B should give way to Car C."},
+      {"letter": "C", "type": "text", "text": "Cars B and C should give way to Car A."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q28",
+    "label": 28,
+    "question": "Driving with a 'bald' tyre is dangerous because",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "It skids more easily."},
+      {"letter": "B", "type": "text", "text": "There is greater probability of punctures."},
+      {"letter": "C", "type": "text", "text": "Both answers."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q29",
+    "label": 29,
+    "question": "When you are driving along, you must check your rear view mirror once every",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "1 to 2 seconds."},
+      {"letter": "B", "type": "text", "text": "5 to 10 seconds."},
+      {"letter": "C", "type": "text", "text": "20 to 30 seconds."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q30",
+    "label": 30,
+    "question": "Reversing from a side road into a main road is",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Allowed if there is no vehicle around."},
+      {"letter": "B", "type": "text", "text": "Not allowed for it is unsafe and could cause road accident."},
+      {"letter": "C", "type": "text", "text": "Allowed during the daytime only."}
+    ],
+    "marked": "B",
+    "notes": "Option B reads \"could cause road accident\" (no \"a\") as printed."
+  },
+  {
+    "id": "BTT_E_P1_Q31",
+    "label": 31,
+    "question": "Crossing the double continuous white lines along the centre of the road",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Is an offence because it is unsafe to do so."},
+      {"letter": "B", "type": "text", "text": "Is not an offence if you are overtaking another vehicle."},
+      {"letter": "C", "type": "text", "text": "Is not an offence if you do not cause inconvenience to others."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q32",
+    "label": 32,
+    "question": "Your reaction time could be affected when",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "You are tired."},
+      {"letter": "B", "type": "text", "text": "Your vehicle is old."},
+      {"letter": "C", "type": "text", "text": "The traffic is heavy."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q33",
+    "label": 33,
+    "question": "How does alcohol affect you?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "It reduces your concentration."},
+      {"letter": "B", "type": "text", "text": "It increases your awareness."},
+      {"letter": "C", "type": "text", "text": "It improves your co-ordination."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q34",
+    "label": 34,
+    "question": "Drink driving",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Will not affect your reaction time."},
+      {"letter": "B", "type": "text", "text": "May affect your reaction time."},
+      {"letter": "C", "type": "text", "text": "May cause you to react faster."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q35",
+    "label": 35,
+    "question": "Which of the following statements on alcohol and driving is true?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "It is safe to drive as long as you think you are not drunk."},
+      {"letter": "B", "type": "text", "text": "It is unsafe to drive after consuming alcohol."},
+      {"letter": "C", "type": "text", "text": "It is safe to drive one hour after having the last drink."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q36",
+    "label": 36,
+    "question": "A person will be disqualified from driving if he is caught",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Driving with a blood alcohol concentration over 80 mg of alcohol/100ml of blood."},
+      {"letter": "B", "type": "text", "text": "Failing to obey a 'Stop' traffic sign."},
+      {"letter": "C", "type": "text", "text": "Failing to give way to an ambulance with its siren on."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q37",
+    "label": 37,
+    "question": "When passing the stationary bus at the bus-stop, you should",
+    "picture": "Video frame: red bus stopped in a yellow-marked bus bay with people at the stop; white car approaching from behind",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Sound the horn to warn the bus driver of your presence."},
+      {"letter": "B", "type": "text", "text": "Speed up to overtake the bus before it moves off."},
+      {"letter": "C", "type": "text", "text": "Slow down and be ready to stop for pedestrian who may cross the road in front of the bus."}
+    ],
+    "marked": "C",
+    "notes": "Question text hyphenated across a line break (\"bus-\" / \"stop\"). Option C says \"pedestrian\" (singular) as printed."
+  },
+  {
+    "id": "BTT_E_P1_Q38",
+    "label": 38,
+    "question": "When a car is stopping in front of a zebra crossing, you should",
+    "picture": "Video frame: red car stopped before a zebra crossing with zigzag lines; pedestrians standing by the roadside",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Quickly pass the vehicle before any pedestrians come along."},
+      {"letter": "B", "type": "text", "text": "Sound the horn to warn pedestrians."},
+      {"letter": "C", "type": "text", "text": "Slow down and be ready to stop for pedestrians to cross the road."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q39",
+    "label": 39,
+    "question": "To check 'blind spot' when driving, you must",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Turn your head and look over your shoulder."},
+      {"letter": "B", "type": "text", "text": "Turn your head and look into the wing mirrors."},
+      {"letter": "C", "type": "text", "text": "Turn your head and look into the rear-view mirror."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q40",
+    "label": 40,
+    "question": "The 'Two-second Rule' is a sufficient distance between your vehicle and the car in front when road condition is",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Wet."},
+      {"letter": "B", "type": "text", "text": "Good."},
+      {"letter": "C", "type": "text", "text": "Hazy."}
+    ],
+    "marked": "B",
+    "notes": "Question reads \"when road condition is\" (no \"the\") as printed."
+  }
+]

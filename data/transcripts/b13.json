@@ -1,0 +1,262 @@
+[
+  {
+    "id": "BTT_E_P5_Q41",
+    "label": 41,
+    "question": "In order to avoid an accident with the vehicle in front while driving under normal condition, you should use the",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Two- second rule."},
+      {"letter": "B", "type": "text", "text": "Four- second rule."},
+      {"letter": "C", "type": "text", "text": "Two metres rule."}
+    ],
+    "marked": "A",
+    "notes": "Source prints a space after the hyphen in 'Two- second' and 'Four- second'; kept as printed."
+  },
+  {
+    "id": "BTT_E_P5_Q42",
+    "label": 42,
+    "question": "When being followed by a police vehicle with its siren on, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Accelerate quickly to get away from it."},
+      {"letter": "B", "type": "text", "text": "Pull over safely, as soon as possible to let it pass."},
+      {"letter": "C", "type": "text", "text": "Brake quickly and stop to let it pass."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q43",
+    "label": 43,
+    "question": "When approaching a road that is flooded but passable to vehicles, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Engage a higher gear to go through the flood."},
+      {"letter": "B", "type": "text", "text": "Engage a lower gear to go through the flood."},
+      {"letter": "C", "type": "text", "text": "Drive through as fast as possible."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q44",
+    "label": 44,
+    "question": "When driving along a two-way street, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Always keep near the centre line of the road."},
+      {"letter": "B", "type": "text", "text": "Not cross the centre line at bends."},
+      {"letter": "C", "type": "text", "text": "Not overtake at all times."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q45",
+    "label": 45,
+    "question": "When turning right at a one-way street, you should position your vehicle",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "In the right hand lane."},
+      {"letter": "B", "type": "text", "text": "Just left of the centre of the road."},
+      {"letter": "C", "type": "text", "text": "In any lane depending on the traffic conditions."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q46",
+    "label": 46,
+    "question": "When driving at night, dip your headlights",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "To light up the road immediately in front you."},
+      {"letter": "B", "type": "text", "text": "So as not to dazzle drivers of oncoming vehicles."},
+      {"letter": "C", "type": "text", "text": "To prolong the life of the car battery."}
+    ],
+    "marked": "B",
+    "notes": "Option A in source reads 'in front you' (missing 'of'); kept as printed."
+  },
+  {
+    "id": "BTT_E_P5_Q47",
+    "label": 47,
+    "question": "When driving at night, you should use",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Dipped headlight."},
+      {"letter": "B", "type": "text", "text": "High beam."},
+      {"letter": "C", "type": "text", "text": "Side lights only."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q48",
+    "label": 48,
+    "question": "When should you use the right outer most lane of a carriageway?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "When driving at the maximum speed."},
+      {"letter": "B", "type": "text", "text": "When overtaking."},
+      {"letter": "C", "type": "text", "text": "When all other lanes are occupied."}
+    ],
+    "marked": "B",
+    "notes": "Source prints 'outer most' as two words; kept as printed."
+  },
+  {
+    "id": "BTT_E_P5_Q49",
+    "label": 49,
+    "question": "During bus lane prohibited hours, motorist is allowed to use the bus lane when",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "It is empty."},
+      {"letter": "B", "type": "text", "text": "The other lanes are congested."},
+      {"letter": "C", "type": "text", "text": "The driver is trying to avoid a collision."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P5_Q50",
+    "label": 50,
+    "question": "A child is required to use a child restraint if the child is",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "7 years old."},
+      {"letter": "B", "type": "text", "text": "9 years old."},
+      {"letter": "C", "type": "text", "text": "11 years old."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q01",
+    "label": 1,
+    "question": "What does this sign mean?",
+    "picture": "Blue circular sign with a white arrow going up and bending to the left",
+    "options": [
+      {"letter": "A", "type": "text", "text": "You must turn left ahead."},
+      {"letter": "B", "type": "text", "text": "You are approaching a junction with a one-way street to the left."},
+      {"letter": "C", "type": "text", "text": "Hazard ahead. Keep more to the left."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q02",
+    "label": 2,
+    "question": "Which of these signs is a Mandatory Sign?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Blue circular sign with a white arrow pointing right"},
+      {"letter": "B", "type": "image", "text": "Blue square sign with a white expressway symbol (road passing under a bridge)"},
+      {"letter": "C", "type": "image", "text": "Red-bordered triangle sign with a black vertical line and a side road to the right"}
+    ],
+    "marked": "A",
+    "notes": "Option signs are small thumbnails; descriptions made from an enlarged crop."
+  },
+  {
+    "id": "BTT_E_P6_Q03",
+    "label": 3,
+    "question": "What does this sign mean?",
+    "picture": "Red-bordered circular sign with the number 80 in black",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Cannot drive slower than 80 km/h."},
+      {"letter": "B", "type": "text", "text": "Cannot drive beyond 80 km/h."},
+      {"letter": "C", "type": "text", "text": "Maintain your speed at 80 km/h."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q04",
+    "label": 4,
+    "question": "Which of these signs prohibit you to turn left?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Red circle with a red diagonal slash over a black arrow bending to the right"},
+      {"letter": "B", "type": "image", "text": "Red circle with a red diagonal slash over a black arrow bending to the left"},
+      {"letter": "C", "type": "image", "text": "Blue circular sign with a white arrow bending to the left"}
+    ],
+    "marked": "B",
+    "notes": "Option signs are small thumbnails; descriptions made from an enlarged crop. Question grammar ('prohibit you to turn') kept as printed."
+  },
+  {
+    "id": "BTT_E_P6_Q05",
+    "label": 5,
+    "question": "Which of these signs is a warning sign?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Red-bordered upside-down triangle sign with the words \"GIVE WAY\""},
+      {"letter": "B", "type": "image", "text": "Red-bordered triangle sign with a black broken circle (roundabout symbol)"},
+      {"letter": "C", "type": "image", "text": "Blue rectangular sign with a white arrow pointing left and the words \"ONE WAY\""}
+    ],
+    "marked": "B",
+    "notes": "Option signs are small thumbnails; descriptions made from an enlarged crop."
+  },
+  {
+    "id": "BTT_E_P6_Q06",
+    "label": 6,
+    "question": "Which of these signs means 'lanes merging'?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Red-bordered triangle sign with a curved arrow angling in beside a straight upward arrow"},
+      {"letter": "B", "type": "image", "text": "Red-bordered triangle sign with one upward and one downward arrow side by side"},
+      {"letter": "C", "type": "image", "text": "Red-bordered triangle sign with two horizontal arrows, one pointing right and one left"}
+    ],
+    "marked": "A",
+    "notes": "Option signs are small thumbnails; descriptions made from an enlarged crop."
+  },
+  {
+    "id": "BTT_E_P6_Q07",
+    "label": 7,
+    "question": "Which of these signs means slow down, there is a series of bends ahead?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Red-bordered triangle sign with a single black road curving to the right"},
+      {"letter": "B", "type": "image", "text": "Red-bordered triangle sign with a skidding car and wavy tyre tracks"},
+      {"letter": "C", "type": "image", "text": "Red-bordered triangle sign with a black zigzag road line"}
+    ],
+    "marked": "C",
+    "notes": "Option signs are small thumbnails; descriptions made from an enlarged crop."
+  },
+  {
+    "id": "BTT_E_P6_Q08",
+    "label": 8,
+    "question": "Which of these signs means 'uneven road' ahead?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Red-bordered triangle sign with a single black hump on the road"},
+      {"letter": "B", "type": "image", "text": "Red-bordered triangle sign with two black bumps on the road"},
+      {"letter": "C", "type": "image", "text": "Red-bordered triangle sign with a skidding car and wavy tyre tracks"}
+    ],
+    "marked": "B",
+    "notes": "Option signs are small thumbnails; descriptions made from an enlarged crop."
+  },
+  {
+    "id": "BTT_E_P6_Q09",
+    "label": 9,
+    "question": "What does this sign means?",
+    "picture": "White circular sign with a black border and a black bus symbol",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Parking place for buses only."},
+      {"letter": "B", "type": "text", "text": "Bus terminus ahead."},
+      {"letter": "C", "type": "text", "text": "Bus stop."}
+    ],
+    "marked": "C",
+    "notes": "Source typo in question: 'What does this sign means?'; kept as printed."
+  },
+  {
+    "id": "BTT_E_P6_Q10",
+    "label": 10,
+    "question": "When you approached this traffic sign, you should",
+    "picture": "Blue square expressway symbol sign crossed out by a red diagonal line",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Speed up to merge with traffic on the expressway."},
+      {"letter": "B", "type": "text", "text": "Slow down as you are leaving the expressway."},
+      {"letter": "C", "type": "text", "text": "Stop and make a U-turn as road is ending."}
+    ],
+    "marked": "B",
+    "notes": "Question uses past tense 'approached' as printed."
+  }
+]

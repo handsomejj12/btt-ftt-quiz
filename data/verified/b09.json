@@ -1,0 +1,262 @@
+[
+  {
+    "id": "BTT_E_P4_Q11",
+    "label": 11,
+    "question": "When you see this traffic sign, you should",
+    "picture": "Red rectangular sign on a post with white text \"REDUCE SPEED NOW\"",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down on seeing the sign."},
+      {"letter": "B", "type": "text", "text": "Reduce speed after the sign."},
+      {"letter": "C", "type": "text", "text": "Keep within the speed limit of the road."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q12",
+    "label": 12,
+    "question": "This red signal light before the tunnel means",
+    "picture": "Black lane signal panel with two unlit white circles and a red X on the right",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Possible obstruction ahead, be prepared to change lane."},
+      {"letter": "B", "type": "text", "text": "The said lane is closed to traffic."},
+      {"letter": "C", "type": "text", "text": "Light out of order. Proceed with caution."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q13",
+    "label": 13,
+    "question": "When you see this sign, you",
+    "picture": "Red triangle warning sign with a black pedestrian walking over a zebra crossing",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Should slow down and be prepared to stop for pedestrians to cross the road."},
+      {"letter": "B", "type": "text", "text": "Need not slow down if there is no pedestrian at the Crossing."},
+      {"letter": "C", "type": "text", "text": "Should sound your horn to warn the pedestrians of your approach."}
+    ],
+    "marked": "A",
+    "notes": "Option B capitalises 'Crossing' mid-sentence as printed."
+  },
+  {
+    "id": "BTT_E_P4_Q14",
+    "label": 14,
+    "question": "When you see this sign, you should",
+    "picture": "Red triangle warning sign with two black child figures running hand in hand",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and drive carefully, beware of children crossing the road."},
+      {"letter": "B", "type": "text", "text": "Drive at the normal speed as the jogging track is on the opposite side of the road."},
+      {"letter": "C", "type": "text", "text": "Keep a lookout for a children playground ahead."}
+    ],
+    "marked": "A",
+    "notes": "Option C reads 'a children playground' as printed."
+  },
+  {
+    "id": "BTT_E_P4_Q15",
+    "label": 15,
+    "question": "What does a single yellow zig-zag line by the side of the road mean?",
+    "picture": "Top-down view of a road with a single yellow zig-zag line along the left edge",
+    "options": [
+      {"letter": "A", "type": "text", "text": "No waiting except for the immediate picking up and letting down of passengers."},
+      {"letter": "B", "type": "text", "text": "Allowed to wait as long as the driver remains in the car."},
+      {"letter": "C", "type": "text", "text": "No stopping at all times."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q16",
+    "label": 16,
+    "question": "Are you allowed to alight passengers along the road with double yellow zig-zag lines?",
+    "picture": "Top-down view of a road with double yellow zig-zag lines along the left edge",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Yes."},
+      {"letter": "B", "type": "text", "text": "No, except Sundays and Public Holidays."},
+      {"letter": "C", "type": "text", "text": "No."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q17",
+    "label": 17,
+    "question": "Which of these traffic lights mean 'Go' for straight and right turn vehicles?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Traffic light showing a full green light plus an amber right-turn arrow lit"},
+      {"letter": "B", "type": "image", "text": "Traffic light showing a full green light plus a red right-turn arrow lit"},
+      {"letter": "C", "type": "image", "text": "Traffic light showing a full green light plus a green right-turn arrow lit"}
+    ],
+    "marked": "C",
+    "notes": "Option pictures are very small thumbnails; arrow colours read from an enlarged crop."
+  },
+  {
+    "id": "BTT_E_P4_Q18",
+    "label": 18,
+    "question": "When approaching a traffic light signal that has turned to amber, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Speed up."},
+      {"letter": "B", "type": "text", "text": "Maintain your speed."},
+      {"letter": "C", "type": "text", "text": "Slow down and stop."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q19",
+    "label": 19,
+    "question": "When the amber traffic light is flashing continuously, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and proceed with caution."},
+      {"letter": "B", "type": "text", "text": "Stop and wait for it to change to green."},
+      {"letter": "C", "type": "text", "text": "Drive through it quickly."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q20",
+    "label": 20,
+    "question": "When the 'amber' traffic light signal is flashing, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Carry on driving."},
+      {"letter": "B", "type": "text", "text": "Slow down and look out for other vehicles before proceeding."},
+      {"letter": "C", "type": "text", "text": "Call the police."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q21",
+    "label": 21,
+    "question": "The signal of this policeman means vehicles approaching:",
+    "picture": "Traffic policeman in white uniform and helmet facing forward with both arms down at his sides",
+    "options": [
+      {"letter": "A", "type": "text", "text": "On his right and left to stop."},
+      {"letter": "B", "type": "text", "text": "From his front and behind to go."},
+      {"letter": "C", "type": "text", "text": "On his right and left to go."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q22",
+    "label": 22,
+    "question": "The signal of this policeman means vehicles approaching",
+    "picture": "Traffic policeman in white uniform shown side-on with one arm raised straight up, palm open",
+    "options": [
+      {"letter": "A", "type": "text", "text": "On his right, front and behind to stop."},
+      {"letter": "B", "type": "text", "text": "On his left to stop."},
+      {"letter": "C", "type": "text", "text": "On his right to get ready to stop."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q23",
+    "label": 23,
+    "question": "Which of these driver's arm signal mean he intends to slow down ?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Rear view of a car with the driver's arm stretched out of the right window, no motion lines"},
+      {"letter": "B", "type": "image", "text": "Rear view of a car with the driver's arm out of the right window and orange circular motion lines"},
+      {"letter": "C", "type": "image", "text": "Rear view of a car with the driver's arm out of the right window and short orange up-down motion marks"}
+    ],
+    "marked": "C",
+    "notes": "Space before the question mark as printed; grammar 'driver's arm signal mean' as printed. Option pictures are very small thumbnails; arm motions read from an enlarged crop and are hard to make out."
+  },
+  {
+    "id": "BTT_E_P4_Q24",
+    "label": 24,
+    "question": "When a motorcyclist tries to overtake you on the left, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Increase your speed to race the rider."},
+      {"letter": "B", "type": "text", "text": "Reduce your speed and assist the rider to overtake safely."},
+      {"letter": "C", "type": "text", "text": "Ignore the rider and continue driving at your normal speed."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q25",
+    "label": 25,
+    "question": "When another vehicle is overtaking you, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Not speed up but assist him to overtake."},
+      {"letter": "B", "type": "text", "text": "Change lane and keep to the right."},
+      {"letter": "C", "type": "text", "text": "Increase your speed gradually."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q26",
+    "label": 26,
+    "question": "Which car may proceed first ?",
+    "picture": "Video frame, top-down view of a crossroads: blue car A from the top, yellow car B from the right, yellow car C from the bottom",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Car A."},
+      {"letter": "B", "type": "text", "text": "Car B."},
+      {"letter": "C", "type": "text", "text": "Car C."}
+    ],
+    "marked": "A",
+    "notes": "Space before the question mark as printed. Picture is a still from a video (Repeat Video button)."
+  },
+  {
+    "id": "BTT_E_P4_Q27",
+    "label": 27,
+    "question": "Which car should give way ?",
+    "picture": "Video frame, top-down view of a crossroads: yellow car B from the bottom with a curved arrow turning right, teal car A approaching from the right",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Car A."},
+      {"letter": "B", "type": "text", "text": "Car B."},
+      {"letter": "C", "type": "text", "text": "Whoever gets to the intersection first."}
+    ],
+    "marked": "B",
+    "notes": "Space before the question mark as printed. Picture is a still from a video (Repeat Video button)."
+  },
+  {
+    "id": "BTT_E_P4_Q28",
+    "label": 28,
+    "question": "A tyre needs to be changed when",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "It is two years old."},
+      {"letter": "B", "type": "text", "text": "The depth of its tread is less than 1.6 mm."},
+      {"letter": "C", "type": "text", "text": "It is completely bald."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q29",
+    "label": 29,
+    "question": "The minimum age requirement for applying for a Basic Theory Test is",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "16 years."},
+      {"letter": "B", "type": "text", "text": "17 years."},
+      {"letter": "C", "type": "text", "text": "18 years."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q30",
+    "label": 30,
+    "question": "Unless otherwise stated, the maximum speed limit of all roads in Singapore is",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "50 km/h."},
+      {"letter": "B", "type": "text", "text": "60 km/h."},
+      {"letter": "C", "type": "text", "text": "80 km/h."}
+    ],
+    "marked": "A",
+    "notes": ""
+  }
+]

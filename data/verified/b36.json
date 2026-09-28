@@ -1,0 +1,262 @@
+[
+  {
+    "id": "FTT_E_P8_Q01",
+    "label": 1,
+    "question": "When driving past a line of parked cars, you notice a ball bouncing out into the road ahead, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Continue driving at the same speed and sound your horn."},
+      {"letter": "B", "type": "text", "text": "Slow down and be prepared to stop for children."},
+      {"letter": "C", "type": "text", "text": "Speed up quickly to pass the ball."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q02",
+    "label": 2,
+    "question": "When you see a police officer controlling traffic at a junction, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Ignore him."},
+      {"letter": "B", "type": "text", "text": "Obey his hand signals."},
+      {"letter": "C", "type": "text", "text": "Obey the traffic light signals."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q03",
+    "label": 3,
+    "question": "Where should you take particular care to look out for other motorcyclists and cyclists?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "At junctions."},
+      {"letter": "B", "type": "text", "text": "At pedestrian crossings."},
+      {"letter": "C", "type": "text", "text": "On one-way streets."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q04",
+    "label": 4,
+    "question": "While driving you should hold the steering wheel at",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "'Ten-to-two' position."},
+      {"letter": "B", "type": "text", "text": "Any position."},
+      {"letter": "C", "type": "text", "text": "The most comfortable position."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q05",
+    "label": 5,
+    "question": "What will reduce the risk of neck injury resulting from a collision?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Anti-lock brakes."},
+      {"letter": "B", "type": "text", "text": "A collapsible steering wheel."},
+      {"letter": "C", "type": "text", "text": "A properly adjusted head restraint."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q06",
+    "label": 6,
+    "question": "What could be the penalties for driving over the speed limit?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Fines, demerit points and possibly loss of driving licence."},
+      {"letter": "B", "type": "text", "text": "Fines only."},
+      {"letter": "C", "type": "text", "text": "A letter of warning and fines."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q07",
+    "label": 7,
+    "question": "When approaching this junction, you should",
+    "picture": "Video frame from driver's seat approaching a crossroads; blue \"ONE WAY\" sign with left arrow on the left, red no-entry sign on the right",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Turn left only."},
+      {"letter": "B", "type": "text", "text": "Either go straight or turn left."},
+      {"letter": "C", "type": "text", "text": "Go straight, and turn left or right."}
+    ],
+    "marked": "B",
+    "notes": "Picture panel is a video frame with a Repeat Video button."
+  },
+  {
+    "id": "FTT_E_P8_Q08",
+    "label": 8,
+    "question": "When you approach this junction, you should",
+    "picture": "Video frame from driver's seat approaching a T-junction; blue circular sign with white arrow pointing left ahead, trees behind",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Turn right."},
+      {"letter": "B", "type": "text", "text": "Stop, check and turn left only."},
+      {"letter": "C", "type": "text", "text": "Need not stop if no oncoming traffic."}
+    ],
+    "marked": "B",
+    "notes": "Picture panel is a video frame with a Repeat Video button."
+  },
+  {
+    "id": "FTT_E_P8_Q09",
+    "label": 9,
+    "question": "Drink driving can contribute to accidents because",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drivers' judgement is impaired."},
+      {"letter": "B", "type": "text", "text": "Drivers take shorter time to react."},
+      {"letter": "C", "type": "text", "text": "Drivers' vision is improved."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q10",
+    "label": 10,
+    "question": "Which of the following sentences is TRUE?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Alcohol makes you a better driver."},
+      {"letter": "B", "type": "text", "text": "Alcohol has no effect on the way you drive."},
+      {"letter": "C", "type": "text", "text": "Alcohol slows down your reactions when driving."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q11",
+    "label": 11,
+    "question": "'Blind spots' of a vehicle is an area which cannot be viewed by",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "The rear view mirror."},
+      {"letter": "B", "type": "text", "text": "Left and right wings mirrors."},
+      {"letter": "C", "type": "text", "text": "Both A and B."}
+    ],
+    "marked": "C",
+    "notes": "Source typo in option B: \"wings mirrors\" (should be \"wing mirrors\"); kept as printed. Question grammar \"'Blind spots' ... is an area\" kept as printed."
+  },
+  {
+    "id": "FTT_E_P8_Q12",
+    "label": 12,
+    "question": "In order to avoid an accident with the vehicle in front while driving under normal condition, you should use the",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Two-second rule."},
+      {"letter": "B", "type": "text", "text": "Four-second rule."},
+      {"letter": "C", "type": "text", "text": "Two metres rule."}
+    ],
+    "marked": "A",
+    "notes": "Question says \"normal condition\" (singular) as printed."
+  },
+  {
+    "id": "FTT_E_P8_Q13",
+    "label": 13,
+    "question": "If you have 13 or more demerit points within a year of passing the test you will",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Be suspended for 6 months."},
+      {"letter": "B", "type": "text", "text": "Be suspended for 1 year."},
+      {"letter": "C", "type": "text", "text": "Have your licence revoked."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q14",
+    "label": 14,
+    "question": "When being followed by a police vehicle with its siren on, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Accelerate quickly to get away from it."},
+      {"letter": "B", "type": "text", "text": "Pull over safely, as soon as possible to let it pass."},
+      {"letter": "C", "type": "text", "text": "Brake quickly and stop to let it pass."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q15",
+    "label": 15,
+    "question": "The most likely reason for the vehicle from behind to hit you is that",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "It has bald tyres."},
+      {"letter": "B", "type": "text", "text": "It follows too closely behind you."},
+      {"letter": "C", "type": "text", "text": "The driver is still under probation."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q16",
+    "label": 16,
+    "question": "To drive through a flood, you should increase acceleration and",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Change to a lower gear."},
+      {"letter": "B", "type": "text", "text": "Change to a higher gear."},
+      {"letter": "C", "type": "text", "text": "Apply half clutch."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q17",
+    "label": 17,
+    "question": "When driving an automatic car, you would select a lower gear",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "To slow the car down in normal driving."},
+      {"letter": "B", "type": "text", "text": "When going uphill."},
+      {"letter": "C", "type": "text", "text": "Before stopping."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q18",
+    "label": 18,
+    "question": "When leaving the expressway, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Always use the road shoulder."},
+      {"letter": "B", "type": "text", "text": "Come to a stop before leaving the expressway."},
+      {"letter": "C", "type": "text", "text": "Move to the left lane well before the exit."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q19",
+    "label": 19,
+    "question": "When travelling on the expressway, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Overtake other vehicles by the extreme left lane."},
+      {"letter": "B", "type": "text", "text": "Keep to the extreme right lane."},
+      {"letter": "C", "type": "text", "text": "Refrain from using the extreme right lane."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q20",
+    "label": 20,
+    "question": "When driving along a two-way street, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Always keep near the centre line of the road."},
+      {"letter": "B", "type": "text", "text": "Not cross the centre line at bends."},
+      {"letter": "C", "type": "text", "text": "Not overtake at all times."}
+    ],
+    "marked": "B",
+    "notes": ""
+  }
+]

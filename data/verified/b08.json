@@ -1,0 +1,262 @@
+[
+  {
+    "id": "BTT_E_P3_Q41",
+    "label": 41,
+    "question": "When you are following another vehicle on a wet road, you should keep",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "2 seconds behind."},
+      {"letter": "B", "type": "text", "text": "More than 2 seconds behind."},
+      {"letter": "C", "type": "text", "text": "Less than 2 seconds behind."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q42",
+    "label": 42,
+    "question": "If a fire engine behind you sounds the siren, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Continue at normal speed."},
+      {"letter": "B", "type": "text", "text": "Move to the side, slow down or stop if necessary."},
+      {"letter": "C", "type": "text", "text": "Increase your speed and move to the side."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q43",
+    "label": 43,
+    "question": "On a one way street, you hear the siren of an emergency vehicle behind you, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Give way by moving to the left only."},
+      {"letter": "B", "type": "text", "text": "Give way by moving to the left or right."},
+      {"letter": "C", "type": "text", "text": "Stop immediately."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q44",
+    "label": 44,
+    "question": "How should you deal with floods?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive through as fast as possible to avoid stopping."},
+      {"letter": "B", "type": "text", "text": "Drive through slowly in 1st gear."},
+      {"letter": "C", "type": "text", "text": "Drive through in the highest gear."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q45",
+    "label": 45,
+    "question": "To maintain good lane discipline, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Form up correctly into the intended lane before reaching the junction."},
+      {"letter": "B", "type": "text", "text": "Drive between lanes so that you can switch lane easily."},
+      {"letter": "C", "type": "text", "text": "Follow closely to the vehicle in front."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q46",
+    "label": 46,
+    "question": "In which situation should you switch on the high beam?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "When driving on a bumpy road."},
+      {"letter": "B", "type": "text", "text": "When there are oncoming vehicles."},
+      {"letter": "C", "type": "text", "text": "When the road is poorly lighted and there is no traffic ahead."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q47",
+    "label": 47,
+    "question": "On a sharp bend at night, to avoid dazzling oncoming traffic, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Switch off your lights."},
+      {"letter": "B", "type": "text", "text": "Dip your headlights."},
+      {"letter": "C", "type": "text", "text": "Swith on high beam."}
+    ],
+    "marked": "B",
+    "notes": "Source typo in option C: 'Swith' (should be 'Switch'); kept as printed."
+  },
+  {
+    "id": "BTT_E_P3_Q48",
+    "label": 48,
+    "question": "You may drive along the right-most lane when",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "You are travelling at the speed limits."},
+      {"letter": "B", "type": "text", "text": "The traffic is not heavy."},
+      {"letter": "C", "type": "text", "text": "You are overtaking another vehicle."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q49",
+    "label": 49,
+    "question": "You are not allowed to drive into a bus lane on Monday to Saturday from",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "7.30 am to 9.30 am."},
+      {"letter": "B", "type": "text", "text": "7.00 am to 9.30 am."},
+      {"letter": "C", "type": "text", "text": "7.15 am to 10.00 am."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P3_Q50",
+    "label": 50,
+    "question": "Fastening a seat belt can",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Reduce the chances of a collision."},
+      {"letter": "B", "type": "text", "text": "Reduce the chances of being seriously injured or killed."},
+      {"letter": "C", "type": "text", "text": "Control your body movement when you negotiate a sharp bend."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q01",
+    "label": 1,
+    "question": "This sign means",
+    "picture": "Blue circular sign with two white arrows pointing diagonally down-left and down-right",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Split traffic - vehicles may pass on either side."},
+      {"letter": "B", "type": "text", "text": "Two-way traffic - beware of traffic from right and left."},
+      {"letter": "C", "type": "text", "text": "Turn either side - vehicles must turn right or left."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q02",
+    "label": 2,
+    "question": "When you see this sign,",
+    "picture": "Red octagonal sign with white border and the word \"STOP\" in white",
+    "options": [
+      {"letter": "A", "type": "text", "text": "You must stop and give way to traffic on a major road."},
+      {"letter": "B", "type": "text", "text": "You need not stop if there is no traffic on a major road."},
+      {"letter": "C", "type": "text", "text": "You need not stop if you are turning left."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q03",
+    "label": 3,
+    "question": "This sign means",
+    "picture": "Blue circular sign with a red border and a red diagonal cross",
+    "options": [
+      {"letter": "A", "type": "text", "text": "You may stop for a short while so long as you remain in the car."},
+      {"letter": "B", "type": "text", "text": "You cannot wait but you can stop to let down or pick up passengers."},
+      {"letter": "C", "type": "text", "text": "You cannot stop your vehicle at all."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q04",
+    "label": 4,
+    "question": "When you see this sign, you",
+    "picture": "Red-bordered white circular sign with a black left-turn arrow crossed by a red diagonal bar",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Must turn left as there are no other roads ahead."},
+      {"letter": "B", "type": "text", "text": "Cannot turn left but may go straight or turn right."},
+      {"letter": "C", "type": "text", "text": "May turn left on Sundays and Public holidays."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q05",
+    "label": 5,
+    "question": "On seeing this sign, you should",
+    "picture": "Red triangular warning sign with a black fence-like symbol of vertical pickets",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive carefully as there is guard-rail along the road side."},
+      {"letter": "B", "type": "text", "text": "Drive carefully and look out for level gate closing."},
+      {"letter": "C", "type": "text", "text": "Slow down as there is an Army rocket launching range ahead."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q06",
+    "label": 6,
+    "question": "When you see this sign, you should",
+    "picture": "Red triangular warning sign with a black plus-shaped cross symbol",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and drive carefully in the hospital area."},
+      {"letter": "B", "type": "text", "text": "Drive carefully and give way to the 'Red Cross' ambulance."},
+      {"letter": "C", "type": "text", "text": "Slow down and apply the 'Give-way Rule' at the cross-road ahead."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q07",
+    "label": 7,
+    "question": "When you see this sign, you should",
+    "picture": "Red triangular warning sign with a black T-shaped symbol",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and give way to traffic from right and left."},
+      {"letter": "B", "type": "text", "text": "Slow down and make a U-turn - road ends ahead."},
+      {"letter": "C", "type": "text", "text": "Slow down as there is a Trailer parking area ahead."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q08",
+    "label": 8,
+    "question": "When you see this sign, you should",
+    "picture": "Red triangular warning sign with a black vertical line and a short branch to the right",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Not slow down as you have the right of way."},
+      {"letter": "B", "type": "text", "text": "Slow down, beware of traffic from the right."},
+      {"letter": "C", "type": "text", "text": "Not turn right as the road is closed to traffic."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q09",
+    "label": 9,
+    "question": "When you see this sign, you should",
+    "picture": "Red triangular warning sign with a black vertical line and a short branch to the left",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Not slow down as you have the right of way."},
+      {"letter": "B", "type": "text", "text": "Slow down and beware of traffic from the left."},
+      {"letter": "C", "type": "text", "text": "Not turn left as the road is closed to traffic."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P4_Q10",
+    "label": 10,
+    "question": "This sign means that you are",
+    "picture": "Blue square sign with white converging road lanes passing under a white overhead crossbar",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Approaching a Pedestrian Overhead Bridge - beware of jay-walkers."},
+      {"letter": "B", "type": "text", "text": "Entering an Expressway - comply with the expressway rules."},
+      {"letter": "C", "type": "text", "text": "Approaching an MRT station - beware of commuters in the vicinity."}
+    ],
+    "marked": "B",
+    "notes": ""
+  }
+]

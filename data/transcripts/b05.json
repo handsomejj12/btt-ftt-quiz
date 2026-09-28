@@ -1,0 +1,262 @@
+[
+  {
+    "id": "BTT_E_P2_Q31",
+    "label": 31,
+    "question": "When approaching a sharp bend or a steep hill, you",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Should not overtake other vehicles."},
+      {"letter": "B", "type": "text", "text": "May overtake other vehicles."},
+      {"letter": "C", "type": "text", "text": "Should stay close behind the front vehicle."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q32",
+    "label": 32,
+    "question": "When the vehicle you are overtaking suddenly increases its speed, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Increase your speed further."},
+      {"letter": "B", "type": "text", "text": "Sound the horn and signal the driver to slow down."},
+      {"letter": "C", "type": "text", "text": "Reduce your speed and return to your original lane."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q33",
+    "label": 33,
+    "question": "When driving through puddles of water on the road, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive faster."},
+      {"letter": "B", "type": "text", "text": "Drive slower."},
+      {"letter": "C", "type": "text", "text": "Not change speed."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q34",
+    "label": 34,
+    "question": "A driver caught with a blood alcohol concentration over 80 mg of alcohol per 100 ml of blood will",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Have to pay a fine."},
+      {"letter": "B", "type": "text", "text": "Be charged in court."},
+      {"letter": "C", "type": "text", "text": "Be jailed."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q35",
+    "label": 35,
+    "question": "After consuming alcohol, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Not drive."},
+      {"letter": "B", "type": "text", "text": "Drive slowly."},
+      {"letter": "C", "type": "text", "text": "Drive at normal speed."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q36",
+    "label": 36,
+    "question": "Any person caught driving with blood alcohol content which exceeds the prescribed limit will",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Have to pay a fine."},
+      {"letter": "B", "type": "text", "text": "Be charged in court."},
+      {"letter": "C", "type": "text", "text": "Be given a warning."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q37",
+    "label": 37,
+    "question": "Drink driving may cause",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Reduce the co-ordination of the control of vehicle."},
+      {"letter": "B", "type": "text", "text": "Faster reaction."},
+      {"letter": "C", "type": "text", "text": "Increase alertness."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q38",
+    "label": 38,
+    "question": "In the situation shown, the long vehicle is about to turn left and the car is going straight. The car should",
+    "picture": "Top-down video frame: long blue truck with a red car beside it, approaching a side road on the left; direction arrows on the road",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and stop if necessary."},
+      {"letter": "B", "type": "text", "text": "Maintain its speed and position."},
+      {"letter": "C", "type": "text", "text": "Proceed quickly to pass the junction."}
+    ],
+    "marked": "A",
+    "notes": "Picture panel is a video frame with a Repeat Video button."
+  },
+  {
+    "id": "BTT_E_P2_Q39",
+    "label": 39,
+    "question": "Car A intends to pass Car B near a side road on the left, Car A should",
+    "picture": "Top-down video frame: blue car labelled A behind a light blue car labelled B on a two-lane road near a side road junction",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive faster to pass the junction."},
+      {"letter": "B", "type": "text", "text": "Pass Car B on the right side."},
+      {"letter": "C", "type": "text", "text": "Pass Car B only after the junction."}
+    ],
+    "marked": "C",
+    "notes": "Picture panel is a video frame with a Repeat Video button."
+  },
+  {
+    "id": "BTT_E_P2_Q40",
+    "label": 40,
+    "question": "Before changing lanes, you should check your blind spots by",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Looking into the rear view mirror."},
+      {"letter": "B", "type": "text", "text": "Looking over your shoulder."},
+      {"letter": "C", "type": "text", "text": "Looking at the side mirrors."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q41",
+    "label": 41,
+    "question": "You are on a clear and open road in good weather condition, the distance between you and the vehicle in front should be",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "One car's length."},
+      {"letter": "B", "type": "text", "text": "Two car's length."},
+      {"letter": "C", "type": "text", "text": "Two second time gap."}
+    ],
+    "marked": "C",
+    "notes": "Source wording kept as printed: \"weather condition\" and \"Two car's length\"."
+  },
+  {
+    "id": "BTT_E_P2_Q42",
+    "label": 42,
+    "question": "You should give way to emergency vehicles approaching from behind by",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slowing down."},
+      {"letter": "B", "type": "text", "text": "Moving to the side."},
+      {"letter": "C", "type": "text", "text": "Driving faster."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q43",
+    "label": 43,
+    "question": "When an emergency vehicle behind you sounds its siren, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down quickly."},
+      {"letter": "B", "type": "text", "text": "Pull to the side and stop if necessary."},
+      {"letter": "C", "type": "text", "text": "Increase your speed."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q44",
+    "label": 44,
+    "question": "After your vehicle passed through a flood, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Stop on a slope to drain water out of the brakes."},
+      {"letter": "B", "type": "text", "text": "Drive faster to allow the brakes to dry quickly."},
+      {"letter": "C", "type": "text", "text": "Apply intermittent braking to dry the brake drums at low speed."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q45",
+    "label": 45,
+    "question": "Switching lanes suddenly or abruptly will",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Improve the flow of traffic on the road."},
+      {"letter": "B", "type": "text", "text": "Cause inconvenience and danger to other motorists."},
+      {"letter": "C", "type": "text", "text": "Cause wear and tear to the vehicle."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q46",
+    "label": 46,
+    "question": "If the headlight of an oncoming vehicle is blinding you, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Turn on the high beam."},
+      {"letter": "B", "type": "text", "text": "Look to the right kerb."},
+      {"letter": "C", "type": "text", "text": "Look to the left kerb."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q47",
+    "label": 47,
+    "question": "At night you should switch on your headlights from",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "6 pm to 7 am."},
+      {"letter": "B", "type": "text", "text": "7 pm to 6 am."},
+      {"letter": "C", "type": "text", "text": "7 pm to 7 am."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q48",
+    "label": 48,
+    "question": "When can you use the right lane of a two-lane carriageway?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "When your path of travel is obstructed by road works or parked vehicles."},
+      {"letter": "B", "type": "text", "text": "When your speed is higher that the speed limit for the road."},
+      {"letter": "C", "type": "text", "text": "When the right lane is free of traffic."}
+    ],
+    "marked": "A",
+    "notes": "Source typo in option B: \"higher that\" (should be \"higher than\"); kept as printed."
+  },
+  {
+    "id": "BTT_E_P2_Q49",
+    "label": 49,
+    "question": "On Saturday, all vehicles must avoid the bus lane between",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "11.00 am and 2.00 pm."},
+      {"letter": "B", "type": "text", "text": "11.30 am and 2.00 pm."},
+      {"letter": "C", "type": "text", "text": "11.30 am and 2.30 pm."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q50",
+    "label": 50,
+    "question": "Children passenger below _____ of age are required to use a child restraint.",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "10 years"},
+      {"letter": "B", "type": "text", "text": "9 years"},
+      {"letter": "C", "type": "text", "text": "8 years"}
+    ],
+    "marked": "C",
+    "notes": "Question has a fill-in blank shown as an underline, transcribed as \"_____\". Source wording \"Children passenger\" kept as printed. Options have no final full stop."
+  }
+]

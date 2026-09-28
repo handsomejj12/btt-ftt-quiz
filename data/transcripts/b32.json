@@ -1,0 +1,262 @@
+[
+  {
+    "id": "FTT_E_P6_Q21",
+    "label": 21,
+    "question": "To assist braking when you are travelling downhill, you should use",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "The foot brake only."},
+      {"letter": "B", "type": "text", "text": "The foot and handbrakes."},
+      {"letter": "C", "type": "text", "text": "The foot brake and engine brake."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q22",
+    "label": 22,
+    "question": "Using engine brake when travelling down slope would prevent",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Over heating the brake linings."},
+      {"letter": "B", "type": "text", "text": "Your tyres from wearing out too soon."},
+      {"letter": "C", "type": "text", "text": "Damage to the brake system."}
+    ],
+    "marked": "A",
+    "notes": "Option A source writes \"Over heating\" as two words."
+  },
+  {
+    "id": "FTT_E_P6_Q23",
+    "label": 23,
+    "question": "On and off clutch technique should be used",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "While driving at high speed."},
+      {"letter": "B", "type": "text", "text": "While negotiating a narrow and winding path."},
+      {"letter": "C", "type": "text", "text": "While descending a slope."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q24",
+    "label": 24,
+    "question": "To have a better view when entering a right hand bend, you should keep",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Close to the centre line."},
+      {"letter": "B", "type": "text", "text": "To the middle of the road."},
+      {"letter": "C", "type": "text", "text": "Close to the left edge of the road."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q25",
+    "label": 25,
+    "question": "Moving off on a slope involves co-ordinating the",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Clutch, foot-brake and accelerator pedals."},
+      {"letter": "B", "type": "text", "text": "Gear, accelerator and clutch pedals."},
+      {"letter": "C", "type": "text", "text": "Handbrake, clutch and accelerator pedals."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q26",
+    "label": 26,
+    "question": "To control the speed of your vehicle when going down a steep hill, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Use the foot-brake and handbrake."},
+      {"letter": "B", "type": "text", "text": "Select a lower gear and use the foot-brake."},
+      {"letter": "C", "type": "text", "text": "Free the gear and use the foot-brake."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q27",
+    "label": 27,
+    "question": "To drive in a way where other drivers will not find it necessary to overtake you, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive on the extreme right lane all the time."},
+      {"letter": "B", "type": "text", "text": "Always drive at a speed that match the traffic flow."},
+      {"letter": "C", "type": "text", "text": "Drive at the maximun speed limit of the road all the time."}
+    ],
+    "marked": "B",
+    "notes": "Source typo in option C: \"maximun\" (for \"maximum\"). Option B grammar as printed: \"that match\"."
+  },
+  {
+    "id": "FTT_E_P6_Q28",
+    "label": 28,
+    "question": "When reversing",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Other road users should see what you are doing and wait for you."},
+      {"letter": "B", "type": "text", "text": "You should rely on your rear view mirrors only."},
+      {"letter": "C", "type": "text", "text": "You should avoid making other road users to slow down or change course."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q29",
+    "label": 29,
+    "question": "When reversing slowly, you should use",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Free wheeling technique."},
+      {"letter": "B", "type": "text", "text": "Connecting and disconnecting clutch technique."},
+      {"letter": "C", "type": "text", "text": "Intermittent braking technique."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q30",
+    "label": 30,
+    "question": "What can cause heavy steering?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Badly worn brakes."},
+      {"letter": "B", "type": "text", "text": "Over-inflated tyres."},
+      {"letter": "C", "type": "text", "text": "Under-inflated tyres."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q31",
+    "label": 31,
+    "question": "The centrifugal force affects",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "All vehicles."},
+      {"letter": "B", "type": "text", "text": "Motorcycles only."},
+      {"letter": "C", "type": "text", "text": "Heavy vehicles only."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q32",
+    "label": 32,
+    "question": "To apply intermittent braking, you should depress the brake pedal",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "All the way down."},
+      {"letter": "B", "type": "text", "text": "2 or 3 times at short intervals before stopping the vehicle."},
+      {"letter": "C", "type": "text", "text": "And clutch together."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q33",
+    "label": 33,
+    "question": "A vehicle loaded with goods",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Requires a longer braking distance than if it were without goods."},
+      {"letter": "B", "type": "text", "text": "Does not require a longer braking distance."},
+      {"letter": "C", "type": "text", "text": "Brakes normally."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q34",
+    "label": 34,
+    "question": "When making an emergency stop, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Keep both hands firmly on the steering wheel."},
+      {"letter": "B", "type": "text", "text": "keep both hands lightly on the steering wheel."},
+      {"letter": "C", "type": "text", "text": "Hold the steering wheel with one hand and pull the handbrake with the other hand."}
+    ],
+    "marked": "A",
+    "notes": "Option B starts with a lowercase \"keep\" in the source."
+  },
+  {
+    "id": "FTT_E_P6_Q35",
+    "label": 35,
+    "question": "When driving at night, dip your headlights",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "To light up the road immediately in front you."},
+      {"letter": "B", "type": "text", "text": "So as not to dazzle drivers of oncoming vehicles."},
+      {"letter": "C", "type": "text", "text": "To prolong the life of the car battery."}
+    ],
+    "marked": "B",
+    "notes": "Option A source is missing a word: \"in front you\" (for \"in front of you\")."
+  },
+  {
+    "id": "FTT_E_P6_Q36",
+    "label": 36,
+    "question": "When will a child becomes an actual road hazard?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "When the child is walking by the side of the road."},
+      {"letter": "B", "type": "text", "text": "When the child is playing by the side of the road."},
+      {"letter": "C", "type": "text", "text": "When the child playing with a ball suddenly kicked the ball onto the road."}
+    ],
+    "marked": "C",
+    "notes": "Question grammar as printed: \"will a child becomes\"."
+  },
+  {
+    "id": "FTT_E_P6_Q37",
+    "label": 37,
+    "question": "When approaching a junction and the traffic lights signal change from green to amber, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Stop at the stop line unless you are so close that sudden or sharp braking might cause an accident."},
+      {"letter": "B", "type": "text", "text": "Speed up to clear the intersection."},
+      {"letter": "C", "type": "text", "text": "Stop only if a red light camera is in use."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q38",
+    "label": 38,
+    "question": "When approaching a traffic light signal that has turned to amber, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Speed up."},
+      {"letter": "B", "type": "text", "text": "Maintain your speed."},
+      {"letter": "C", "type": "text", "text": "Slow down and stop."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q39",
+    "label": 39,
+    "question": "When a long vehicle makes a U-turn, it usually moves to the",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Left before turning."},
+      {"letter": "B", "type": "text", "text": "Right before turning."},
+      {"letter": "C", "type": "text", "text": "Right then left before turning."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P6_Q40",
+    "label": 40,
+    "question": "When following behind a large vehicle at traffic light junctions, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Keep a normal following distance."},
+      {"letter": "B", "type": "text", "text": "Follow closely."},
+      {"letter": "C", "type": "text", "text": "Keep a longer following distance to have a better view ahead."}
+    ],
+    "marked": "C",
+    "notes": ""
+  }
+]

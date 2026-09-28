@@ -1,0 +1,262 @@
+[
+  {
+    "id": "FTT_E_P7_Q31",
+    "label": 31,
+    "question": "When a front tyre punctures, the vehicle will",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Stop suddenly."},
+      {"letter": "B", "type": "text", "text": "Pull towards the side of the punctured tyre."},
+      {"letter": "C", "type": "text", "text": "Move faster."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q32",
+    "label": 32,
+    "question": "The higher the speed when negotiating a bend, the outward push of the centrifugal force will be",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Smaller."},
+      {"letter": "B", "type": "text", "text": "Greater."},
+      {"letter": "C", "type": "text", "text": "Unchanged."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q33",
+    "label": 33,
+    "question": "The stopping distance of a vehicle comprises the",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Thinking distance and the reaction distance."},
+      {"letter": "B", "type": "text", "text": "Reaction distance and the braking distance."},
+      {"letter": "C", "type": "text", "text": "Skidding distance and the braking distance."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q34",
+    "label": 34,
+    "question": "To brake safely on a wet road, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Apply both brakes together."},
+      {"letter": "B", "type": "text", "text": "Apply intermittent (on/off) braking technique."},
+      {"letter": "C", "type": "text", "text": "Depress the clutch pedal first followed by the brake pedal."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q35",
+    "label": 35,
+    "question": "When making an emergency stop, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Avoid braking too hard to prevent the wheels from locking."},
+      {"letter": "B", "type": "text", "text": "Step on the brake pedal as hard as possible."},
+      {"letter": "C", "type": "text", "text": "Apply both the foot-brake and the hand-brake together."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q36",
+    "label": 36,
+    "question": "When driving at night, you should use",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Dipped headlight."},
+      {"letter": "B", "type": "text", "text": "High beam."},
+      {"letter": "C", "type": "text", "text": "Side lights only."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q37",
+    "label": 37,
+    "question": "When you see a child standing beside the road, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Tap your horn to stop him from crossing."},
+      {"letter": "B", "type": "text", "text": "Stop immediately to allow him to cross."},
+      {"letter": "C", "type": "text", "text": "Slow down and be ready to stop."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q38",
+    "label": 38,
+    "question": "When the amber traffic light is flashing continuously, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and proceed with caution."},
+      {"letter": "B", "type": "text", "text": "Stop and wait for it to change to green."},
+      {"letter": "C", "type": "text", "text": "Drive through it quickly."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q39",
+    "label": 39,
+    "question": "When the 'amber' traffic light signal is flashing, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Carry on driving."},
+      {"letter": "B", "type": "text", "text": "Slow down and look out for other vehicles before proceeding."},
+      {"letter": "C", "type": "text", "text": "Call the police."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q40",
+    "label": 40,
+    "question": "When you approach a bus signalling to move off from a bus stop, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Get past before it moves."},
+      {"letter": "B", "type": "text", "text": "Flash your headlights as you approach."},
+      {"letter": "C", "type": "text", "text": "Allow it to pull away."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q41",
+    "label": 41,
+    "question": "You are following a large lorry on a wet road. Spray makes it difficult to see, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Put your headlights on high beam."},
+      {"letter": "B", "type": "text", "text": "Speed up and overtake quickly."},
+      {"letter": "C", "type": "text", "text": "Drop back until you can see better."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q42",
+    "label": 42,
+    "question": "When caught in a slow moving bumper to bumper rush hour traffic, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Overtake all slow moving vehicles."},
+      {"letter": "B", "type": "text", "text": "Be patient and follow the queue."},
+      {"letter": "C", "type": "text", "text": "Weave in and out of available spaces to move forward."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q43",
+    "label": 43,
+    "question": "The brake system within a vehicle",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Requires little or no maintenance."},
+      {"letter": "B", "type": "text", "text": "May be ignored as long as the vehicle stops safely."},
+      {"letter": "C", "type": "text", "text": "Neither of these."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q44",
+    "label": 44,
+    "question": "In order to prevent skidding when stopping your vehicle on a wet road, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Use your brakes gently and early."},
+      {"letter": "B", "type": "text", "text": "Brake harder."},
+      {"letter": "C", "type": "text", "text": "Apply both the handbrake and foot brake together."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q45",
+    "label": 45,
+    "question": "To prevent skidding when stopping your vehicle on a wet road, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Depress the clutch pedal and apply the brake pedal early."},
+      {"letter": "B", "type": "text", "text": "Depress the brake pedal and apply the hand-brake together."},
+      {"letter": "C", "type": "text", "text": "Apply intermittent braking technique."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q46",
+    "label": 46,
+    "question": "When you have caused inconvenience to others, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Just carry on driving as if nothing have happened."},
+      {"letter": "B", "type": "text", "text": "Indicate you are sorry."},
+      {"letter": "C", "type": "text", "text": "Speed off quickly."}
+    ],
+    "marked": "B",
+    "notes": "Option A source grammar error kept as printed: \"as if nothing have happened\" (should be \"has\")."
+  },
+  {
+    "id": "FTT_E_P7_Q47",
+    "label": 47,
+    "question": "f your vehicle broke down on the expressway, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Fix it on the spot."},
+      {"letter": "B", "type": "text", "text": "Move it to the extreme right lane."},
+      {"letter": "C", "type": "text", "text": "Move it to the road shoulder."}
+    ],
+    "marked": "C",
+    "notes": "Question source typo kept as printed: first word is \"f\" (missing \"I\", should be \"If\")."
+  },
+  {
+    "id": "FTT_E_P7_Q48",
+    "label": 48,
+    "question": "When you see a young cyclist in front, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Ride past it quickly."},
+      {"letter": "B", "type": "text", "text": "Slow down and be prepared to stop."},
+      {"letter": "C", "type": "text", "text": "Maintain normal speed."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q49",
+    "label": 49,
+    "question": "How should you signal when you want to stop just after a side road to the left?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Give a slowing down arm signal before the junction."},
+      {"letter": "B", "type": "text", "text": "Wait until you have passed the junction, then signal left."},
+      {"letter": "C", "type": "text", "text": "Signal left before the junction."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q50",
+    "label": 50,
+    "question": "When in the car, you should ensure that the handbrake is on",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "After you have started the engine."},
+      {"letter": "B", "type": "text", "text": "Before you start the engine."},
+      {"letter": "C", "type": "text", "text": "While the car is moving."}
+    ],
+    "marked": "B",
+    "notes": ""
+  }
+]

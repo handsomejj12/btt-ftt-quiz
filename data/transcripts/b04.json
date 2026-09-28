@@ -1,0 +1,262 @@
+[
+  {
+    "id": "BTT_E_P2_Q11",
+    "label": 11,
+    "question": "This sign is applicable",
+    "picture": "Blue rectangular sign with a white wheel clamp symbol and the words 'Wheel Clamp Zone'",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Only during peak hours."},
+      {"letter": "B", "type": "text", "text": "Only at night."},
+      {"letter": "C", "type": "text", "text": "At all times."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q12",
+    "label": 12,
+    "question": "When you see this sign whilst driving, you",
+    "picture": "Blue rectangular sign with a white arrow pointing straight up",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Are in a single lane traffic, keep left if you are not overtaking."},
+      {"letter": "B", "type": "text", "text": "May turn right or left if there are side roads."},
+      {"letter": "C", "type": "text", "text": "Cannot turn right or left but must proceed straight ahead."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q13",
+    "label": 13,
+    "question": "This light signal at the entrance of the tunnel means",
+    "picture": "Black signal panel with three round lights; the right-hand light shows a red X",
+    "options": [
+      {"letter": "A", "type": "text", "text": "The lane is reserved for emergency vehicles only."},
+      {"letter": "B", "type": "text", "text": "There is obstruction ahead, proceed slowly."},
+      {"letter": "C", "type": "text", "text": "The lane is closed to traffic."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q14",
+    "label": 14,
+    "question": "When you see this sign, you should",
+    "picture": "Red triangle warning sign showing two children walking hand in hand",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and drive carefully, beware of children crossing the road."},
+      {"letter": "B", "type": "text", "text": "Drive at the normal speed as the jogging track is on the opposite side of the road."},
+      {"letter": "C", "type": "text", "text": "Keep a lookout for a children playground ahead."}
+    ],
+    "marked": "A",
+    "notes": "Option C source wording 'a children playground' kept as printed."
+  },
+  {
+    "id": "BTT_E_P2_Q15",
+    "label": 15,
+    "question": "When you see this sign, you should",
+    "picture": "Red triangle warning sign showing two elderly people walking, one with a walking stick",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Keep a lookout as there is a school for the blind ahead."},
+      {"letter": "B", "type": "text", "text": "Slow down and beware of elderly people crossing the road."},
+      {"letter": "C", "type": "text", "text": "Stop the car and help the handicapped person to cross the road."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q16",
+    "label": 16,
+    "question": "The markings (black arrows) indicated in the diagram mean",
+    "picture": "Top-down diagram of a crossroads; two black arrows point at curved dashed-line lanes in the middle of the junction",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Turning vehicles should remain within the pocket whilst waiting for oncoming traffic to clear."},
+      {"letter": "B", "type": "text", "text": "It is an offence to drive and wait there in any situation."},
+      {"letter": "C", "type": "text", "text": "You should only drive into the pocket when it is clear for you to turn right."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q17",
+    "label": 17,
+    "question": "When you see a triangular marking on the road, you should",
+    "picture": "Top-down view of a curved slip road joining a main road, with a white triangle marking and an arrow painted on the slip road",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Keep left and beware of oncoming traffic."},
+      {"letter": "B", "type": "text", "text": "Drive past the marking on either side without crossing it."},
+      {"letter": "C", "type": "text", "text": "Slow down and give way to traffic on the major road ahead."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q18",
+    "label": 18,
+    "question": "When you see the amber traffic light flashing at a junction, you should",
+    "picture": "Three-light traffic signal with only the middle amber light lit, labelled 'Flashing Amber'",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Go through the junction quickly."},
+      {"letter": "B", "type": "text", "text": "Maintain your speed."},
+      {"letter": "C", "type": "text", "text": "Slow down and proceed carefully."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q19",
+    "label": 19,
+    "question": "When the green arrow traffic light starts blinking, you should",
+    "picture": "Traffic signal showing a red light and a green right-turn arrow, labelled 'Flickering Green Arrow'",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Not proceed if you have not crossed the stop-line."},
+      {"letter": "B", "type": "text", "text": "Speed up to make the turn before the light stops blinking."},
+      {"letter": "C", "type": "text", "text": "Drive on and stop only when the light goes off."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q20",
+    "label": 20,
+    "question": "When the traffic light turns green at a junction, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Depress the accelerator hard and move off quickly."},
+      {"letter": "B", "type": "text", "text": "Check traffic from right and left before moving off."},
+      {"letter": "C", "type": "text", "text": "Only move off when other vehicles move."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q21",
+    "label": 21,
+    "question": "A flashing amber traffic light signal means",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Signal is about to be cancelled."},
+      {"letter": "B", "type": "text", "text": "Stop unless you are so close to the stop-line that you cannot stop safety."},
+      {"letter": "C", "type": "text", "text": "Traffic lights signals are out of order."}
+    ],
+    "marked": "C",
+    "notes": "Option B source typo 'stop safety' (should be 'safely'); option C source wording 'Traffic lights signals' kept as printed."
+  },
+  {
+    "id": "BTT_E_P2_Q22",
+    "label": 22,
+    "question": "The Police officer is signalling",
+    "picture": "Traffic police officer in white uniform and helmet, facing the viewer, one arm stretched straight out to the viewer's right",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drivers from his right to go and those from his left to slow down and stop."},
+      {"letter": "B", "type": "text", "text": "Drivers from his front and rear to go."},
+      {"letter": "C", "type": "text", "text": "Drivers from his left to go and those from his right to stop."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q23",
+    "label": 23,
+    "question": "The driver is indicating that",
+    "picture": "Rear view of a blue car; the driver's right arm is out of the window, with orange arrows showing it moving up and down",
+    "options": [
+      {"letter": "A", "type": "text", "text": "He wants to pull over to the right."},
+      {"letter": "B", "type": "text", "text": "He wants to slow down."},
+      {"letter": "C", "type": "text", "text": "He wants to stay alongside the next vehicle."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q24",
+    "label": 24,
+    "question": "The driver is indicating that",
+    "picture": "Rear view of a blue car; the driver's right arm is out of the window, raised straight up",
+    "options": [
+      {"letter": "A", "type": "text", "text": "He wants to drive up to the multi-storey car park."},
+      {"letter": "B", "type": "text", "text": "He wants you to overtake him."},
+      {"letter": "C", "type": "text", "text": "He wants to stop the car."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q25",
+    "label": 25,
+    "question": "Before overtaking another vehicle, you should signal for at least",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Three seconds"},
+      {"letter": "B", "type": "text", "text": "Five seconds"},
+      {"letter": "C", "type": "text", "text": "Seven seconds"}
+    ],
+    "marked": "A",
+    "notes": "Options have no final full stop in the source."
+  },
+  {
+    "id": "BTT_E_P2_Q26",
+    "label": 26,
+    "question": "If a motorcyclist is trying to overtake you, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive faster to prevent the rider from overtaking you."},
+      {"letter": "B", "type": "text", "text": "Slow down and assist the rider to overtaking safely."},
+      {"letter": "C", "type": "text", "text": "Signal the driver to overtake on the left."}
+    ],
+    "marked": "B",
+    "notes": "Option B source wording 'to overtaking' kept as printed."
+  },
+  {
+    "id": "BTT_E_P2_Q27",
+    "label": 27,
+    "question": "Which car has the right of way ?",
+    "picture": "Video frame: top-down crossroads with a blue car labelled A on the upper road and a yellow car labelled B on the lower road",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Car A."},
+      {"letter": "B", "type": "text", "text": "Car B."},
+      {"letter": "C", "type": "text", "text": "Whoever gets to the intersection first."}
+    ],
+    "marked": "A",
+    "notes": "Video question (picture panel has a Repeat Video button; only a still frame is available). Source has a space before the question mark."
+  },
+  {
+    "id": "BTT_E_P2_Q28",
+    "label": 28,
+    "question": "Crossing the double continuous white lines along the centre of the road",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Is an offence because it is unsafe to do so."},
+      {"letter": "B", "type": "text", "text": "Is not an offence if you are overtaking another vehicle."},
+      {"letter": "C", "type": "text", "text": "Is not an offence if you do not cause inconvenience to others."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q29",
+    "label": 29,
+    "question": "No parking is allowed within",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "12 metres of a junction."},
+      {"letter": "B", "type": "text", "text": "6 metres of a junction."},
+      {"letter": "C", "type": "text", "text": "9 metres of a junction."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P2_Q30",
+    "label": 30,
+    "question": "Parking of vehicle is prohibited within",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "15 metres of a bus stop."},
+      {"letter": "B", "type": "text", "text": "12 metres of a bus stop."},
+      {"letter": "C", "type": "text", "text": "9 metres of a bus stop."}
+    ],
+    "marked": "C",
+    "notes": ""
+  }
+]

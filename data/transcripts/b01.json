@@ -1,0 +1,262 @@
+[
+  {
+    "id": "BTT_E_P1_Q01",
+    "label": 1,
+    "question": "This sign means that",
+    "picture": "Blue circular sign with a white arrow pointing right",
+    "options": [
+      {"letter": "A", "type": "text", "text": "You must keep to the right hand side of the road."},
+      {"letter": "B", "type": "text", "text": "There is a one-way street on your right."},
+      {"letter": "C", "type": "text", "text": "You cannot proceed straight ahead or turn left."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q02",
+    "label": 2,
+    "question": "This sign means that",
+    "picture": "Blue circular sign with a white arrow pointing left",
+    "options": [
+      {"letter": "A", "type": "text", "text": "You must keep left to allow other vehicles to overtake."},
+      {"letter": "B", "type": "text", "text": "You must turn left."},
+      {"letter": "C", "type": "text", "text": "You must look out for traffic from the right before proceeding straight ahead."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q03",
+    "label": 3,
+    "question": "This sign means",
+    "picture": "Red circular sign with a white horizontal bar across the middle",
+    "options": [
+      {"letter": "A", "type": "text", "text": "No waiting."},
+      {"letter": "B", "type": "text", "text": "No entry."},
+      {"letter": "C", "type": "text", "text": "No stopping."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q04",
+    "label": 4,
+    "question": "This sign means",
+    "picture": "White circular sign with a red border and the number \"50\" in black",
+    "options": [
+      {"letter": "A", "type": "text", "text": "You cannot drive slower than 50 km/h."},
+      {"letter": "B", "type": "text", "text": "You cannot drive beyond 50 km/h."},
+      {"letter": "C", "type": "text", "text": "You must maintain your speed at 50 km/h."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q05",
+    "label": 5,
+    "question": "When you see this sign, you should",
+    "picture": "Red triangle warning sign with a black vertical road and a side road joining from the lower left",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and beware of traffic from the left"},
+      {"letter": "B", "type": "text", "text": "Not slow down as you have the right of way"},
+      {"letter": "C", "type": "text", "text": "Stop and give way to traffic from the right and left"}
+    ],
+    "marked": "A",
+    "notes": "None of the three options ends with a full stop in the source."
+  },
+  {
+    "id": "BTT_E_P1_Q06",
+    "label": 6,
+    "question": "When you see this sign, you should",
+    "picture": "Red triangle warning sign with a black road line curving to the right",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and keep left as you are approaching a right bend."},
+      {"letter": "B", "type": "text", "text": "Slow down and give way to oncoming traffic before turning right."},
+      {"letter": "C", "type": "text", "text": "Slow down and get ready to drive up a steep slope ahead."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q07",
+    "label": 7,
+    "question": "When you see this sign, you should",
+    "picture": "Red triangle warning sign with two black arrows side by side, one pointing up and one pointing down",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Not turn left or right but proceed in the directions as shown."},
+      {"letter": "B", "type": "text", "text": "Make a U-turn ahead."},
+      {"letter": "C", "type": "text", "text": "Keep left and beware of oncoming traffic."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q08",
+    "label": 8,
+    "question": "This sign indicates",
+    "picture": "Red triangle warning sign with two black horizontal arrows, the upper pointing right and the lower pointing left",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Two-way traffic across a one-way carriageway."},
+      {"letter": "B", "type": "text", "text": "Two-way traffic across a two-way carriageway."},
+      {"letter": "C", "type": "text", "text": "You must turn right or left."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q09",
+    "label": 9,
+    "question": "This sign means",
+    "picture": "Red triangle warning sign with two black vertical lines, one straight and one with a bend",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Road closed on one side - slow down, stop and make a U-turn."},
+      {"letter": "B", "type": "text", "text": "Road narrows on one side - slow down and keep left, do not make a U-turn."},
+      {"letter": "C", "type": "text", "text": "Lanes merging - give way to vehicles in the right lane."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q10",
+    "label": 10,
+    "question": "This sign applies to",
+    "picture": "Blue rectangular sign with white text \"TOW AWAY ZONE\"",
+    "options": [
+      {"letter": "A", "type": "text", "text": "All vehicles."},
+      {"letter": "B", "type": "text", "text": "Motor-cars only."},
+      {"letter": "C", "type": "text", "text": "Motor-cycles only."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q11",
+    "label": 11,
+    "question": "This sign means that the road on the right is",
+    "picture": "Blue square sign with a white vertical road and a branch to the right ending in a red bar",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Leading to a military restricted area, you cannot enter."},
+      {"letter": "B", "type": "text", "text": "Closed to all traffic, you cannot enter."},
+      {"letter": "C", "type": "text", "text": "A dead end road, you may enter if you wish."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q12",
+    "label": 12,
+    "question": "This sign means that",
+    "picture": "Yellow and black diagonally striped board mounted on two posts",
+    "options": [
+      {"letter": "A", "type": "text", "text": "There is an army barrack ahead, drive in the direction as directed."},
+      {"letter": "B", "type": "text", "text": "There is a barrier ahead, slow down and drive carefully."},
+      {"letter": "C", "type": "text", "text": "The road is closed to traffic."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q13",
+    "label": 13,
+    "question": "This sign means",
+    "picture": "Red triangle warning sign with a black rounded rectangular outline enclosing a trapezoid shape",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Tunnel ahead."},
+      {"letter": "B", "type": "text", "text": "Expressway ahead."},
+      {"letter": "C", "type": "text", "text": "A rear view mirror."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q14",
+    "label": 14,
+    "question": "When you see this sign, you",
+    "picture": "Red triangle warning sign with a black walking figure above dashed lines",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Should slow down and be prepared to stop for pedestrians to cross the road."},
+      {"letter": "B", "type": "text", "text": "Need not slow down if there is no pedestrian at the Crossing."},
+      {"letter": "C", "type": "text", "text": "Should sound your horn to warn the pedestrians of your approach."}
+    ],
+    "marked": "A",
+    "notes": "Option B capitalises \"Crossing\" mid-sentence in the source."
+  },
+  {
+    "id": "BTT_E_P1_Q15",
+    "label": 15,
+    "question": "These arrows marked on the road indicate that",
+    "picture": "Overhead view of a two-lane road with white lane lines and curved arrow markings",
+    "options": [
+      {"letter": "A", "type": "text", "text": "traffic from the two lanes will merge into a single lane ahead."},
+      {"letter": "B", "type": "text", "text": "all vehicles must either turn right or left ahead."},
+      {"letter": "C", "type": "text", "text": "there are two bends ahead; one to the right and another to the left."}
+    ],
+    "marked": "A",
+    "notes": "Options begin with a lowercase letter in the source."
+  },
+  {
+    "id": "BTT_E_P1_Q16",
+    "label": 16,
+    "question": "When you see these zig-zag lines by the side of a road, you should",
+    "picture": "Overhead view of a road with white zig-zag lines along both edges",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and keep left because the road ahead is narrow and winding."},
+      {"letter": "B", "type": "text", "text": "Slow down and be prepared to stop for pedestrians to cross the road at the Crossing."},
+      {"letter": "C", "type": "text", "text": "Drive carefully as the road is leading to an underground bomb shelter."}
+    ],
+    "marked": "B",
+    "notes": "Option B capitalises \"Crossing\" mid-sentence in the source."
+  },
+  {
+    "id": "BTT_E_P1_Q17",
+    "label": 17,
+    "question": "This traffic light signal means",
+    "picture": "Traffic light set with a full green light lit on the left and an amber right-pointing arrow lit on the right",
+    "options": [
+      {"letter": "A", "type": "text", "text": "All vehicles must get ready to stop."},
+      {"letter": "B", "type": "text", "text": "Vehicles turning right must get ready to stop."},
+      {"letter": "C", "type": "text", "text": "'Go' for left turn vehicles only."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q18",
+    "label": 18,
+    "question": "This traffic light signal means",
+    "picture": "Traffic light set with a full green light lit on the left and a red right-pointing arrow lit on the right",
+    "options": [
+      {"letter": "A", "type": "text", "text": "All turning vehicles must get ready to stop."},
+      {"letter": "B", "type": "text", "text": "All vehicles must stop."},
+      {"letter": "C", "type": "text", "text": "Vehicles turning right must stop."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P1_Q19",
+    "label": 19,
+    "question": "When you see green traffic light signal from a distance, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Speed up."},
+      {"letter": "B", "type": "text", "text": "Slow down."},
+      {"letter": "C", "type": "text", "text": "Carry on at the same speed."}
+    ],
+    "marked": "B",
+    "notes": "Question reads \"see green traffic light signal\" (no article) in the source."
+  },
+  {
+    "id": "BTT_E_P1_Q20",
+    "label": 20,
+    "question": "When approaching a traffic light junction with the amber light flashing, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and proceed across the junction only when it is safe to do so."},
+      {"letter": "B", "type": "text", "text": "Speed up in order to pass the junction before the light changes."},
+      {"letter": "C", "type": "text", "text": "Stop at the stop-line and wait for the light to change."}
+    ],
+    "marked": "A",
+    "notes": ""
+  }
+]

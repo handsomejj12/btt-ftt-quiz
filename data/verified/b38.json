@@ -1,0 +1,262 @@
+[
+  {
+    "id": "FTT_E_P8_Q41",
+    "label": 41,
+    "question": "Road hogging",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Ensures a smoother flow of traffic."},
+      {"letter": "B", "type": "text", "text": "Causes other vehicles to overtake dangerously on the left."},
+      {"letter": "C", "type": "text", "text": "Causes other vehicles to overtake on the right."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q42",
+    "label": 42,
+    "question": "When you are caught in a traffic jam on an expressway, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Use the road shoulder to move in front."},
+      {"letter": "B", "type": "text", "text": "Weave in and out of traffic to get in front."},
+      {"letter": "C", "type": "text", "text": "Stay in your lane until traffic flow resumes."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q43",
+    "label": 43,
+    "question": "What should you do if your brakes were slack or spongy?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Ignore them as long as it is effective."},
+      {"letter": "B", "type": "text", "text": "Get them checked as soon as possible."},
+      {"letter": "C", "type": "text", "text": "Pumps the brake before stopping."}
+    ],
+    "marked": "B",
+    "notes": "Source grammar kept as printed: option A 'them ... it is effective'; option C 'Pumps' (not 'Pump')."
+  },
+  {
+    "id": "FTT_E_P8_Q44",
+    "label": 44,
+    "question": "To stop your vehicle safely on a wet road, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Apply the foot brake followed by the hand brake."},
+      {"letter": "B", "type": "text", "text": "Use your brakes gently and early."},
+      {"letter": "C", "type": "text", "text": "Use engine brake only."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q45",
+    "label": 45,
+    "question": "What can cause your tyres to skid and lose their grip on the road surface?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Heavy braking."},
+      {"letter": "B", "type": "text", "text": "Looking over your shoulder."},
+      {"letter": "C", "type": "text", "text": "Giving hand signals."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q46",
+    "label": 46,
+    "question": "You are following learners who stalls at a junction. You should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Stay very close behind and flash your headlights."},
+      {"letter": "B", "type": "text", "text": "Be patient as you expect them to make mistakes."},
+      {"letter": "C", "type": "text", "text": "Immediately overtake them."}
+    ],
+    "marked": "B",
+    "notes": "Source grammar kept as printed: 'learners who stalls'."
+  },
+  {
+    "id": "FTT_E_P8_Q47",
+    "label": 47,
+    "question": "On the expressway, you may ONLY stop on the road shoulder",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "If you feel tired and need to rest."},
+      {"letter": "B", "type": "text", "text": "To pick up passengers."},
+      {"letter": "C", "type": "text", "text": "In an emergency."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q48",
+    "label": 48,
+    "question": "You are following a cyclist on an uneven road. You should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Overtake immediately."},
+      {"letter": "B", "type": "text", "text": "Allow extra room in case they swerve to avoid pot-holes."},
+      {"letter": "C", "type": "text", "text": "Follow closely so you can be seen in their mirrors."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q49",
+    "label": 49,
+    "question": "You give road signals in order to",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Help other car drivers only."},
+      {"letter": "B", "type": "text", "text": "Warn heavy vehicles only."},
+      {"letter": "C", "type": "text", "text": "Warn and help all road users including pedestrians."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P8_Q50",
+    "label": 50,
+    "question": "When moving off from a stationary position, what must you do first?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Check the road in front and behind you."},
+      {"letter": "B", "type": "text", "text": "Move off then check for traffic on the right."},
+      {"letter": "C", "type": "text", "text": "Tap the horn to warn other road users."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q01",
+    "label": 1,
+    "question": "Why should you look out particularly for motorcyclists and cyclists at junctions?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "They might want to turn into the side road."},
+      {"letter": "B", "type": "text", "text": "They are harder to see."},
+      {"letter": "C", "type": "text", "text": "They might not see you turn."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q02",
+    "label": 2,
+    "question": "You are waiting to come out of a side road. Why should you watch carefully for motocycles?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Motorcycles have right of way."},
+      {"letter": "B", "type": "text", "text": "Motorcycles are small and hard to see."},
+      {"letter": "C", "type": "text", "text": "Motorcycles are usually faster than cars."}
+    ],
+    "marked": "B",
+    "notes": "Source typo kept: 'motocycles' in the question (options spell 'Motorcycles')."
+  },
+  {
+    "id": "FTT_E_P9_Q03",
+    "label": 3,
+    "question": "You are travelling along an expressway . You decided that you need a rest, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Stop on the road shoulder."},
+      {"letter": "B", "type": "text", "text": "Leave at the next exit."},
+      {"letter": "C", "type": "text", "text": "Park on the slip road."}
+    ],
+    "marked": "B",
+    "notes": "Source has a space before the full stop: 'expressway .'"
+  },
+  {
+    "id": "FTT_E_P9_Q04",
+    "label": 4,
+    "question": "You should adjust your __________so that all controls can be reached without having to stretch.",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Seat belt"},
+      {"letter": "B", "type": "text", "text": "Eye-sight"},
+      {"letter": "C", "type": "text", "text": "Driver seat"}
+    ],
+    "marked": "C",
+    "notes": "Question contains a fill-in blank drawn as an underline (length approximated with 10 underscores); no space between the blank and 'so'. Options have no final full stop."
+  },
+  {
+    "id": "FTT_E_P9_Q05",
+    "label": 5,
+    "question": "Which wheels turn when you turn the steering wheel?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "The front wheels."},
+      {"letter": "B", "type": "text", "text": "The back wheels."},
+      {"letter": "C", "type": "text", "text": "Both the front and back wheels."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q06",
+    "label": 6,
+    "question": "While driving and your windscreen is shattered, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Apply emergency brake to stop immediately."},
+      {"letter": "B", "type": "text", "text": "Slow down and stop at the road side to remove the shattered screen."},
+      {"letter": "C", "type": "text", "text": "Drive at normal speed to a workshop."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q07",
+    "label": 7,
+    "question": "When the amber light flashes continuously and there is a policeman standing in the middle of the junction, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Proceed on as the light is going to change."},
+      {"letter": "B", "type": "text", "text": "Proceed on and give way to traffic on the right only."},
+      {"letter": "C", "type": "text", "text": "Be cautious and follow the direction given by the policeman."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q08",
+    "label": 8,
+    "question": "Which lane should Car A turn into?",
+    "picture": "Video frame from above: red car A in a side road joining a three-lane road; lanes marked B, C, D with faded cars",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Lane C or D."},
+      {"letter": "B", "type": "text", "text": "Lane B or C."},
+      {"letter": "C", "type": "text", "text": "Lane C."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P9_Q09",
+    "label": 9,
+    "question": "Which lane should Car Y turn into?",
+    "picture": "Video frame from above: red car Y in a side road joining a three-lane road; lanes labelled Lane 1, 2, 3",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Lane 1"},
+      {"letter": "B", "type": "text", "text": "Lane 2"},
+      {"letter": "C", "type": "text", "text": "Lane 3"}
+    ],
+    "marked": "C",
+    "notes": "Lane numbers in the picture are partly hidden behind faded cars. Options have no final full stop."
+  },
+  {
+    "id": "FTT_E_P9_Q10",
+    "label": 10,
+    "question": "Which of the following statement on alcohol is true?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "You may decline a breath or blood test."},
+      {"letter": "B", "type": "text", "text": "Alcohol will not be detected by the breath test after peppermints have been eaten."},
+      {"letter": "C", "type": "text", "text": "Even a small amount of alcohol tends to increase the chance of an accident"}
+    ],
+    "marked": "C",
+    "notes": "Option C has no final full stop in the source. Question says 'statement' (singular) as printed."
+  }
+]

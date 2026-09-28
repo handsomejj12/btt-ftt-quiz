@@ -1,0 +1,262 @@
+[
+  {
+    "id": "BTT_E_P6_Q11",
+    "label": 11,
+    "question": "Which of these signs mean 'Sharp deviation'?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Blue circular sign with a white arrow pointing left"},
+      {"letter": "B", "type": "image", "text": "Black rectangular board with a row of white chevrons pointing left"},
+      {"letter": "C", "type": "image", "text": "Rectangular board with yellow and black diagonal stripes"}
+    ],
+    "marked": "B",
+    "notes": "Source grammar: 'signs mean' (not 'means')."
+  },
+  {
+    "id": "BTT_E_P6_Q12",
+    "label": 12,
+    "question": "Which of these signs mean you are approaching a tunnel?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Red triangle warning sign with a black symbol of a road merging into a wider road"},
+      {"letter": "B", "type": "image", "text": "Red triangle warning sign with a black arched opening symbol"},
+      {"letter": "C", "type": "image", "text": "Blue square sign with a white vertical bar topped by a red bar"}
+    ],
+    "marked": "B",
+    "notes": "Source grammar: 'signs mean' (not 'means')."
+  },
+  {
+    "id": "BTT_E_P6_Q13",
+    "label": 13,
+    "question": "When you see this sign, you",
+    "picture": "Red triangle warning sign with a pedestrian walking over a striped crossing",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Should slow down and be prepared to stop for pedestrians to cross the road."},
+      {"letter": "B", "type": "text", "text": "Need not slow down if there is no pedestrian at the Crossing."},
+      {"letter": "C", "type": "text", "text": "Should sound your horn to warn the pedestrians of your approach."}
+    ],
+    "marked": "A",
+    "notes": "Option B capitalises 'Crossing' as in source."
+  },
+  {
+    "id": "BTT_E_P6_Q14",
+    "label": 14,
+    "question": "Which of these signs means 'Designated pedestrian crossing' ahead?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Red triangle warning sign with two elderly people, one using a walking stick"},
+      {"letter": "B", "type": "image", "text": "Red triangle warning sign with a pedestrian walking over a striped crossing"},
+      {"letter": "C", "type": "image", "text": "Red triangle warning sign with two children walking"}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q15",
+    "label": 15,
+    "question": "What does this road marking in this diagram means?",
+    "picture": "Overhead view of a two-way road with double white lines down the centre and opposing direction arrows",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Do not cross the lines."},
+      {"letter": "B", "type": "text", "text": "No stopping allowed."},
+      {"letter": "C", "type": "text", "text": "Parking allowed on Sundays and Public holidays only."}
+    ],
+    "marked": "A",
+    "notes": "Source grammar: 'What does ... means?' (should be 'mean')."
+  },
+  {
+    "id": "BTT_E_P6_Q16",
+    "label": 16,
+    "question": "You are driving towards a zebra crossing. Pedestrians are waiting to cross, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Continue on your way"},
+      {"letter": "B", "type": "text", "text": "Be prepared to stop"},
+      {"letter": "C", "type": "text", "text": "Wave to the people to wait"}
+    ],
+    "marked": "B",
+    "notes": "Options have no final full stop in source."
+  },
+  {
+    "id": "BTT_E_P6_Q17",
+    "label": 17,
+    "question": "Which of these traffic lights means only vehicles turning right must 'Stop'?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Traffic lights showing a green light and a green right-turn arrow"},
+      {"letter": "B", "type": "image", "text": "Traffic lights showing a green light and an amber right-turn arrow"},
+      {"letter": "C", "type": "image", "text": "Traffic lights showing a green light and a red right-turn arrow"}
+    ],
+    "marked": "C",
+    "notes": "Option pictures are very small; arrow colours read from an enlarged crop."
+  },
+  {
+    "id": "BTT_E_P6_Q18",
+    "label": 18,
+    "question": "When you approach a 'green' traffic light signal at a junction, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Accelerate hard."},
+      {"letter": "B", "type": "text", "text": "Slow down and be ready to stop."},
+      {"letter": "C", "type": "text", "text": "Maintain your speed."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q19",
+    "label": 19,
+    "question": "When you approach this traffic light junction, you should",
+    "picture": "Video frame from the driver's seat approaching a junction with a green traffic light",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and be ready to stop when the light changes."},
+      {"letter": "B", "type": "text", "text": "Speed up to pass the junction before the light changes."},
+      {"letter": "C", "type": "text", "text": "Maintain a high speed so as not to disrupt the traffic flow."}
+    ],
+    "marked": "A",
+    "notes": "Picture panel is a video frame (Repeat Video button)."
+  },
+  {
+    "id": "BTT_E_P6_Q20",
+    "label": 20,
+    "question": "The signal given by the policeman in the picture means",
+    "picture": "Traffic policeman in white uniform facing forward with both arms raised straight up",
+    "options": [
+      {"letter": "A", "type": "text", "text": "All vehicles must stop."},
+      {"letter": "B", "type": "text", "text": "Vehicles approaching policeman from in front and behind him must stop."},
+      {"letter": "C", "type": "text", "text": "Vehicles approaching from his right and left to stop."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q21",
+    "label": 21,
+    "question": "This Police officer is signalling",
+    "picture": "Traffic police officer in white uniform turned sideways with one hand raised, palm facing out",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drivers from his left, front and rear to go."},
+      {"letter": "B", "type": "text", "text": "Drivers from his left, front and rear to stop."},
+      {"letter": "C", "type": "text", "text": "Drivers from his right, front and behind to stop."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q22",
+    "label": 22,
+    "question": "When a driver signals in this manner, it means",
+    "picture": "Rear view of a blue car; driver's arm out of the right window with a circular rotating-motion arrow",
+    "options": [
+      {"letter": "A", "type": "text", "text": "He intends to make a U-turn."},
+      {"letter": "B", "type": "text", "text": "He intends to go around the round-about."},
+      {"letter": "C", "type": "text", "text": "He intends to move to the left or turn to the left."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q23",
+    "label": 23,
+    "question": "Which of these rider's arm signal mean he intends to move out or turn right?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "image", "text": "Motorcyclist seen from behind with arm stretched straight out to the right of the picture"},
+      {"letter": "B", "type": "image", "text": "Motorcyclist seen from behind with arm held out to the right, bent and moving up and down"},
+      {"letter": "C", "type": "image", "text": "Motorcyclist seen from behind with arm stretched straight out to the left of the picture"}
+    ],
+    "marked": "A",
+    "notes": "Source grammar: 'rider's arm signal mean'. Option pictures are very small black-and-white drawings."
+  },
+  {
+    "id": "BTT_E_P6_Q24",
+    "label": 24,
+    "question": "When you have moved to the right hand side of the road to overtake another vehicle, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Maintain your normal speed and overtake as usual."},
+      {"letter": "B", "type": "text", "text": "Accelerate and overtake as quickly as possible."},
+      {"letter": "C", "type": "text", "text": "Decelerate and change to a higher gear."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q25",
+    "label": 25,
+    "question": "While overtaking another vehicle, the vehicle suddenly goes faster, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Accelerate hard to overtake quickly."},
+      {"letter": "B", "type": "text", "text": "Slow down and move safely back to your lane."},
+      {"letter": "C", "type": "text", "text": "Sound the horn continuously to warn the other driver."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q26",
+    "label": 26,
+    "question": "Which car should go first?",
+    "picture": "Overhead crossroads: green car A from the top going straight, blue car B from the right going straight, yellow car C from the bottom turning right",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Car A."},
+      {"letter": "B", "type": "text", "text": "Car B."},
+      {"letter": "C", "type": "text", "text": "Car C."}
+    ],
+    "marked": "A",
+    "notes": "Picture panel is a video frame (Repeat Video button); car paths read from the arrows drawn in the frame."
+  },
+  {
+    "id": "BTT_E_P6_Q27",
+    "label": 27,
+    "question": "Which car(s) should give way to car B?",
+    "picture": "Overhead crossroads: yellow car A from the bottom going straight, green car B from the right turning right, blue car C from the top turning left",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Car C only."},
+      {"letter": "B", "type": "text", "text": "Car A only."},
+      {"letter": "C", "type": "text", "text": "Neither Cars A or C to give way to Car B."}
+    ],
+    "marked": "C",
+    "notes": "Picture panel is a video frame (Repeat Video button); car paths read from the arrows drawn in the frame. Source grammar: 'Neither ... or'."
+  },
+  {
+    "id": "BTT_E_P6_Q28",
+    "label": 28,
+    "question": "You are driving pass a line of parked cars. You notice a ball bouncing out into the road ahead, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Continue driving at the same speed and sound your horn."},
+      {"letter": "B", "type": "text", "text": "Slow down and be prepared to stop for children."},
+      {"letter": "C", "type": "text", "text": "Continue driving at the same speed and try to avoid the ball."}
+    ],
+    "marked": "B",
+    "notes": "Source typo: 'driving pass' (should be 'past')."
+  },
+  {
+    "id": "BTT_E_P6_Q29",
+    "label": 29,
+    "question": "You are turning left into a side road. Pedestrians are crossing the road near the junction. You should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Wave them on."},
+      {"letter": "B", "type": "text", "text": "Wait for them to cross."},
+      {"letter": "C", "type": "text", "text": "Sound your horn."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "BTT_E_P6_Q30",
+    "label": 30,
+    "question": "You need a longer distance to stop your vehicle when driving",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "On a dry road."},
+      {"letter": "B", "type": "text", "text": "On a wet road."},
+      {"letter": "C", "type": "text", "text": "On a hard and dry ground."}
+    ],
+    "marked": "B",
+    "notes": ""
+  }
+]

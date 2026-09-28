@@ -1,0 +1,262 @@
+[
+  {
+    "id": "FTT_E_P2_Q41",
+    "label": 41,
+    "question": "When can you use the right lane of a two-lane carriageway?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "When your path of travel is obstructed by road works or parked vehicles."},
+      {"letter": "B", "type": "text", "text": "When your speed is higher that the speed limit for the road."},
+      {"letter": "C", "type": "text", "text": "When the right lane is free of traffic."}
+    ],
+    "marked": "A",
+    "notes": "Source typo in option B: 'higher that' (should be 'higher than')."
+  },
+  {
+    "id": "FTT_E_P2_Q42",
+    "label": 42,
+    "question": "Pre-driving checks",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Will reduce the chances of breakdown."},
+      {"letter": "B", "type": "text", "text": "Should be done only when the vehicle misfires."},
+      {"letter": "C", "type": "text", "text": "Are not necessary if it is a new vehicle."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q43",
+    "label": 43,
+    "question": "Which of the following maintenance parts could cause an accident if the fluid level is low?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Battery."},
+      {"letter": "B", "type": "text", "text": "Engine."},
+      {"letter": "C", "type": "text", "text": "Brake reservoir."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q44",
+    "label": 44,
+    "question": "If your car skids while braking, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Step harder on the brake pedal."},
+      {"letter": "B", "type": "text", "text": "Release the brake pedal and apply it again."},
+      {"letter": "C", "type": "text", "text": "Pull up the handbrake."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q45",
+    "label": 45,
+    "question": "In the vicinity of a hospital, you should sound the horn",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Only to warn other road users the danger of an accident."},
+      {"letter": "B", "type": "text", "text": "To let others know that you have the right of way."},
+      {"letter": "C", "type": "text", "text": "If another vehicle moved into your lane without signalling."}
+    ],
+    "marked": "A",
+    "notes": "Option A reads 'warn other road users the danger' (missing 'of') as printed in source."
+  },
+  {
+    "id": "FTT_E_P2_Q46",
+    "label": 46,
+    "question": "When your car breaks down on an expressway, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Move your car to the road shoulder."},
+      {"letter": "B", "type": "text", "text": "Leave your car on the expressway with the boot cover fully opened."},
+      {"letter": "C", "type": "text", "text": "Leave your car on the expressway with the bonnet fully opened."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q47",
+    "label": 47,
+    "question": "What should you do if you see a cyclist riding against the flow of traffic towards you?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Sound your horn to warn him of the danger."},
+      {"letter": "B", "type": "text", "text": "Slow down and be ready to stop if necessary."},
+      {"letter": "C", "type": "text", "text": "Stop Immediately."}
+    ],
+    "marked": "B",
+    "notes": "Option C has capital 'I' in 'Immediately' as printed in source."
+  },
+  {
+    "id": "FTT_E_P2_Q48",
+    "label": 48,
+    "question": "A cyclist with a heavy load is wobbling along the road, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive closer to warn him it is dangerous."},
+      {"letter": "B", "type": "text", "text": "Give him more space when passing."},
+      {"letter": "C", "type": "text", "text": "Not pass him at all."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P2_Q49",
+    "label": 49,
+    "question": "Before making a lane change to your left, you must signal for at least 3 second and",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Use your vehicle brake lights to warn other road users."},
+      {"letter": "B", "type": "text", "text": "Use your vehicle hazard lights to warn other road users."},
+      {"letter": "C", "type": "text", "text": "Check your blind spot before moving left."}
+    ],
+    "marked": "C",
+    "notes": "Source typo in question: '3 second' (should be '3 seconds')."
+  },
+  {
+    "id": "FTT_E_P2_Q50",
+    "label": 50,
+    "question": "Before turning right into a minor road, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down or stop to give way to oncoming vehicles and pedestrians."},
+      {"letter": "B", "type": "text", "text": "Slow down and turn sharply."},
+      {"letter": "C", "type": "text", "text": "Not give way to oncoming vehicle."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q01",
+    "label": 1,
+    "question": "If the foot-brake pedal moves all the way to the floor, it is a sign that the foot-brake",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Is working."},
+      {"letter": "B", "type": "text", "text": "May be faulty."},
+      {"letter": "C", "type": "text", "text": "Is normal."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q02",
+    "label": 2,
+    "question": "If the medicines prescribe by the doctor are likely to affect your driving, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive only if someone is with you."},
+      {"letter": "B", "type": "text", "text": "Not to drive yourself."},
+      {"letter": "C", "type": "text", "text": "Avoid driving on the expressway.."}
+    ],
+    "marked": "B",
+    "notes": "Source typo in question: 'prescribe' (should be 'prescribed'). Option C ends with a double full stop in source."
+  },
+  {
+    "id": "FTT_E_P3_Q03",
+    "label": 3,
+    "question": "If you are feeling very tired and sleepy whilst driving on an expressway, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Make an exit and stop at a safe place to rest."},
+      {"letter": "B", "type": "text", "text": "Stop at the road shoulder to rest."},
+      {"letter": "C", "type": "text", "text": "Switch on hazard lights and drive slowly along the road shoulder."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q04",
+    "label": 4,
+    "question": "Before making a left turn in a narrow course, you should position your car",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "More to the left."},
+      {"letter": "B", "type": "text", "text": "More to the right."},
+      {"letter": "C", "type": "text", "text": "At the centre of the course."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q05",
+    "label": 5,
+    "question": "If you see an oily patch on the road, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down."},
+      {"letter": "B", "type": "text", "text": "Speed up."},
+      {"letter": "C", "type": "text", "text": "Avoid it if possible."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q06",
+    "label": 6,
+    "question": "Some of the common vehicle defects that can cause accidents are",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Faulty seat belts, seats, child restraint and alarm system."},
+      {"letter": "B", "type": "text", "text": "Faulty tyres, brakes, shock absorbers and windscreen wipers."},
+      {"letter": "C", "type": "text", "text": "Dull paint, dented bumpers and old seats."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q07",
+    "label": 7,
+    "question": "During weekdays (Monday to Friday) in the morning, vehicles other than omnibuses are not allowed to enter the bus lane from",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "7.00 am to 9.00 am."},
+      {"letter": "B", "type": "text", "text": "7.00 am to 9.30 am."},
+      {"letter": "C", "type": "text", "text": "7.30 am to 9.30 am."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q08",
+    "label": 8,
+    "question": "Before turning right at this intersection, you should",
+    "picture": "Video frame from driver's seat approaching an intersection with a traffic light and a blue circular sign",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Stop to ensure safety."},
+      {"letter": "B", "type": "text", "text": "Wait for the green traffic signal light to come on."},
+      {"letter": "C", "type": "text", "text": "Not to stop or wait for the green traffic signal light to come on."}
+    ],
+    "marked": "A",
+    "notes": "Picture panel is a video frame with a Repeat Video button; only a single still frame is available."
+  },
+  {
+    "id": "FTT_E_P3_Q09",
+    "label": 9,
+    "question": "Both cars are turning right at this intersection. What path should they take?",
+    "picture": "Top-down video frame of a crossroads with a yellow car and a white car approaching from opposite directions",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Both cars pass in front of each other."},
+      {"letter": "B", "type": "text", "text": "Pass behind each other."},
+      {"letter": "C", "type": "text", "text": "Choose either depending on the traffic flow."}
+    ],
+    "marked": "A",
+    "notes": "Picture panel is a video frame with a Repeat Video button; the frame shows turn-path arrows that may hint at the answer."
+  },
+  {
+    "id": "FTT_E_P3_Q10",
+    "label": 10,
+    "question": "A person will be disqualified from driving if he is caught",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Driving with a blood alcohol concentration over 80 mg of alcohol/100ml of blood."},
+      {"letter": "B", "type": "text", "text": "Failing to obey a 'Stop' traffic sign."},
+      {"letter": "C", "type": "text", "text": "Failing to give way to an ambulance with its siren on."}
+    ],
+    "marked": "A",
+    "notes": ""
+  }
+]

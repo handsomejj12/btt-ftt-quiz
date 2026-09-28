@@ -1,0 +1,603 @@
+<title>Theory Test Drill</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+:root {
+  --canvas: #F4F7F4;
+  --surface: #FFFFFF;
+  --surface-2: #EEF3EE;
+  --ink: #16201B;
+  --ink-muted: #5D6B62;
+  --ink-subtle: #6C7A71;
+  --hair: #E3EAE4;
+  --hair-strong: #CFDBD2;
+  --primary: #0F6E56;
+  --primary-deep: #0A4233;
+  --on-primary: #FFFFFF;
+  --gold: #8F6A1F;
+  --gold-tint: #F6ECD6;
+  --good: #0F6E56;
+  --good-tint: #E3F1EA;
+  --bad: #B3402F;
+  --bad-tint: #F8E4E0;
+  --sign-red: #C8372D;
+  --shadow: 0 1px 2px rgba(15, 110, 86, .06), 0 10px 28px -14px rgba(15, 110, 86, .22);
+  --font: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --display: Fraunces, Georgia, "Times New Roman", serif;
+  --mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --canvas: #0B120F;
+    --surface: #101A15;
+    --surface-2: #16221C;
+    --ink: #EDF3EE;
+    --ink-muted: #A3B8AB;
+    --ink-subtle: #7A8F82;
+    --hair: rgba(255, 255, 255, .09);
+    --hair-strong: rgba(255, 255, 255, .17);
+    --primary: #34D399;
+    --primary-deep: #6EE7B7;
+    --on-primary: #06231A;
+    --gold: #F0C765;
+    --gold-tint: #342A12;
+    --good: #34D399;
+    --good-tint: #12352A;
+    --bad: #F2917F;
+    --bad-tint: #3B1D18;
+    --sign-red: #E0574B;
+    --shadow: none;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --canvas: #0B120F;
+  --surface: #101A15;
+  --surface-2: #16221C;
+  --ink: #EDF3EE;
+  --ink-muted: #A3B8AB;
+  --ink-subtle: #7A8F82;
+  --hair: rgba(255, 255, 255, .09);
+  --hair-strong: rgba(255, 255, 255, .17);
+  --primary: #34D399;
+  --primary-deep: #6EE7B7;
+  --on-primary: #06231A;
+  --gold: #F0C765;
+  --gold-tint: #342A12;
+  --good: #34D399;
+  --good-tint: #12352A;
+  --bad: #F2917F;
+  --bad-tint: #3B1D18;
+  --sign-red: #E0574B;
+  --shadow: none;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--canvas);
+  color: var(--ink);
+  font: 400 16px/1.6 var(--font);
+  padding-inline: 16px;
+  -webkit-font-smoothing: antialiased;
+}
+button { font: inherit; color: inherit; }
+img { max-width: 100%; }
+.wrap { max-width: 720px; margin: 0 auto; padding-block: 20px 56px; display: grid; gap: 20px; }
+.eyebrow {
+  margin: 0;
+  font: 600 12px/1 var(--font);
+  letter-spacing: 1.7px;
+  text-transform: uppercase;
+  color: var(--ink-subtle);
+}
+.mono { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+:focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
+
+/* Buttons */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+  min-height: 44px; padding: 10px 18px;
+  border-radius: 8px; border: 1px solid var(--hair-strong);
+  background: var(--surface); color: var(--ink);
+  font: 500 15px/1 var(--font); cursor: pointer; text-decoration: none;
+  transition: background-color .2s, border-color .2s, color .2s;
+}
+.btn:hover { border-color: var(--primary); }
+.btn-primary { background: var(--primary); border-color: var(--primary); color: var(--on-primary); }
+.btn-primary:hover { background: var(--primary-deep); border-color: var(--primary-deep); }
+.btn[disabled] { opacity: .45; cursor: not-allowed; }
+.btn-quiet { border-color: transparent; background: transparent; color: var(--ink-muted); padding-inline: 10px; }
+.btn-quiet:hover { color: var(--ink); border-color: var(--hair-strong); }
+
+/* Home */
+.brand { display: flex; align-items: center; gap: 14px; padding-top: 8px; }
+.brand svg { flex: none; width: 46px; height: 42px; }
+.brand h1 { margin: 0; font: 500 30px/1.1 var(--display); letter-spacing: -.5px; text-wrap: balance; }
+.brand p { margin: 2px 0 0; color: var(--ink-muted); font-size: 14px; }
+
+.seg { display: grid; grid-template-columns: 1fr 1fr; gap: 4px; padding: 4px; background: var(--surface-2); border: 1px solid var(--hair); border-radius: 12px; }
+.seg button {
+  min-height: 52px; border: 0; border-radius: 9px; background: transparent; cursor: pointer;
+  display: grid; gap: 2px; justify-items: center; align-content: center; padding: 6px 8px;
+  color: var(--ink-muted);
+}
+.seg button b { font: 600 16px/1.2 var(--font); color: inherit; }
+.seg button span { font-size: 12px; line-height: 1.2; }
+.seg button[aria-selected="true"] { background: var(--surface); color: var(--ink); box-shadow: var(--shadow); outline: 1px solid var(--hair); }
+
+.panel { background: var(--surface); border: 1px solid var(--hair); border-radius: 16px; padding: 20px; display: grid; gap: 16px; box-shadow: var(--shadow); }
+.panel h2 { margin: 0; font: 600 18px/1.3 var(--font); }
+.mode { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.mode label {
+  display: grid; gap: 2px; padding: 12px 14px; border: 1px solid var(--hair-strong); border-radius: 10px; cursor: pointer;
+  transition: border-color .2s, background-color .2s;
+}
+.mode label:has(input:checked) { border-color: var(--primary); background: var(--good-tint); }
+.mode label:has(input:focus-visible) { outline: 2px solid var(--primary); outline-offset: 2px; }
+.mode input { position: absolute; opacity: 0; pointer-events: none; }
+.mode b { font-weight: 600; font-size: 15px; }
+.mode span { color: var(--ink-muted); font-size: 13px; line-height: 1.4; }
+
+.papers { display: grid; grid-template-columns: repeat(auto-fill, minmax(118px, 1fr)); gap: 10px; }
+.paper {
+  display: grid; gap: 6px; text-align: left; padding: 14px; min-height: 84px;
+  border: 1px solid var(--hair-strong); border-radius: 10px; background: var(--surface); cursor: pointer;
+  transition: border-color .2s, transform .2s;
+}
+.paper:hover { border-color: var(--primary); }
+.paper b { font-weight: 600; font-size: 15px; }
+.paper .best { font: 500 12px/1.3 var(--mono); color: var(--ink-subtle); }
+.paper .best.pass { color: var(--good); }
+.paper .best.fail { color: var(--bad); }
+.meter { height: 4px; border-radius: 4px; background: var(--surface-2); overflow: hidden; }
+.meter i { display: block; height: 100%; background: var(--hair-strong); }
+.paper .meter.pass i { background: var(--good); }
+.paper .meter.fail i { background: var(--bad); }
+
+.extras { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.extra {
+  display: grid; gap: 2px; text-align: left; padding: 14px 16px; border-radius: 10px; cursor: pointer;
+  border: 1px solid var(--hair-strong); background: var(--surface-2);
+}
+.extra:hover { border-color: var(--primary); }
+.extra b { font-weight: 600; font-size: 15px; }
+.extra span { color: var(--ink-muted); font-size: 13px; line-height: 1.4; }
+.extra[disabled] { cursor: default; opacity: .6; }
+.extra[disabled]:hover { border-color: var(--hair-strong); }
+.rules { margin: 0; color: var(--ink-muted); font-size: 13px; display: flex; flex-wrap: wrap; gap: 6px 16px; }
+.rules b { color: var(--ink); font-weight: 600; }
+
+/* Quiz */
+.topbar {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+  margin: -20px -16px 0; padding: 10px 16px; background: var(--canvas);
+  border-bottom: 1px solid var(--hair);
+}
+.topbar .where { flex: 1; min-width: 0; font-size: 13px; color: var(--ink-muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.topbar .count { font-size: 13px; }
+.tally { display: inline-flex; gap: 8px; font: 500 13px/1 var(--mono); }
+.tally .r { color: var(--good); }
+.tally .w { color: var(--bad); }
+.timer { font: 500 13px/1 var(--mono); padding: 6px 8px; border-radius: 6px; background: var(--surface-2); }
+.timer.low { color: var(--bad); background: var(--bad-tint); }
+.progress { height: 3px; background: var(--hair); border-radius: 3px; overflow: hidden; margin-top: -12px; }
+.progress i { display: block; height: 100%; background: var(--primary); transition: width .3s cubic-bezier(.22, 1, .36, 1); }
+
+.qcard { background: var(--surface); border: 1px solid var(--hair); border-radius: 16px; padding: 20px; display: grid; gap: 16px; box-shadow: var(--shadow); }
+.qhead { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; }
+.qtext { margin: 0; font: 600 20px/1.4 var(--font); letter-spacing: -.2px; text-wrap: pretty; }
+.qpic { display: block; width: 100%; max-width: 420px; height: auto; border-radius: 10px; border: 1px solid var(--hair); background: #fff; }
+.opts { display: grid; gap: 10px; }
+.opt {
+  display: grid; grid-template-columns: 34px 1fr 22px; align-items: center; gap: 12px;
+  width: 100%; text-align: left; padding: 12px 14px; min-height: 56px;
+  border: 1px solid var(--hair-strong); border-radius: 10px; background: var(--surface); cursor: pointer;
+  transition: border-color .2s, background-color .2s, opacity .2s;
+}
+.opt:hover { border-color: var(--primary); }
+.letter {
+  display: grid; place-items: center; width: 34px; height: 34px; border-radius: 8px;
+  background: var(--surface-2); font: 500 14px/1 var(--mono); color: var(--ink-muted);
+}
+.otext { font-size: 16px; line-height: 1.45; min-width: 0; overflow-wrap: anywhere; }
+.otext img { display: block; height: 84px; width: auto; max-width: 100%; object-fit: contain; background: #fff; border-radius: 6px; padding: 3px; border: 1px solid var(--hair); }
+.mark { width: 22px; height: 22px; }
+.opt.is-right { border-color: var(--good); background: var(--good-tint); }
+.opt.is-right .letter { background: var(--good); color: var(--on-primary); }
+.opt.is-wrong { border-color: var(--bad); background: var(--bad-tint); }
+.opt.is-wrong .letter { background: var(--bad); color: #fff; }
+.opt.is-dim { opacity: .6; }
+.opt.is-locked { cursor: default; }
+.opt.is-locked:hover { border-color: inherit; }
+.opt.is-right.is-locked:hover { border-color: var(--good); }
+.opt.is-wrong.is-locked:hover { border-color: var(--bad); }
+.opt.is-dim.is-locked:hover { border-color: var(--hair-strong); }
+.opt.is-picked { border-color: var(--primary); background: var(--good-tint); }
+.opt.is-picked .letter { background: var(--primary); color: var(--on-primary); }
+.feedback { margin: 0; min-height: 1.6em; font-weight: 600; }
+.feedback.ok { color: var(--good); }
+.feedback.no { color: var(--bad); }
+.actions { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.actions .spacer { flex: 1; }
+.src-link { font-size: 13px; color: var(--ink-muted); }
+.hint { margin: 0; font-size: 12px; color: var(--ink-subtle); text-align: center; }
+@media (hover: none) { .hint { display: none; } }
+
+/* Results */
+.result-head { display: grid; gap: 10px; justify-items: start; }
+.score { display: flex; align-items: baseline; gap: 10px; }
+.score .big { font: 500 72px/1 var(--display); letter-spacing: -2px; font-variant-numeric: tabular-nums; }
+.score .of { font: 500 24px/1 var(--display); color: var(--ink-muted); }
+.pill { display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 999px; font: 600 13px/1 var(--font); }
+.pill.pass { background: var(--good-tint); color: var(--good); }
+.pill.fail { background: var(--bad-tint); color: var(--bad); }
+.stats { margin: 0; color: var(--ink-muted); font-size: 14px; }
+.missed { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }
+.missed li { border: 1px solid var(--hair); border-radius: 12px; padding: 14px; display: grid; gap: 8px; background: var(--surface); }
+.missed .mq { margin: 0; font-weight: 600; line-height: 1.45; }
+.missed .mpic { max-width: 200px; border-radius: 8px; border: 1px solid var(--hair); }
+.missed .line { display: grid; grid-template-columns: auto 1fr; gap: 8px; align-items: center; font-size: 15px; line-height: 1.45; }
+.missed .line img { height: 56px; width: auto; max-width: 100%; background: #fff; border-radius: 6px; padding: 2px; border: 1px solid var(--hair); }
+.tag { font: 500 11px/1 var(--mono); letter-spacing: .6px; text-transform: uppercase; padding: 5px 7px; border-radius: 5px; white-space: nowrap; }
+.tag.you { background: var(--bad-tint); color: var(--bad); }
+.tag.ans { background: var(--good-tint); color: var(--good); }
+.missed .meta { display: flex; justify-content: space-between; gap: 8px; font-size: 12px; color: var(--ink-subtle); }
+.empty { margin: 0; color: var(--ink-muted); }
+
+@media (max-width: 480px) {
+  .mode, .extras { grid-template-columns: 1fr; }
+  .qcard, .panel { padding: 16px; }
+  .qtext { font-size: 18px; }
+  .score .big { font-size: 60px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}
+</style>
+
+<div class="wrap" id="app"></div>
+
+<!--DATA-->
+<script>
+(function () {
+  "use strict";
+  var DATA = window.QDATA;
+  var Q = DATA.questions;
+  var byId = new Map(Q.map(function (q) { return [q.id, q]; }));
+  var TESTS = {
+    BTT: { name: "Basic Theory Test" },
+    FTT: { name: "Final Theory Test" }
+  };
+  var PASS_RATIO = 0.9; // real tests: 45 of 50
+  var SECONDS_PER_Q = 60; // real tests: 50 minutes for 50 questions
+  var LET = "ABC";
+
+  var store = {
+    get: function (k, d) {
+      try { var v = localStorage.getItem("ttd:" + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; }
+    },
+    set: function (k, v) {
+      try { localStorage.setItem("ttd:" + k, JSON.stringify(v)); } catch (e) { /* storage unavailable */ }
+    }
+  };
+  var best = store.get("best", {});
+  var miss = store.get("miss", {});
+  var ui = { test: store.get("test", "BTT"), mode: store.get("mode", "practice") };
+  if (!TESTS[ui.test]) ui.test = "BTT";
+  var run = null;
+  var timerId = null;
+  var armed = null; // "quit" or "finish-early" after a first tap; a second tap within 3s confirms
+  var app = document.getElementById("app");
+
+  function esc(s) {
+    return String(s).replace(/[&<>"]/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
+    });
+  }
+  function papersOf(t) {
+    var s = {};
+    Q.forEach(function (q) { if (q.t === t) s[q.p] = 1; });
+    return Object.keys(s).map(Number).sort(function (a, b) { return a - b; });
+  }
+  function uniqueOf(list) {
+    var seen = {};
+    return list.filter(function (q) { if (seen[q.k]) return false; seen[q.k] = 1; return true; });
+  }
+  function missedOf(t) { return uniqueOf(Q.filter(function (q) { return q.t === t && miss[q.id]; })); }
+  function shuffle(a) {
+    for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)); var x = a[i]; a[i] = a[j]; a[j] = x; }
+    return a;
+  }
+  function passMark(n) { return Math.ceil(n * PASS_RATIO); }
+  function fmtTime(s) { s = Math.max(0, Math.round(s)); return Math.floor(s / 60) + ":" + String(s % 60).padStart(2, "0"); }
+  function record(q, ok) {
+    if (ok) Q.forEach(function (x) { if (x.k === q.k) delete miss[x.id]; });
+    else miss[q.id] = 1;
+    store.set("miss", miss);
+  }
+  function optBody(o) {
+    return o.img ? '<img src="' + o.img + '" alt="' + esc(o.x) + '">' : esc(o.x);
+  }
+  var ICON_OK = '<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="color:var(--good)"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>';
+  var ICON_NO = '<svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true" style="color:var(--bad)"><path d="M6 6l12 12M18 6L6 18"/></svg>';
+
+  /* ---------- Home ---------- */
+  function renderHome() {
+    stopTimer();
+    run = null;
+    var t = ui.test;
+    var ps = papersOf(t);
+    var pool = uniqueOf(Q.filter(function (q) { return q.t === t; }));
+    var missed = missedOf(t);
+    var tabs = Object.keys(TESTS).map(function (k) {
+      var n = Q.filter(function (q) { return q.t === k; }).length;
+      return '<button role="tab" aria-selected="' + (k === t) + '" data-act="tab" data-v="' + k + '"><b>' + k + '</b><span>' + TESTS[k].name + " · " + papersOf(k).length + " papers</span></button>";
+    }).join("");
+    var tiles = ps.map(function (p) {
+      var b = best[t + "-" + p];
+      var has = typeof b === "number";
+      var cls = has ? (b >= passMark(50) ? "pass" : "fail") : "";
+      return '<button class="paper" data-act="paper" data-v="' + p + '">' +
+        "<b>Paper " + p + "</b>" +
+        '<span class="best ' + cls + '">' + (has ? "Best " + b + "/50" : "Not tried yet") + "</span>" +
+        '<span class="meter ' + cls + '"><i style="width:' + (has ? b * 2 : 0) + '%"></i></span>' +
+        "</button>";
+    }).join("");
+    app.innerHTML =
+      '<header class="brand">' +
+      '<svg viewBox="0 0 46 42" aria-hidden="true"><path d="M23 3.5 43 38.5H3Z" fill="#fff" stroke="var(--sign-red)" stroke-width="5" stroke-linejoin="round"/><text x="23" y="33" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="15" fill="#16201B">L</text></svg>' +
+      "<div><h1>Theory Test Drill</h1><p>" + Q.length + " questions from Singapore BTT and FTT practice papers</p></div>" +
+      "</header>" +
+      '<div class="seg" role="tablist" aria-label="Choose a test">' + tabs + "</div>" +
+      '<section class="panel" aria-labelledby="how">' +
+      '<p class="eyebrow" id="how">How to practise</p>' +
+      '<div class="mode" role="radiogroup">' +
+      '<label><input type="radio" name="mode" id="mode-practice" value="practice"' + (ui.mode === "practice" ? " checked" : "") + '><b>Practice</b><span>See the answer right after each question.</span></label>' +
+      '<label><input type="radio" name="mode" id="mode-mock" value="mock"' + (ui.mode === "mock" ? " checked" : "") + '><b>Mock test</b><span>Timed like the real test. Marked at the end.</span></label>' +
+      "</div>" +
+      "</section>" +
+      '<section class="panel" aria-labelledby="papers-h">' +
+      '<div><p class="eyebrow">' + TESTS[t].name + '</p><h2 id="papers-h">Pick a paper</h2></div>' +
+      '<div class="papers">' + tiles + "</div>" +
+      '<div class="extras">' +
+      '<button class="extra" data-act="random"><b>Random 50</b><span>Mixed from ' + pool.length + " different " + t + " questions</span></button>" +
+      '<button class="extra" data-act="miss"' + (missed.length ? "" : " disabled") + "><b>Redo my mistakes" + (missed.length ? " · " + missed.length : "") + "</b><span>" +
+      (missed.length ? "Questions you got wrong and haven't got right since" : "Nothing yet. Wrong answers land here.") + "</span></button>" +
+      "</div>" +
+      "</section>" +
+      '<p class="rules"><span><b>Real test:</b> 50 questions</span><span><b>Time:</b> 50 minutes</span><span><b>Pass mark:</b> 45 of 50 (90%)</span></p>';
+    app.querySelectorAll('input[name="mode"]').forEach(function (r) {
+      r.addEventListener("change", function () { ui.mode = r.value; store.set("mode", ui.mode); });
+    });
+  }
+
+  /* ---------- Run ---------- */
+  function startRun(title, ids, key) {
+    run = {
+      title: title, ids: ids, key: key || null, test: ui.test, mode: ui.mode,
+      i: 0, ans: {}, t0: Date.now(), deadline: ui.mode === "mock" ? Date.now() + ids.length * SECONDS_PER_Q * 1000 : null
+    };
+    renderQuiz();
+    if (run.deadline) startTimer();
+    window.scrollTo(0, 0);
+  }
+  function startPaper(p) {
+    var ids = Q.filter(function (q) { return q.t === ui.test && q.p === p; })
+      .sort(function (a, b) { return a.n - b.n; }).map(function (q) { return q.id; });
+    startRun("Paper " + p, ids, ui.test + "-" + p);
+  }
+  function cur() { return byId.get(run.ids[run.i]); }
+
+  function renderQuiz() {
+    var q = cur();
+    var n = run.ids.length;
+    var practice = run.mode === "practice";
+    var chosen = run.ans[q.id];
+    var answered = chosen != null;
+    var locked = practice && answered;
+    var right = 0, wrong = 0;
+    if (practice) run.ids.forEach(function (id) {
+      var a = run.ans[id]; if (a == null) return; if (a === byId.get(id).a) right++; else wrong++;
+    });
+    var opts = q.o.map(function (o, i) {
+      var cls = "opt", mark = "<span></span>";
+      if (locked) {
+        cls += " is-locked";
+        if (i === q.a) { cls += " is-right"; mark = ICON_OK; }
+        else if (i === chosen) { cls += " is-wrong"; mark = ICON_NO; }
+        else cls += " is-dim";
+      } else if (!practice && chosen === i) cls += " is-picked";
+      return '<button class="' + cls + '" data-act="pick" data-i="' + i + '"' + (locked ? ' aria-disabled="true"' : "") +
+        (!practice ? ' aria-pressed="' + (chosen === i) + '"' : "") + ">" +
+        '<span class="letter">' + LET[i] + '</span><span class="otext">' + optBody(o) + "</span>" + mark + "</button>";
+    }).join("");
+    var fb = "";
+    if (locked) {
+      fb = chosen === q.a
+        ? '<p class="feedback ok" role="status">Correct.</p>'
+        : '<p class="feedback no" role="status">Not this one. The answer is ' + LET[q.a] + ".</p>";
+    } else if (practice) {
+      fb = '<p class="feedback" role="status"></p>';
+    }
+    var last = run.i === n - 1;
+    var actions;
+    if (practice) {
+      actions = '<button class="btn" data-act="prev"' + (run.i === 0 ? " disabled" : "") + ">Back</button>" +
+        (answered && q.orig ? '<a class="src-link" href="' + q.orig + '" target="_blank" rel="noopener">See original screenshot</a>' : "") +
+        '<span class="spacer"></span>' +
+        '<button class="btn btn-primary" data-act="next"' + (answered ? "" : " disabled") + ">" + (last ? "See results" : "Next question") + "</button>";
+    } else {
+      var done = Object.keys(run.ans).length;
+      actions = '<button class="btn" data-act="prev"' + (run.i === 0 ? " disabled" : "") + ">Back</button>" +
+        '<span class="spacer"></span>' +
+        (last ? "" : '<button class="btn btn-quiet" data-act="finish-early" id="finish-early">' + (armed === "finish-early" ? "Tap again to finish" : "Finish now") + "</button>") +
+        '<button class="btn btn-primary" data-act="' + (last ? "finish" : "next") + '">' + (last ? "Finish test · " + done + "/" + n + " answered" : "Next") + "</button>";
+    }
+    app.innerHTML =
+      '<div class="topbar">' +
+      '<button class="btn btn-quiet" data-act="quit" id="quit">' + (armed === "quit" ? "Tap again to quit" : "← Papers") + "</button>" +
+      '<span class="where">' + run.test + " · " + esc(run.title) + (practice ? "" : " · Mock test") + "</span>" +
+      (practice ? '<span class="tally" aria-label="' + right + " right, " + wrong + ' wrong"><span class="r">✓ ' + right + '</span><span class="w">✗ ' + wrong + "</span></span>" : "") +
+      (run.deadline ? '<span class="timer" id="timer">' + fmtTime((run.deadline - Date.now()) / 1000) + "</span>" : "") +
+      '<span class="count mono">' + (run.i + 1) + "/" + n + "</span>" +
+      "</div>" +
+      '<div class="progress" aria-hidden="true"><i style="width:' + ((run.i + (answered ? 1 : 0)) / n * 100) + '%"></i></div>' +
+      '<article class="qcard">' +
+      '<div class="qhead"><p class="eyebrow mono">Question ' + (run.i + 1) + '</p><span class="eyebrow mono" title="Source paper">' + q.t + " P" + q.p + " Q" + q.n + "</span></div>" +
+      '<h2 class="qtext">' + esc(q.q) + "</h2>" +
+      (q.pic ? '<img class="qpic" src="' + q.pic + '" alt="' + esc(q.picAlt || "Picture for this question") + '">' : "") +
+      '<div class="opts">' + opts + "</div>" +
+      fb +
+      '<div class="actions">' + actions + "</div>" +
+      "</article>" +
+      '<p class="hint">Keys: 1–3 or A–C to answer' + (practice ? " · Enter for next · ← to go back" : " · ← → to move") + "</p>";
+    tickTimer();
+  }
+
+  function pick(i) {
+    var q = cur();
+    if (run.mode === "practice") {
+      if (run.ans[q.id] != null) return;
+      run.ans[q.id] = i;
+      record(q, i === q.a);
+    } else {
+      run.ans[q.id] = i;
+    }
+    renderQuiz();
+  }
+  function go(d) {
+    var j = run.i + d;
+    if (j < 0) return;
+    if (j >= run.ids.length) { finish(); return; }
+    run.i = j;
+    renderQuiz();
+    window.scrollTo(0, 0);
+  }
+
+  function finish() {
+    stopTimer();
+    var res = run.ids.map(function (id) {
+      var q = byId.get(id), a = run.ans[id];
+      return { q: q, a: a, ok: a === q.a };
+    });
+    if (run.mode === "mock") res.forEach(function (r) { record(r.q, r.ok); });
+    var score = res.filter(function (r) { return r.ok; }).length;
+    if (run.key && run.ids.length === 50 && !(best[run.key] >= score)) { best[run.key] = score; store.set("best", best); }
+    run.result = { res: res, score: score, secs: (Date.now() - run.t0) / 1000 };
+    renderResults();
+    window.scrollTo(0, 0);
+  }
+
+  function renderResults() {
+    var r = run.result, n = r.res.length, need = passMark(n), pass = r.score >= need;
+    var missed = r.res.filter(function (x) { return !x.ok; });
+    var unanswered = missed.filter(function (x) { return x.a == null; }).length;
+    var items = missed.map(function (x) {
+      var q = x.q;
+      var you = x.a == null
+        ? '<div class="line"><span class="tag you">You</span><span>No answer</span></div>'
+        : '<div class="line"><span class="tag you">You · ' + LET[x.a] + "</span><span>" + optBody(q.o[x.a]) + "</span></div>";
+      return "<li>" +
+        '<div class="meta"><span class="mono">' + q.t + " P" + q.p + " Q" + q.n + "</span>" +
+        (q.orig ? '<a class="src-link" href="' + q.orig + '" target="_blank" rel="noopener">Original</a>' : "") + "</div>" +
+        '<p class="mq">' + esc(q.q) + "</p>" +
+        (q.pic ? '<img class="mpic" src="' + q.pic + '" alt="' + esc(q.picAlt || "Picture for this question") + '">' : "") +
+        you +
+        '<div class="line"><span class="tag ans">Answer · ' + LET[q.a] + "</span><span>" + optBody(q.o[q.a]) + "</span></div>" +
+        "</li>";
+    }).join("");
+    app.innerHTML =
+      '<section class="panel result-head">' +
+      '<p class="eyebrow">' + run.test + " · " + esc(run.title) + " · " + (run.mode === "mock" ? "Mock test" : "Practice") + "</p>" +
+      '<div class="score"><span class="big">' + r.score + '</span><span class="of">/ ' + n + "</span></div>" +
+      '<span class="pill ' + (pass ? "pass" : "fail") + '">' + (pass ? "Pass" : "Not a pass yet") + " · " + need + " needed</span>" +
+      '<p class="stats">Time taken ' + fmtTime(r.secs) + (unanswered ? " · " + unanswered + " left blank" : "") + "</p>" +
+      '<div class="actions">' +
+      (missed.length ? '<button class="btn btn-primary" data-act="redo">Redo the ' + missed.length + " I missed</button>" : "") +
+      '<button class="btn" data-act="again">Try this set again</button>' +
+      '<button class="btn btn-quiet" data-act="home">Back to papers</button>' +
+      "</div>" +
+      "</section>" +
+      (missed.length
+        ? '<section class="panel"><h2>Questions you missed</h2><ol class="missed">' + items + "</ol></section>"
+        : '<section class="panel"><p class="empty">Full marks. Nothing to review.</p></section>');
+  }
+
+  /* ---------- Timer ---------- */
+  function startTimer() { stopTimer(); timerId = setInterval(tickTimer, 1000); }
+  function stopTimer() { if (timerId) clearInterval(timerId); timerId = null; }
+  function tickTimer() {
+    if (!run || !run.deadline || run.result) return;
+    var left = (run.deadline - Date.now()) / 1000;
+    var el = document.getElementById("timer");
+    if (el) { el.textContent = fmtTime(left); el.classList.toggle("low", left < 300); }
+    if (left <= 0) finish();
+  }
+
+  /* ---------- Events ---------- */
+  function arm(btn, act, armedText, restText) {
+    armed = act;
+    btn.textContent = armedText;
+    setTimeout(function () {
+      if (armed !== act) return;
+      armed = null;
+      var el = document.getElementById(btn.id);
+      if (el) el.textContent = restText;
+    }, 3000);
+  }
+  app.addEventListener("click", function (e) {
+    var b = e.target.closest("[data-act]");
+    if (!b || b.disabled) return;
+    var act = b.getAttribute("data-act");
+    if (act !== armed) armed = null;
+    if (act === "tab") { ui.test = b.getAttribute("data-v"); store.set("test", ui.test); renderHome(); }
+    else if (act === "paper") startPaper(Number(b.getAttribute("data-v")));
+    else if (act === "random") {
+      var pool = uniqueOf(Q.filter(function (q) { return q.t === ui.test; }));
+      startRun("Random 50", shuffle(pool.slice()).slice(0, 50).map(function (q) { return q.id; }));
+    }
+    else if (act === "miss") startRun("My mistakes", shuffle(missedOf(ui.test)).map(function (q) { return q.id; }));
+    else if (act === "pick") pick(Number(b.getAttribute("data-i")));
+    else if (act === "next") go(1);
+    else if (act === "prev") go(-1);
+    else if (act === "finish") finish();
+    else if (act === "quit") {
+      if (!Object.keys(run.ans).length || armed === "quit") { armed = null; renderHome(); window.scrollTo(0, 0); return; }
+      arm(b, "quit", "Tap again to quit", "← Papers");
+    }
+    else if (act === "finish-early") {
+      if (armed === "finish-early") { armed = null; finish(); return; }
+      arm(b, "finish-early", "Tap again to finish", "Finish now");
+    }
+    else if (act === "redo") {
+      var ids = run.result.res.filter(function (x) { return !x.ok; }).map(function (x) { return x.q.id; });
+      ui.test = run.test;
+      startRun("Missed from " + run.title, ids);
+    }
+    else if (act === "again") { ui.test = run.test; startRun(run.title, run.ids.slice(), run.key); }
+    else if (act === "home") { renderHome(); window.scrollTo(0, 0); }
+  });
+
+  document.addEventListener("keydown", function (e) {
+    if (!run || run.result || e.altKey || e.ctrlKey || e.metaKey) return;
+    var k = e.key.toLowerCase();
+    var idx = "123".indexOf(k); if (idx < 0) idx = "abc".indexOf(k);
+    if (idx >= 0 && k.length === 1) { e.preventDefault(); pick(idx); return; }
+    var answered = run.ans[cur().id] != null;
+    if (k === "enter" && e.target.closest && e.target.closest("button")) return; // let the focused button act
+    if (run.mode === "practice") {
+      if ((k === "enter" || k === "arrowright") && answered) { e.preventDefault(); go(1); }
+      if (k === "arrowleft") { e.preventDefault(); go(-1); }
+    } else {
+      if (k === "arrowright" || k === "enter") { e.preventDefault(); if (run.i === run.ids.length - 1) finish(); else go(1); }
+      if (k === "arrowleft") { e.preventDefault(); go(-1); }
+    }
+  });
+
+  renderHome();
+})();
+</script>

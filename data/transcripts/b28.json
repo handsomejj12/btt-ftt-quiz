@@ -1,0 +1,262 @@
+[
+  {
+    "id": "FTT_E_P4_Q41",
+    "label": 41,
+    "question": "In slow moving traffic, you should always",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Sound the horn so that vehicles in front will move faster."},
+      {"letter": "B", "type": "text", "text": "Stay in your lane."},
+      {"letter": "C", "type": "text", "text": "Move quickly to another lane with a shorter queue."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q42",
+    "label": 42,
+    "question": "The engine is often cooled by _________",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Oil only."},
+      {"letter": "B", "type": "text", "text": "water, air and oil."},
+      {"letter": "C", "type": "text", "text": "Air only."}
+    ],
+    "marked": "B",
+    "notes": "Question ends with a fill-in blank line (rendered as underscores). Option B starts with a lowercase 'water' in the source."
+  },
+  {
+    "id": "FTT_E_P4_Q43",
+    "label": 43,
+    "question": "If you are involved in an accident and someone is injured, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Move your vehicle to the side to avoid causing obstruction."},
+      {"letter": "B", "type": "text", "text": "Not move the vehicles involved until the police arrive."},
+      {"letter": "C", "type": "text", "text": "First inform your insurance company."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q44",
+    "label": 44,
+    "question": "Aquaplaning is a condition where the tyres lose contact with the road surface, which results in a loss of",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Clutch control."},
+      {"letter": "B", "type": "text", "text": "Steering control and braking efficiency."},
+      {"letter": "C", "type": "text", "text": "Gear control and accelerating efficiency."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q45",
+    "label": 45,
+    "question": "A driver does something that upsets you, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Try not to react."},
+      {"letter": "B", "type": "text", "text": "Flash your headlights several times."},
+      {"letter": "C", "type": "text", "text": "Sound your horn."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q46",
+    "label": 46,
+    "question": "The penalty for driving on the road-shoulder of an Expressway is",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "A fine."},
+      {"letter": "B", "type": "text", "text": "To be charged in court."},
+      {"letter": "C", "type": "text", "text": "A fine with demerit points."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q47",
+    "label": 47,
+    "question": "At a roundabout you notice a cyclist is signaling to turn right ahead, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Overtake on the right."},
+      {"letter": "B", "type": "text", "text": "Give the cyclist plenty of room."},
+      {"letter": "C", "type": "text", "text": "Give a horn warning."}
+    ],
+    "marked": "B",
+    "notes": "Source uses the spelling 'signaling' (single l)."
+  },
+  {
+    "id": "FTT_E_P4_Q48",
+    "label": 48,
+    "question": "How should you overtake cyclists?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Use your horn just once to warn them."},
+      {"letter": "B", "type": "text", "text": "Drive slowly and leave plenty of room."},
+      {"letter": "C", "type": "text", "text": "Overtake them as quickly as possible."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P4_Q49",
+    "label": 49,
+    "question": "Before moving off from a stationary position, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Signal your intention."},
+      {"letter": "B", "type": "text", "text": "Lookout for other road users especially those in front and behind."},
+      {"letter": "C", "type": "text", "text": "Both A and B."}
+    ],
+    "marked": "C",
+    "notes": "Option B source typo: 'Lookout' written as one word (should be 'Look out')."
+  },
+  {
+    "id": "FTT_E_P4_Q50",
+    "label": 50,
+    "question": "If you have to downshift for a turn, you should do it",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Before you start the turn."},
+      {"letter": "B", "type": "text", "text": "Just as you begin the turn."},
+      {"letter": "C", "type": "text", "text": "While you are in the turn."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P5_Q01",
+    "label": 1,
+    "question": "If you saw a sign indicating road repairs are going on, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Stop immediately and wait for instructions."},
+      {"letter": "B", "type": "text", "text": "Slow down and watch out for traffic controllers and instructions."},
+      {"letter": "C", "type": "text", "text": "Maintain the same speed."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P5_Q02",
+    "label": 2,
+    "question": "What is the best choice you have to do at the first sign of drowsiness?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and continue at a constant speed."},
+      {"letter": "B", "type": "text", "text": "Let fresh air gets into the car and at the first opportunity, stop and rest."},
+      {"letter": "C", "type": "text", "text": "Continue to drive and try to keep awake."}
+    ],
+    "marked": "B",
+    "notes": "Option B source grammar error: 'Let fresh air gets' (should be 'get')."
+  },
+  {
+    "id": "FTT_E_P5_Q03",
+    "label": 3,
+    "question": "When approaching a built-up area, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive at the same speed."},
+      {"letter": "B", "type": "text", "text": "Reduce your speed."},
+      {"letter": "C", "type": "text", "text": "Increase your speed."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P5_Q04",
+    "label": 4,
+    "question": "To test if the brakes are working properly, you should let the car move slowly then",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Jam hard on the brakes."},
+      {"letter": "B", "type": "text", "text": "Step on the foot brake."},
+      {"letter": "C", "type": "text", "text": "Step on the clutch pedal."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P5_Q05",
+    "label": 5,
+    "question": "When the accelerator pedal is released, there will be",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "A reduction in the engine revolutions."},
+      {"letter": "B", "type": "text", "text": "An increase in the engine revolutions."},
+      {"letter": "C", "type": "text", "text": "No change in the engine revolutions."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P5_Q06",
+    "label": 6,
+    "question": "The handbrake is used when",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Going downhill."},
+      {"letter": "B", "type": "text", "text": "Stopping and waiting at a traffic light junction."},
+      {"letter": "C", "type": "text", "text": "Driving on a wet surface."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P5_Q07",
+    "label": 7,
+    "question": "Hand Signals given by Police officers directing the flow of traffic over-rules",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Road signs and road markings only."},
+      {"letter": "B", "type": "text", "text": "Traffic light signals and traffic regulations only."},
+      {"letter": "C", "type": "text", "text": "Both A and B."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P5_Q08",
+    "label": 8,
+    "question": "Car A is slowing down or stopping. What should Car B do?",
+    "picture": "Video frame: road with a pedestrian crossing sign and zebra markings ahead; blue Car A ahead in one lane, green Car B behind in the next lane",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Sound the horn to alert pedestrians who may be crossing the road."},
+      {"letter": "B", "type": "text", "text": "Reduce speed and be ready to stop if necessary."},
+      {"letter": "C", "type": "text", "text": "Accelerate to pass the pedestrian crossing quickly."}
+    ],
+    "marked": "B",
+    "notes": "Video question (Repeat Video button); picture is a single frame."
+  },
+  {
+    "id": "FTT_E_P5_Q09",
+    "label": 9,
+    "question": "In this scenario the car that is going straight should",
+    "picture": "Top-down video frame: a blue car and a red lorry in adjacent lanes of a multi-lane road near a side junction, with lane arrows",
+    "options": [
+      {"letter": "A", "type": "text", "text": "Overtake by the left quickly before the junction."},
+      {"letter": "B", "type": "text", "text": "Slow down and let the lorry turn."},
+      {"letter": "C", "type": "text", "text": "Speed up and overtake."}
+    ],
+    "marked": "B",
+    "notes": "Video question (Repeat Video button); picture is a single frame."
+  },
+  {
+    "id": "FTT_E_P5_Q10",
+    "label": 10,
+    "question": "Drink driving may cause",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Reduce the co-ordination of the control of vehicle."},
+      {"letter": "B", "type": "text", "text": "Faster reaction."},
+      {"letter": "C", "type": "text", "text": "Increase alertness."}
+    ],
+    "marked": "A",
+    "notes": ""
+  }
+]

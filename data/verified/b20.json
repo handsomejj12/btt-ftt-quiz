@@ -1,0 +1,502 @@
+[
+  {
+    "id": "FTT_E_P1_Q31",
+    "label": 31,
+    "question": "If the front tyre is punctured,",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "The car will pull away from the side of the punctured tyre."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "The car will pull to the side of the punctured tyre."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "The car will move from side to side."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P1_Q32",
+    "label": 32,
+    "question": "When negotiating a sharp bend, centrifugal force pushes your vehicle",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Inwards."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Outwards."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Forward."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P1_Q33",
+    "label": 33,
+    "question": "Reaction distance is the distance travelled from the moment, the",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Brake is applied to the time the vehicle comes to a stop."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Hazard is seen to the time the vehicle comes to a stop."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Hazard is seen to the time the brake is applied."
+      }
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P1_Q34",
+    "label": 34,
+    "question": "Why is free wheeling wrong?",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "It will cause the vehicle to skid."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "There is no engine braking."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "The engine will run faster."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P1_Q35",
+    "label": 35,
+    "question": "All drivers are required by law to switch on the vehicle's headlights whilst driving between",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "7.00 pm and 7.00 am."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "7.15 pm and 7.15 am."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "7.30 pm and 7.30 am."
+      }
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P1_Q36",
+    "label": 36,
+    "question": "Switching on the headlights whilst driving in heavy rain during the daytime",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Is advisable because you can be readily seen by others."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Is not advisable because it will shorten the battery life."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Is not advisable because the rain water will reflect the light."
+      }
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P1_Q37",
+    "label": 37,
+    "question": "As you appoach a controlled junction the lights change to green. Elderly people are halfway across, you should",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Rev your engine to make them hurry."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Wait because they will take longer to cross."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Flash your lights to hurry them."
+      }
+    ],
+    "marked": "B",
+    "notes": "Source typo in question: \"appoach\" (should be \"approach\"), kept as printed."
+  },
+  {
+    "id": "FTT_E_P1_Q38",
+    "label": 38,
+    "question": "When approaching a green traffic light signal at a junction, you must",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Speed up to drive through the junction."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Slow down and be prepared to stop."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Maintain your speed."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P1_Q39",
+    "label": 39,
+    "question": "In this situation, the 'red' car should pay special attention to",
+    "picture": "Video frame of a junction: red car, two schoolchildren on the kerb (A), white car (B), traffic light (C)",
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "The school children."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "The turning vehicle."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "The traffic light."
+      }
+    ],
+    "marked": "A",
+    "notes": "Picture panel is a video frame with a Repeat Video button."
+  },
+  {
+    "id": "FTT_E_P1_Q40",
+    "label": 40,
+    "question": "When following behind a large vehicle, you should",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Move more to the right to have a better view."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Keep a longer following distance as you would with other vehicles."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Follow at the same distance as you would with other vehicles."
+      }
+    ],
+    "marked": "B",
+    "notes": "Option B wording as printed (\"as you would\"; likely meant \"than you would\")."
+  },
+  {
+    "id": "FTT_E_P1_Q41",
+    "label": 41,
+    "question": "The right most outer lane on a three-lane carriageway is for",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Emergency vehicles and overtaking only."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Vehicles travelling at the maximum speed limit of the road."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Vehicles which are capable of travelling at high speed."
+      }
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P1_Q42",
+    "label": 42,
+    "question": "Generally, overheating of the engine is largely due to",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Long distance driving."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Poor vehicle maintenance."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Lack of petrol."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P1_Q43",
+    "label": 43,
+    "question": "The engine oil level on the dip stick should be",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Below the lower marking."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Above the upper marking."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Between the lower and upper markings."
+      }
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P1_Q44",
+    "label": 44,
+    "question": "When your vehicle starts to skid while braking, you should",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Step harder on the brake pedal."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Release the brakes and apply intermittent braking."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Neutralise the gear and apply the front brakes."
+      }
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P1_Q45",
+    "label": 45,
+    "question": "While driving along an expressway and your handphone (without hands-free kit) rings, you should",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Answer the call immediately."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Carry on driving and find a safe spot out of the expressway before answering the call."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Stop at the road shoulder and answer the call."
+      }
+    ],
+    "marked": "B",
+    "notes": "\"hands-free\" is hyphenated across a line break in the source."
+  },
+  {
+    "id": "FTT_E_P1_Q46",
+    "label": 46,
+    "question": "Is it an offence to drive on the road shoulder of the expressway?",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Yes, it is an offence."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "It is not an offence."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "It is not an offence if the road is congested."
+      }
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P1_Q47",
+    "label": 47,
+    "question": "When passing a cyclist, what is the minimum side clearance you must ensure between the cyclist and your car?",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "0.5m"
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "1m"
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "1.5m"
+      }
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P1_Q48",
+    "label": 48,
+    "question": "When a cyclist in front of you is glancing to the rear, it means that",
+    "picture": "Top-down video frame: a red car on a straight two-lane road with a cyclist just ahead",
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "He might change direction."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "He is going to stop."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "He is about to speed up."
+      }
+    ],
+    "marked": "A",
+    "notes": "Picture panel is a video frame with a Repeat Video button."
+  },
+  {
+    "id": "FTT_E_P1_Q49",
+    "label": 49,
+    "question": "A turn signal that keeps flashing after a turn is very likely to",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Confuse other drivers and cause them to turn into your path."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Damage the electrical system."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "Keep other drivers from seeing your brake light."
+      }
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P1_Q50",
+    "label": 50,
+    "question": "The rear view mirror inside the cabin should be adjusted so that",
+    "picture": null,
+    "options": [
+      {
+        "letter": "A",
+        "type": "text",
+        "text": "Only the right hand side of the rear windscreen can be seen in the mirror."
+      },
+      {
+        "letter": "B",
+        "type": "text",
+        "text": "Only the left hand side of the rear windscreen can be seen in the mirror."
+      },
+      {
+        "letter": "C",
+        "type": "text",
+        "text": "A full view of the rear windscreen can be seen in the mirror."
+      }
+    ],
+    "marked": "C",
+    "notes": ""
+  }
+]

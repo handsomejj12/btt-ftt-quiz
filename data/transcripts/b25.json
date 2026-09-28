@@ -1,0 +1,262 @@
+[
+  {
+    "id": "FTT_E_P3_Q31",
+    "label": 31,
+    "question": "Incorrect tyre pressure will affect",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Oil pressure."},
+      {"letter": "B", "type": "text", "text": "Steering and braking."},
+      {"letter": "C", "type": "text", "text": "Changing gear."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q32",
+    "label": 32,
+    "question": "To reduce centrifugal force while going round a sharp bend, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Not change the speed."},
+      {"letter": "B", "type": "text", "text": "Drive faster."},
+      {"letter": "C", "type": "text", "text": "Drive slower."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q33",
+    "label": 33,
+    "question": "Using intermittent (on/off) braking to stop a car will",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Give repeated signals to vehicles behind."},
+      {"letter": "B", "type": "text", "text": "Confuse other drivers."},
+      {"letter": "C", "type": "text", "text": "Reduce the braking effect."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q34",
+    "label": 34,
+    "question": "When applying an emergency stop, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Avoid braking too hard to prevent the wheels from locking."},
+      {"letter": "B", "type": "text", "text": "Brake hard to lock the wheels so that it can stop faster."},
+      {"letter": "C", "type": "text", "text": "Apply the clutch before the engine stall."}
+    ],
+    "marked": "A",
+    "notes": "Option C source grammar: 'engine stall' (not 'stalls'), kept as printed."
+  },
+  {
+    "id": "FTT_E_P3_Q35",
+    "label": 35,
+    "question": "At night you should switch on your headlights from",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "6 pm to 7 am."},
+      {"letter": "B", "type": "text", "text": "7 pm to 6 am."},
+      {"letter": "C", "type": "text", "text": "7 pm to 7 am."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q36",
+    "label": 36,
+    "question": "In which situation should you switch on the high beam?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "When driving on a bumpy road."},
+      {"letter": "B", "type": "text", "text": "When there are oncoming vehicles."},
+      {"letter": "C", "type": "text", "text": "When the road is poorly lighted and there is no traffic ahead."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q37",
+    "label": 37,
+    "question": "When approaching a pedestrian with the back facing you, you should keep a gap of at least",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "2 metres from him."},
+      {"letter": "B", "type": "text", "text": "1.5 metres from him."},
+      {"letter": "C", "type": "text", "text": "1 metre from him."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q38",
+    "label": 38,
+    "question": "When approaching a traffic light junction with the amber light flashing, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down and proceed across the junction only when it is safe to do so."},
+      {"letter": "B", "type": "text", "text": "Speed up in order to pass the junction before the light changes."},
+      {"letter": "C", "type": "text", "text": "Stop at the stop-line and wait for the light to change."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q39",
+    "label": 39,
+    "question": "When the vehicle in front slows down before a pedestrian crossing, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Sound the horn and overtake it."},
+      {"letter": "B", "type": "text", "text": "Slow down and be prepared to stop."},
+      {"letter": "C", "type": "text", "text": "Follow closely behind it."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q40",
+    "label": 40,
+    "question": "When a long vehicle makes a left turn, it usually moves to the",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Left before turning."},
+      {"letter": "B", "type": "text", "text": "Right before turning."},
+      {"letter": "C", "type": "text", "text": "Left then right before turning."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q41",
+    "label": 41,
+    "question": "You may drive along the right-most lane when",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "You are travelling at the speed limits."},
+      {"letter": "B", "type": "text", "text": "The traffic is not heavy."},
+      {"letter": "C", "type": "text", "text": "You are overtaking another vehicle."}
+    ],
+    "marked": "C",
+    "notes": "Option A source reads 'speed limits' (plural), kept as printed."
+  },
+  {
+    "id": "FTT_E_P3_Q42",
+    "label": 42,
+    "question": "To cool an over-heated engine, you should switch off the engine and",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Open the radiator tank cap immediately."},
+      {"letter": "B", "type": "text", "text": "Wait for the engine to cool by itself."},
+      {"letter": "C", "type": "text", "text": "Pour water on the engine."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q43",
+    "label": 43,
+    "question": "In an accident where there is no injury, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Not move your vehicle."},
+      {"letter": "B", "type": "text", "text": "Wait for the police to arrive."},
+      {"letter": "C", "type": "text", "text": "Move your vehicle to the side of the road."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q44",
+    "label": 44,
+    "question": "To prevent skidding when stopping on a slippery road, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Press hard on the foot-brake."},
+      {"letter": "B", "type": "text", "text": "Apply the foot-brake and the handbrake together."},
+      {"letter": "C", "type": "text", "text": "Step on your foot-brake in an on/off manner."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q45",
+    "label": 45,
+    "question": "When driving through puddles of water on the road, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive faster."},
+      {"letter": "B", "type": "text", "text": "Drive slower."},
+      {"letter": "C", "type": "text", "text": "Not change speed."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q46",
+    "label": 46,
+    "question": "The road shoulder of the expressway is meant for",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Breakdown vehicles."},
+      {"letter": "B", "type": "text", "text": "Overtaking."},
+      {"letter": "C", "type": "text", "text": "Waiting."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q47",
+    "label": 47,
+    "question": "At road junctions which of the following are most vulnerable?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Cyclist, pedestrians and motorcyclists."},
+      {"letter": "B", "type": "text", "text": "Car drivers."},
+      {"letter": "C", "type": "text", "text": "Lorry driviers."}
+    ],
+    "marked": "A",
+    "notes": "Source typo in option C: 'driviers' (for 'drivers'). Option A has singular 'Cyclist'. Both kept as printed."
+  },
+  {
+    "id": "FTT_E_P3_Q48",
+    "label": 48,
+    "question": "If a cyclist is travelling in an unsteady manner ahead, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Refrain from overtaking the cyclist."},
+      {"letter": "B", "type": "text", "text": "Give yourself more time in overtaking the cyclist."},
+      {"letter": "C", "type": "text", "text": "Overtake the cyclist quickly and quietly."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P3_Q49",
+    "label": 49,
+    "question": "The side mirrors should be adjusted so that",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Part of the car body can be seen in the mirror."},
+      {"letter": "B", "type": "text", "text": "No part of the car body can be seen in the mirror."},
+      {"letter": "C", "type": "text", "text": "The mirror forms an angle of 45 degree with the car body."}
+    ],
+    "marked": "A",
+    "notes": "Option C source reads '45 degree' (singular), kept as printed."
+  },
+  {
+    "id": "FTT_E_P3_Q50",
+    "label": 50,
+    "question": "Before turning, you need to signal and",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Check your side mirrors only."},
+      {"letter": "B", "type": "text", "text": "Check your mirrors, as well as blind spots."},
+      {"letter": "C", "type": "text", "text": "Use your brake lights to warn other road users."}
+    ],
+    "marked": "B",
+    "notes": ""
+  }
+]

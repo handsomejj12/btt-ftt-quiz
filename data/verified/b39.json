@@ -1,0 +1,82 @@
+[
+  {"id": "FTT_E_P9_Q11", "label": 11, "question": "Before you make a U-turn on the road, you should check your blind spot by", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "Looking at the rear view mirror."},
+    {"letter": "B", "type": "text", "text": "Looking over your shoulder."},
+    {"letter": "C", "type": "text", "text": "Looking at the side mirrors."}], "marked": "B", "notes": ""},
+  {"id": "FTT_E_P9_Q12", "label": 12, "question": "A new driver's licence will be revoked if within a year of passing the test, he has accumulated", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "13 driving demerit points."},
+    {"letter": "B", "type": "text", "text": "12 driving demerit points."},
+    {"letter": "C", "type": "text", "text": "10 driving demerit points."}], "marked": "A", "notes": ""},
+  {"id": "FTT_E_P9_Q13", "label": 13, "question": "A driver with more than 12 months driving experience will be suspended from driving, if he has accumulated", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "24 demerit points."},
+    {"letter": "B", "type": "text", "text": "16 demerit points."},
+    {"letter": "C", "type": "text", "text": "12 demerit points."}], "marked": "A", "notes": ""},
+  {"id": "FTT_E_P9_Q14", "label": 14, "question": "When you cannot confirm the direction of the approach of an emergency vehicle, you should", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "Maintain your speed and position."},
+    {"letter": "B", "type": "text", "text": "Increase the speed of your vehicle."},
+    {"letter": "C", "type": "text", "text": "Slow down your speed and move to the left lane."}], "marked": "C", "notes": ""},
+  {"id": "FTT_E_P9_Q15", "label": 15, "question": "When being tailgated by a motorcyclist, you should", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "Jam your brakes as a warning."},
+    {"letter": "B", "type": "text", "text": "Drive faster to increase the gap."},
+    {"letter": "C", "type": "text", "text": "Slow down and assist it to pass you."}], "marked": "C", "notes": ""},
+  {"id": "FTT_E_P9_Q16", "label": 16, "question": "When approaching a road that is flooded but passable to vehicles, you should", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "Engage a higher gear to go through the flood."},
+    {"letter": "B", "type": "text", "text": "Engage a lower gear to go through the flood."},
+    {"letter": "C", "type": "text", "text": "Drive through as fast as possible."}], "marked": "B", "notes": ""},
+  {"id": "FTT_E_P9_Q17", "label": 17, "question": "When driving an automatic vehicle, which foot would you use for the brake?", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "The left foot."},
+    {"letter": "B", "type": "text", "text": "The right foot."},
+    {"letter": "C", "type": "text", "text": "Either foot."}], "marked": "B", "notes": ""},
+  {"id": "FTT_E_P9_Q18", "label": 18, "question": "Which of the following situations always cause traffic to slow down on an expressway?", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "Slow moving vehicles occupying the left lane."},
+    {"letter": "B", "type": "text", "text": "Slow moving vehicles fail to keep left."},
+    {"letter": "C", "type": "text", "text": "Fast moving vehicles occupying the outer lane."}], "marked": "B", "notes": ""},
+  {"id": "FTT_E_P9_Q19", "label": 19, "question": "Which of the following vehicles is prohibited on the expressway?", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "Prime mover."},
+    {"letter": "B", "type": "text", "text": "Crane."},
+    {"letter": "C", "type": "text", "text": "Army truck."}], "marked": "B", "notes": ""},
+  {"id": "FTT_E_P9_Q20", "label": 20, "question": "When turning right at a one-way street, you should position your vehicle", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "In the right hand lane."},
+    {"letter": "B", "type": "text", "text": "Just left of the centre of the road."},
+    {"letter": "C", "type": "text", "text": "In any lane depending on the traffic conditions."}], "marked": "A", "notes": ""},
+  {"id": "FTT_E_P9_Q21", "label": 21, "question": "Which gear gives you the most torque?", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "1st gear."},
+    {"letter": "B", "type": "text", "text": "2nd gear."},
+    {"letter": "C", "type": "text", "text": "3rd gear."}], "marked": "A", "notes": ""},
+  {"id": "FTT_E_P9_Q22", "label": 22, "question": "Which gear has more power (torque)?", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "2nd gear."},
+    {"letter": "B", "type": "text", "text": "3rd gear."},
+    {"letter": "C", "type": "text", "text": "4th gear."}], "marked": "A", "notes": ""},
+  {"id": "FTT_E_P9_Q23", "label": 23, "question": "Which statement is correct?", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "You should change down to an appropriate gear before taking a corner."},
+    {"letter": "B", "type": "text", "text": "Tailgating means you are at a safe distance behind another car."},
+    {"letter": "C", "type": "text", "text": "Engine braking will cause your vehicle to go faster."}], "marked": "A", "notes": ""},
+  {"id": "FTT_E_P9_Q24", "label": 24, "question": "Continuously using the 'Half-clutch' technique for long period of time will cause", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "The brake linings to wear out faster."},
+    {"letter": "B", "type": "text", "text": "The clutch linings to wear out faster."},
+    {"letter": "C", "type": "text", "text": "The engine brake to wear out faster."}], "marked": "B", "notes": ""},
+  {"id": "FTT_E_P9_Q25", "label": 25, "question": "When driving through a bend, you should", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "Depress the clutch pedal."},
+    {"letter": "B", "type": "text", "text": "Apply brake."},
+    {"letter": "C", "type": "text", "text": "Maintain your speed."}], "marked": "C", "notes": ""},
+  {"id": "FTT_E_P9_Q26", "label": 26, "question": "When stopping the vehicle on an up-slope, you should apply", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "The handbrake first followed by the foot brake."},
+    {"letter": "B", "type": "text", "text": "The foot brake first followed by the handbrake."},
+    {"letter": "C", "type": "text", "text": "Both brakes together."}], "marked": "B", "notes": ""},
+  {"id": "FTT_E_P9_Q27", "label": 27, "question": "When being overtaken, you should", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "Speed up."},
+    {"letter": "B", "type": "text", "text": "Maintain your speed."},
+    {"letter": "C", "type": "text", "text": "Slow down."}], "marked": "C", "notes": ""},
+  {"id": "FTT_E_P9_Q28", "label": 28, "question": "When the motorcycle you are overtaking suddenly increases speed, you should", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "Accelerate more to overtake it quickly."},
+    {"letter": "B", "type": "text", "text": "Slow down and abort overtaking it."},
+    {"letter": "C", "type": "text", "text": "Sound your horn to warn the driver."}], "marked": "B", "notes": ""},
+  {"id": "FTT_E_P9_Q29", "label": 29, "question": "Who are especially in danger of not being seen as you reverse your car?", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "Motorcyclists."},
+    {"letter": "B", "type": "text", "text": "Car drivers."},
+    {"letter": "C", "type": "text", "text": "Children."}], "marked": "C", "notes": ""},
+  {"id": "FTT_E_P9_Q30", "label": 30, "question": "When the tyres lose contact with the road (aquaplanning), the steering will feel", "picture": null, "options": [
+    {"letter": "A", "type": "text", "text": "Very heavy."},
+    {"letter": "B", "type": "text", "text": "Very light."},
+    {"letter": "C", "type": "text", "text": "The same."}], "marked": "B", "notes": "Source typo kept: \"aquaplanning\" (usual spelling is \"aquaplaning\")."}
+]

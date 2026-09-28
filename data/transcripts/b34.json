@@ -1,0 +1,262 @@
+[
+  {
+    "id": "FTT_E_P7_Q11",
+    "label": 11,
+    "question": "Before changing lanes, you should check your blind spots by",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Looking into the rear view mirror."},
+      {"letter": "B", "type": "text", "text": "Looking over your shoulder."},
+      {"letter": "C", "type": "text", "text": "Looking at the side mirrors."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q12",
+    "label": 12,
+    "question": "The 'two-second rule' is used in normal driving situation at",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Certain speed only."},
+      {"letter": "B", "type": "text", "text": "All speed."},
+      {"letter": "C", "type": "text", "text": "Fixed speed only."}
+    ],
+    "marked": "B",
+    "notes": "Source grammar kept as printed: 'situation' (singular) and 'All speed.'"
+  },
+  {
+    "id": "FTT_E_P7_Q13",
+    "label": 13,
+    "question": "A new driver's licence will be revoked on accumulation of 13-demerit points",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "12 months from the date of the grant of the licence."},
+      {"letter": "B", "type": "text", "text": "18 months from the date of the grant of the licence."},
+      {"letter": "C", "type": "text", "text": "24 months from the date of the grant of the licence."}
+    ],
+    "marked": "A",
+    "notes": "Source prints '13-demerit points' with a hyphen; kept as printed."
+  },
+  {
+    "id": "FTT_E_P7_Q14",
+    "label": 14,
+    "question": "What must you do when a police vehicle with its siren on is behind you?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Continue to drive as normal."},
+      {"letter": "B", "type": "text", "text": "Slow down and move to the side."},
+      {"letter": "C", "type": "text", "text": "Speed up."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q15",
+    "label": 15,
+    "question": "One of the reasons for you to have an accident with the vehicle you are following is that you",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Follow too closely to the vehicle in front."},
+      {"letter": "B", "type": "text", "text": "Follow the vehicle in front with too wide a gap."},
+      {"letter": "C", "type": "text", "text": "Suddenly slow down and stop."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q16",
+    "label": 16,
+    "question": "If you are in doubt of the depth of flood water (whether passable to vehicles), you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Drive through slowly."},
+      {"letter": "B", "type": "text", "text": "Drive through as quickly as possible."},
+      {"letter": "C", "type": "text", "text": "Take an alternative route."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q17",
+    "label": 17,
+    "question": "When driving an automatic car, you would select a lower gear",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "To control speed when going down a steep hill."},
+      {"letter": "B", "type": "text", "text": "To slow the car down in normal driving."},
+      {"letter": "C", "type": "text", "text": "Before stopping."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q18",
+    "label": 18,
+    "question": "When entering an expressway, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Slow down to a speed suitable for joining the expressway."},
+      {"letter": "B", "type": "text", "text": "Build up your speed to merge smoothly into the traffic stream."},
+      {"letter": "C", "type": "text", "text": "Slow down and stop if necessary before joining the expressway."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q19",
+    "label": 19,
+    "question": "When joining the expressway, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Always use the road shoulder."},
+      {"letter": "B", "type": "text", "text": "Always give way to traffic already on the expressway."},
+      {"letter": "C", "type": "text", "text": "Stop at the end of the acceleration lane."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q20",
+    "label": 20,
+    "question": "Under what circumstances you may not follow the 'keep left rule'?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "When travelling at the maximum speed limit of the road."},
+      {"letter": "B", "type": "text", "text": "When traffic is light."},
+      {"letter": "C", "type": "text", "text": "When your path is obstructed."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q21",
+    "label": 21,
+    "question": "Using engine brake when travelling down slope would prevent",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Over heating the brake linings."},
+      {"letter": "B", "type": "text", "text": "Your tyres from wearing out too soon."},
+      {"letter": "C", "type": "text", "text": "Damage to the brake system."}
+    ],
+    "marked": "A",
+    "notes": "Source prints 'Over heating' as two words; kept as printed."
+  },
+  {
+    "id": "FTT_E_P7_Q22",
+    "label": 22,
+    "question": "We should use engine-brake when travelling downhill because",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "The brake linings will not over-heat and fade."},
+      {"letter": "B", "type": "text", "text": "The engine is more durable than the brake linings."},
+      {"letter": "C", "type": "text", "text": "The gears are more durable than the brake linings."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q23",
+    "label": 23,
+    "question": "What is the correct footwork when changing from 2nd gear to 3rd gear?",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Release the accelerator pedal and depress the clutch pedal at the same time."},
+      {"letter": "B", "type": "text", "text": "Depress the accelerator and clutch together."},
+      {"letter": "C", "type": "text", "text": "Depress the clutch pedal while keeping the accelerator on hold."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q24",
+    "label": 24,
+    "question": "Pushing the clutch pedal down",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Releases the engine from the wheels."},
+      {"letter": "B", "type": "text", "text": "Engages the engine with the wheels."},
+      {"letter": "C", "type": "text", "text": "Stalls the engine."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q25",
+    "label": 25,
+    "question": "To maintain a steady speed while negotiating a mild bend, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Apply half-clutch."},
+      {"letter": "B", "type": "text", "text": "Apply brake lightly."},
+      {"letter": "C", "type": "text", "text": "Depress the accelerator pedal lightly."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q26",
+    "label": 26,
+    "question": "When driving down a slope, you should use",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "A lower gear."},
+      {"letter": "B", "type": "text", "text": "Higher gear."},
+      {"letter": "C", "type": "text", "text": "The neutral gear."}
+    ],
+    "marked": "A",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q27",
+    "label": 27,
+    "question": "When driving down a steep slope",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Accelerate lightly to maintain a steady speed."},
+      {"letter": "B", "type": "text", "text": "Change down to a lower gear to have better speed control."},
+      {"letter": "C", "type": "text", "text": "Engage the neutral gear and use the brakes to control the speed."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q28",
+    "label": 28,
+    "question": "When a motorcyclist tries to overtake you on the left, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Increase your speed to race the rider."},
+      {"letter": "B", "type": "text", "text": "Reduce your speed and assist the rider to overtake safely."},
+      {"letter": "C", "type": "text", "text": "Ignore the rider and continue driving at your normal speed."}
+    ],
+    "marked": "B",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q29",
+    "label": 29,
+    "question": "When reversing, good observation is important. You should look",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "At the kerb and the side."},
+      {"letter": "B", "type": "text", "text": "Ahead and at the side."},
+      {"letter": "C", "type": "text", "text": "Through the rear windscreen, where your car is going."}
+    ],
+    "marked": "C",
+    "notes": ""
+  },
+  {
+    "id": "FTT_E_P7_Q30",
+    "label": 30,
+    "question": "When you are about to reverse, you should",
+    "picture": null,
+    "options": [
+      {"letter": "A", "type": "text", "text": "Sound your horn to let others know that you are reversing your car."},
+      {"letter": "B", "type": "text", "text": "Turn your head to look out for objects or persons at the rear of your car."},
+      {"letter": "C", "type": "text", "text": "Look at the rear view mirror only."}
+    ],
+    "marked": "B",
+    "notes": ""
+  }
+]
